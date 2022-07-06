@@ -1,0 +1,3001 @@
+NormalisedCityPair;DepartureCode;ArrivalCode;Departure_lat;Departure_lon;Arrival_lat;Arrival_lon
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Johannesburg - London;JNB;LHR;-26.1;28.23;51.47;-0.45
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Johannesburg - London;JNB;LHR;-26.1;28.23;51.47;-0.45
+London - Singapore;SIN;LHR;1.3;103.98;51.47;-0.45
+London - New York;JFK;LCY;40.6;-73.79;51.5;0.05
+London - New York;LCY;JFK;51.5;0.05;40.64;-73.79
+London - Newark;EWR;LHR;40.7;-74.18;51.47;-0.45
+Bombay - London;LHR;BOM;51.5;-0.45;19.09;72.86
+Dubai - London;DXB;LHR;25.3;55.35;51.47;-0.45
+Delhi - London;DEL;LHR;28.7;77.26;51.47;-0.45
+New York - San Francisco;JFK;SFO;40.6;-73.79;37.61;-122.39
+London - Newark;EWR;LHR;40.7;-74.18;51.47;-0.45
+Hong Kong - London;LHR;HKG;51.5;-0.45;22.32;113.94
+Los Angeles - New York;JFK;LAX;40.6;-73.79;34.05;-118.24
+Cape Town - Johannesburg;JNB;CPT;-26.1;28.23;-33.97;18.59
+New York - Sao Paulo;JFK;GRU;40.6;-73.79;-23.42;-46.48
+London - Milan;LHR;LIN;51.5;-0.45;45.47;9.18
+London - Tokyo;LHR;NRT;51.5;-0.45;35.75;140.39
+Dubai - London;DXB;LHR;25.3;55.35;51.47;-0.45
+London - Moscow;DME;LHR;55.4;37.9;51.47;-0.45
+Newark - Singapore;EWR;SIN;40.7;-74.18;1.34;103.98
+London - Madras;LHR;MAA;51.5;-0.45;13.05;80.23
+Boston - London;LHR;BOS;51.5;-0.45;42.21;-71
+London - San Francisco;SFO;LHR;37.6;-122.39;51.47;-0.45
+London - Sao Paulo;LHR;GRU;51.5;-0.45;-23.42;-46.48
+London - Singapore;SIN;LHR;1.3;103.98;51.47;-0.45
+London - Madrid;LHR;MAD;51.5;-0.45;40.46;-3.58
+Hong Kong - New York;HKG;JFK;22.3;113.94;40.64;-73.79
+Chicago - New York;ORD;LGA;41.6;-98.93;40.77;-73.88
+Boston - New York;LGA;BOS;40.8;-73.88;42.21;-71
+London - Nairobi;NBO;LHR;-1.3;36.81;51.47;-0.45
+Johannesburg - Nairobi;JNB;NBO;-26.1;28.23;-1.28;36.81
+Glasgow - London;LCY;GLA;51.5;0.05;55.86;-4.43
+London - Madrid;MAD;LHR;40.5;-3.58;51.47;-0.45
+Cape Town - London;LHR;CPT;51.5;-0.45;-33.97;18.59
+Frankfurt - London;FRA;LCY;50.1;8.56;51.5;0.05
+Doha - London;LHR;DOH;51.5;-0.45;25.27;51.56
+London - Philadelphia;PHL;LHR;45.1;-89.01;51.47;-0.45
+Hong Kong - London;HKG;LHR;22.3;113.94;51.47;-0.45
+Frankfurt - London;LHR;FRA;51.5;-0.45;50.05;8.56
+Houston - New York;IAH;LGA;30;-95.34;40.77;-73.88
+Istanbul - London;IST;LHR;41;28.99;51.47;-0.45
+New York - Paris;JFK;CDG;40.6;-73.79;49.01;2.54
+London - Miami;MIA;LHR;33.4;-110.87;51.47;-0.45
+New York - Tokyo;JFK;NRT;40.6;-73.79;35.75;140.39
+London - Washington Dc;LHR;IAD;51.5;-0.45;38.96;-77.45
+London - Singapore;LHR;SIN;51.5;-0.45;1.34;103.98
+Lisbon - London;LHR;LIS;51.5;-0.45;38.77;-9.13
+Hong Kong - Singapore;SIN;HKG;1.3;103.98;22.32;113.94
+Houston - Newark;IAH;EWR;30;-95.34;40.69;-74.18
+Dallas - New York;LGA;DFW;40.8;-73.88;32.87;-97.04
+Newark - Toronto Island;YTZ;EWR;43.6;-79.4;40.69;-74.18
+Edinburgh - London;EDI;LCY;56;-3.34;51.5;0.05
+Chicago - London;LHR;ORD;51.5;-0.45;41.6;-98.93
+New York - Tokyo;NRT;JFK;35.8;140.39;40.64;-73.79
+Beijing - Hong Kong;HKG;PEK;22.3;113.94;40.07;116.58
+Hong Kong - Singapore;SIN;HKG;1.3;103.98;22.32;113.94
+Bombay - London;BOM;LHR;19.1;72.86;51.47;-0.45
+London - Stockholm;LHR;ARN;51.5;-0.45;60.74;15.85
+Glasgow - Madras;MAA;GLA;51.5;-0.45;55.86;-4.43
+Durban - Johannesburg;JNB;DUR;-26.1;28.23;-29.96;30.95
+Accra - London;LHR;ACC;51.5;-0.45;5.6;-0.17
+London - Tokyo;NRT;LHR;35.8;140.39;51.47;-0.45
+London - Tel Aviv;LHR;TLV;51.5;-0.45;32.01;34.89
+Accra - Johannesburg;JNB;ACC;-26.1;28.23;5.6;-0.17
+New York - Sao Paulo;GRU;JFK;-23.4;-46.48;40.64;-73.79
+Cairo - Johannesburg;JNB;CAI;-26.1;28.23;30.05;31.25
+Atlanta - New York;ATL;LGA;42.9;-83.53;40.77;-73.88
+Athens - London;ATH;LHR;37.9;23.72;51.47;-0.45
+Amsterdam - London;LCY;AMS;51.5;0.05;52.31;4.75
+Hong Kong - New York;HKG;JFK;22.3;113.94;40.64;-73.79
+London - Los Angeles;LAX;LHR;34.1;-118.24;51.47;-0.45
+Dallas - London;DFW;LHR;32.9;-97.04;51.47;-0.45
+Dubai - Johannesburg;JNB;DXB;-26.1;28.23;25.25;55.35
+London - Paris;ORY;LCY;48.7;2.37;51.5;0.05
+Dar Es Salaam - Mtwara;MYW;DAR;-10.3;40.18;-6.88;39.2
+Frankfurt - London;FRA;LCY;50.1;8.56;51.5;0.05
+Dar Es Salaam - Johannesburg;DAR;JNB;-6.9;39.2;-26.13;28.23
+Mexico City - New York;MEX;JFK;19.4;-99.16;40.64;-73.79
+Bombay - Singapore;SIN;BOM;1.3;103.98;19.09;72.86
+Amsterdam - London;LHR;AMS;51.5;-0.45;52.31;4.75
+Geneva - London;GVA;LHR;46.2;6.11;51.47;-0.45
+Bombay - Newark;BOM;EWR;19.1;72.86;40.69;-74.18
+New York - Toronto;LGA;YYZ;40.8;-73.88;43.68;-79.61
+Johannesburg - New York;JFK;JNB;51.5;-0.45;-26.13;28.23
+Beijing - London;LHR;PEK;51.5;-0.45;40.07;116.58
+London - Tokyo;LHR;HND;51.5;-0.45;35.55;139.75
+London - Madrid;LCY;MAD;51.5;0.05;40.46;-3.58
+Hong Kong - Singapore;SIN;HKG;1.3;103.98;22.32;113.94
+Copenhagen - London;CPH;LHR;55.6;12.64;51.47;-0.45
+Dar Es Salaam - Mwanza;MWZ;DAR;-2.5;32.93;-6.88;39.2
+London - Philadelphia;LHR;PHL;51.5;-0.45;45.05;-89.01
+Lagos - London;LHR;LOS;51.5;-0.45;6.58;3.32
+New York - Rio De Janeiro;GIG;JFK;-22.8;-43.24;40.64;-73.79
+Bombay - Manchester;BOM;MAN;25.3;55.35;53.37;0.1
+Minneapolis - New York;MSP;LGA;44.9;-93.2;40.77;-73.88
+London - Sydney;SYD;LHR;-33.9;151.23;51.47;-0.45
+Detroit - New York;LGA;DTW;40.8;-73.88;37.26;-107.75
+Hamburg - London;HAM;LHR;53.6;10.01;51.47;-0.45
+Bukoba - Mwanza;BKZ;MWZ;-1.3;31.81;-2.45;32.93
+London - Toronto;LHR;YYZ;51.5;-0.45;43.68;-79.61
+Bloemfontein - Johannesburg;BFN;JNB;-29.1;26.3;-26.13;28.23
+London - San Diego;SAN;LHR;40.6;-73.79;51.47;-0.45
+Hong Kong - Singapore;SIN;HKG;1.3;103.98;22.32;113.94
+Hong Kong - London;LHR;HKG;51.5;-0.45;22.32;113.94
+London - Zurich;LCY;ZRH;51.5;0.05;47.45;8.57
+Dubai - Johannesburg;DXB;JNB;25.3;55.35;-26.13;28.23
+Houston - London;IAH;LHR;30;-95.34;51.47;-0.45
+Geneva - London;LCY;GVA;51.5;0.05;46.23;6.11
+Houston - London;LHR;IAH;51.5;-0.45;29.98;-95.34
+Johannesburg - Singapore;JNB;SIN;-26.1;28.23;1.34;103.98
+Hong Kong - Seoul;ICN;HKG;37.5;126.66;22.32;113.94
+Dubai - Manchester;MAN;DXB;53.4;0.1;25.25;55.35
+Glasgow - London;GLA;LHR;55.9;-4.43;51.47;-0.45
+Singapore - Tokyo;SIN;HND;1.3;103.98;35.55;139.75
+Newark - San Francisco;EWR;SFO;40.7;-74.18;37.61;-122.39
+Newark - Singapore;EWR;SIN;40.7;-74.18;1.34;103.98
+Miami - New York;LGA;MIA;40.8;-73.88;33.4;-110.87
+Singapore - Tokyo;NRT;SIN;35.8;140.39;1.34;103.98
+Lisbon - Madrid;LIS;MAD;38.8;-9.13;40.46;-3.58
+Dubai - London;LGW;DXB;51.2;-0.16;25.25;55.35
+Bombay - Singapore;SIN;BOM;1.3;103.98;19.09;72.86
+London - Rome;FCO;LHR;41.9;12.5;51.47;-0.45
+Calgary - Newark;YYC;EWR;51.1;-114.01;40.69;-74.18
+Johannesburg - Port Elizabeth;JNB;PLZ;-26.1;28.23;-33.98;25.61
+Amsterdam - New York;JFK;AMS;40.6;-73.79;52.31;4.75
+Johannesburg - New York;JNB;JFK;-26.1;28.23;40.64;-73.79
+London - Munich;MUC;LHR;48.3;11.77;51.47;-0.45
+Doha - Dubai;DOH;DXB;25.3;51.56;25.25;55.35
+Cape Town - London;LHR;CPT;51.5;-0.45;-33.97;18.59
+London - Milan;LCY;LIN;51.5;0.05;45.47;9.18
+Chicago - London;LHR;ORD;51.5;-0.45;41.6;-98.93
+Hong Kong - Singapore;SIN;HKG;1.3;103.98;22.32;113.94
+Johannesburg - Mauritius;JNB;MRU;-26.1;28.23;-20.43;57.68
+Jersey-channel Islands - London;LGW;JER;51.2;-0.16;49.21;-2.19
+New York - Santiago;JFK;SCL;40.6;-73.79;-33.39;-70.79
+Johannesburg - Lusaka;JNB;LUN;-26.1;28.23;-15.33;28.45
+Johannesburg - Nairobi;NBO;JNB;-1.3;36.81;-26.13;28.23
+Isle Of Man - London;IOM;LGW;54.1;-4.63;51.16;-0.16
+Bombay - London;LHR;BOM;51.5;-0.45;19.09;72.86
+London - Riyadh;LHR;RUH;51.5;-0.45;24.94;46.71
+Las Vegas - New York;JFK;LAS;40.6;-73.79;32.02;-87.96
+London - Oslo;LHR;OSL;51.5;-0.45;59.91;10.75
+Madras - Manchester;MAN;MAA;25.3;55.35;13.05;80.23
+Accra - Johannesburg;ACC;JNB;5.6;-0.17;-26.13;28.23
+London - New York;JFK;LHR;40.6;-73.79;51.47;-0.45
+Lisbon - Madrid;LIS;MAD;38.8;-9.13;40.46;-3.58
+Dublin - London;DUB;LHR;53.3;-6.25;51.47;-0.45
+Kiev-borispol - London;KBP;LHR;50.4;30.55;51.47;-0.45
+London - Milan;LIN;LCY;45.5;9.18;51.5;0.05
+London - Tokyo;LHR;NRT;51.5;-0.45;35.75;140.39
+Rio De Janeiro - Sao Paulo;CGH;SDU;-23.6;-46.66;-22.91;-43.17
+London - Luxembourg;LCY;LUX;51.5;0.05;49.63;6.21
+Helsinki - London;LHR;HEL;51.5;-0.45;60.31;24.97
+New York - Washington Dc;LGA;DCA;40.8;-73.88;38.85;-77.04
+London - Melbourne;LHR;MEL;1.3;103.98;-37.67;144.85
+London - Zurich;LHR;ZRH;51.5;-0.45;47.45;8.57
+London - Singapore;SIN;LHR;1.3;103.98;51.47;-0.45
+Geneva - London;LHR;GVA;51.5;-0.45;46.23;6.11
+Frankfurt - New York;JFK;FRA;40.6;-73.79;50.05;8.56
+Cairo - London;LHR;CAI;51.5;-0.45;30.05;31.25
+Boston - London;BOS;LHR;42.2;-71;51.47;-0.45
+Singapore - Tokyo;SIN;HND;1.3;103.98;35.55;139.75
+Johannesburg - Maputo;JNB;MPM;-26.1;28.23;-25.92;32.57
+Milan - Rome;LIN;FCO;45.5;9.18;41.9;12.5
+London - Warsaw;LHR;WAW;51.5;-0.45;52.17;20.98
+Dubai - Madras;MAA;DXB;13.1;80.23;25.25;55.35
+Hong Kong - Singapore;HKG;SIN;22.3;113.94;1.34;103.98
+London - Nice;LHR;NCE;51.5;-0.45;43.67;7.21
+Geneva - London;GVA;LCY;46.2;6.11;51.5;0.05
+London - Lusaka;LHR;LUN;-1.3;36.81;-15.33;28.45
+Newark - Phoenix;EWR;PHX;40.7;-74.18;33.44;-112.03
+Johannesburg - Manchester;JNB;MAN;25.3;55.35;53.37;0.1
+Edinburgh - London;LHR;EDI;51.5;-0.45;55.96;-3.34
+Hong Kong - Shanghai;PVG;HKG;31.1;121.8;22.32;113.94
+Abu Dhabi - London;AUH;LHR;25.3;51.56;51.47;-0.45
+London - Vienna;LHR;VIE;51.5;-0.45;48.2;16.37
+Delhi - Dubai;DXB;DEL;25.3;55.35;28.66;77.26
+Los Angeles - San Francisco;SFO;LAX;37.6;-122.39;34.05;-118.24
+Beijing - Hong Kong;HKG;PEK;22.3;113.94;40.07;116.58
+Dar Es Salaam - London;LHR;DAR;51.5;-0.45;-6.88;39.2
+London - Zurich;ZRH;LCY;47.5;8.57;51.5;0.05
+Denver - London;LHR;DEN;51.5;-0.45;39.77;-104.86
+London - Seattle;LHR;SEA;51.5;-0.45;39.9;-75.59
+Dublin - London;LCY;DUB;51.5;0.05;53.34;-6.25
+Dubai - Mahe Island;DXB;SEZ;25.3;55.35;-4.68;55.52
+Sydney - Tokyo;NRT;SYD;35.8;140.39;-33.92;151.23
+London - Mexico City;LHR;MEX;51.5;-0.45;19.43;-99.16
+New York - Paris;CDG;JFK;49;2.54;40.64;-73.79
+Hong Kong - Taipei;HKG;TPE;22.3;113.94;25.08;121.24
+London - Moscow;SVO;LHR;56;37.42;51.47;-0.45
+Madrid - New York;JFK;MAD;40.6;-73.79;40.46;-3.58
+Johannesburg - London;JNB;LHR;-26.1;28.23;51.47;-0.45
+Bombay - Singapore;BOM;SIN;19.1;72.86;1.34;103.98
+Los Angeles - Newark;EWR;LAX;40.7;-74.18;34.05;-118.24
+Dallas - Newark;DFW;EWR;32.9;-97.04;40.69;-74.18
+Manchester - Manila;MAN;MNL;25.3;55.35;14.51;121.02
+London - Stockholm;ARN;LCY;60.7;15.85;51.5;0.05
+Hong Kong - Tokyo;HKG;HND;22.3;113.94;35.55;139.75
+Bombay - New York;BOM;JFK;51.5;-0.45;40.64;-73.79
+Singapore - Tokyo;NRT;SIN;35.8;140.39;1.34;103.98
+Manchester - Singapore;SIN;MAN;1.3;103.98;53.37;0.1
+Boston - San Francisco;BOS;SFO;42.2;-71;37.61;-122.39
+Chicago - Newark;EWR;ORD;40.7;-74.18;41.6;-98.93
+London - Paris;CDG;LHR;49;2.54;51.47;-0.45
+Entebbe/kampala - London;EBB;LHR;-1.3;36.81;51.47;-0.45
+Nice - Paris;ORY;NCE;48.7;2.37;43.67;7.21
+Singapore - Sydney;SIN;SYD;1.3;103.98;-33.92;151.23
+Hong Kong - New York;HKG;JFK;22.3;113.94;40.64;-73.79
+London - San Francisco;SFO;LHR;37.6;-122.39;51.47;-0.45
+Dusseldorf - London;LHR;DUS;51.5;-0.45;51.28;6.78
+Dar Es Salaam - Kilimanjaro;DAR;JRO;-6.9;39.2;-3.43;37.07
+Dubai - Glasgow;DXB;GLA;25.3;55.35;55.86;-4.43
+Frankfurt - Hamburg;FRA;HAM;50.1;8.56;53.64;10.01
+Newark - Singapore;SIN;EWR;1.3;103.98;40.69;-74.18
+Lima - New York;LIM;JFK;-12;-77.11;40.64;-73.79
+Denver - New York;DEN;LGA;39.8;-104.86;40.77;-73.88
+London - Rotterdam;RTM;LCY;52;4.43;51.5;0.05
+Hong Kong - Tokyo;HND;HKG;35.6;139.75;22.32;113.94
+Gaborone - Johannesburg;GBE;JNB;-24.6;25.93;-26.13;28.23
+Entebbe/kampala - Johannesburg;JNB;EBB;-26.1;28.23;0.04;32.44
+New York - Singapore;SIN;JFK;25.3;55.35;40.64;-73.79
+Bombay - Johannesburg;JNB;BOM;-26.1;28.23;19.09;72.86
+Frankfurt - Munich;FRA;MUC;50.1;8.56;48.34;11.77
+Frankfurt - Johannesburg;JNB;FRA;-26.1;28.23;50.05;8.56
+Las Vegas - Newark;EWR;LAS;40.7;-74.18;32.02;-87.96
+Dubai - London;DXB;LGW;25.3;55.35;51.16;-0.16
+Bombay - Delhi;DEL;BOM;28.7;77.26;19.09;72.86
+Geneva - Newark;GVA;EWR;46.2;6.11;40.69;-74.18
+Milan - New York;MXP;JFK;45.5;9.18;40.64;-73.79
+Dubai - Geneva;DXB;GVA;25.3;55.35;46.23;6.11
+Isle Of Man - London;IOM;LCY;54.1;-4.63;51.5;0.05
+Hong Kong - Jakarta;HKG;CGK;22.3;113.94;-6.13;106.66
+Cairo - Johannesburg;JNB;CAI;25.3;55.35;30.05;31.25
+Johannesburg - Paris;JNB;CDG;-26.1;28.23;49.01;2.54
+London - Manchester;MAN;LHR;53.4;0.1;51.47;-0.45
+Arusha - Dar Es Salaam;DAR;ARK;-6.9;39.2;-3.37;36.67
+London - Sao Paulo;GRU;LHR;-23.4;-46.48;51.47;-0.45
+London - Sao Paulo;GRU;LHR;-23.4;-46.48;51.47;-0.45
+Madras - Singapore;SIN;MAA;1.3;103.98;13.05;80.23
+Bombay - Dubai;BOM;DXB;19.1;72.86;25.25;55.35
+London - Vancouver;LHR;YVR;51.5;-0.45;49.19;-123.17
+Frankfurt - Riyadh;FRA;RUH;50.1;8.56;24.94;46.71
+Delhi - Dubai;DXB;DEL;25.3;55.35;28.66;77.26
+London - Miami;LHR;MIA;51.5;-0.45;33.4;-110.87
+Bahrain - London;LHR;BAH;51.5;-0.45;26.27;50.63
+Bombay - Singapore;BOM;SIN;19.1;72.86;1.34;103.98
+Philadelphia - San Francisco;PHL;SFO;45.1;-89.01;37.61;-122.39
+London - Shanghai;PVG;LHR;31.1;121.8;51.47;-0.45
+Berlin - Frankfurt;FRA;TXL;50.1;8.56;52.55;13.29
+Bombay - Singapore;BOM;SIN;19.1;72.86;1.34;103.98
+Lisbon - London;LHR;LIS;51.5;-0.45;38.77;-9.13
+Boston - New York;BOS;LGA;42.2;-71;40.77;-73.88
+Montreal - New York;LGA;YUL;40.8;-73.88;45.46;-73.75
+Hong Kong - Sydney;SYD;HKG;-33.9;151.23;22.32;113.94
+Singapore - Tokyo;SIN;HND;1.3;103.98;35.55;139.75
+Hong Kong - Tokyo;HND;HKG;35.6;139.75;22.32;113.94
+Barcelona - London;BCN;LHR;41.3;2.08;51.47;-0.45
+Denver - Newark;EWR;DEN;40.7;-74.18;39.77;-104.86
+London - Washington Dc;IAD;LHR;39;-77.45;51.47;-0.45
+New York - Zurich;ZRH;JFK;47.5;8.57;40.64;-73.79
+Singapore - Tokyo;NRT;SIN;35.8;140.39;1.34;103.98
+Singapore - Sydney;SIN;SYD;1.3;103.98;-33.92;151.23
+Singapore - Tokyo;HND;SIN;35.6;139.75;1.34;103.98
+Hong Kong - Johannesburg;JNB;HKG;-26.1;28.23;22.32;113.94
+Dubai - Singapore;SIN;DXB;1.3;103.98;25.25;55.35
+London - Rio De Janeiro;GIG;LHR;-22.8;-43.24;51.47;-0.45
+Las Vegas - London;LAS;LHR;32;-87.96;51.47;-0.45
+Newark - Seattle;EWR;SEA;40.7;-74.18;39.9;-75.59
+New York - San Diego;SAN;JFK;32.7;-102.18;40.64;-73.79
+London - Madras;MAA;LGW;25.3;55.35;51.16;-0.16
+Singapore - Tokyo;SIN;HND;1.3;103.98;35.55;139.75
+Hong Kong - Newark;EWR;HKG;40.7;-74.18;22.32;113.94
+Singapore - Tokyo;SIN;HND;1.3;103.98;35.55;139.75
+Frankfurt - London;FRA;LHR;50.1;8.56;51.47;-0.45
+London - Mauritius;MRU;LGW;-20.4;57.68;51.16;-0.16
+London - Phoenix;LHR;PHX;51.5;-0.45;33.44;-112.03
+Johannesburg - Lagos;JNB;LOS;-26.1;28.23;6.58;3.32
+Newark - Santa Ana;EWR;SNA;40.7;-74.18;37.41;-86.16
+Austin - Newark;EWR;AUS;40.7;-74.18;30.2;-97.67
+Frankfurt - Newark;EWR;FRA;40.7;-74.18;50.05;8.56
+Berlin - London;LHR;TXL;51.5;-0.45;52.55;13.29
+London - Paris;ORY;LCY;48.7;2.37;51.5;0.05
+Melbourne - Sydney;MEL;SYD;-37.7;144.85;-33.92;151.23
+Cairo - Dubai;DXB;CAI;25.3;55.35;30.05;31.25
+Hong Kong - Tokyo;HND;HKG;35.6;139.75;22.32;113.94
+Memphis - New York;LGA;MEM;40.8;-73.88;33.13;-88.31
+Seoul - Singapore;ICN;SIN;37.5;126.66;1.34;103.98
+Bangkok - London;BKK;LHR;13.7;100.77;51.47;-0.45
+Birmingham - Madras;BHX;MAA;25.3;55.35;13.05;80.23
+Mexico City - Sao Paulo;MEX;GRU;19.4;-99.16;-23.42;-46.48
+London - Prague;PRG;LHR;50.1;14.43;51.47;-0.45
+Cape Town - Lanseria;HLA;CPT;-25.9;27.92;-33.97;18.59
+Dallas - London;LHR;DFW;51.5;-0.45;32.87;-97.04
+Newark - Tokyo;NRT;EWR;35.8;140.39;40.69;-74.18
+Atlanta - Newark;EWR;ATL;40.7;-74.18;42.94;-83.53
+Johannesburg - Washington Dc;IAD;JNB;39;-77.45;-26.13;28.23
+Guernsey -channel Isl. - London;LGW;GCI;51.2;-0.16;49.43;-2.6
+Harare - Johannesburg;JNB;HRE;-26.1;28.23;-17.92;31.1
+London - Sydney;LHR;SYD;51.5;-0.45;-33.92;151.23
+London - Luxembourg;LCY;LUX;51.5;0.05;49.63;6.21
+Newark - Tel Aviv;EWR;TLV;40.7;-74.18;32.01;34.89
+Jakarta-soekarno - Singapore;SIN;CGK;1.3;103.98;-6.13;106.66
+Cairo - Dubai;DXB;CAI;25.3;55.35;30.05;31.25
+Bombay - Singapore;SIN;BOM;1.3;103.98;19.09;72.86
+Glasgow - London;GLA;LGW;55.9;-4.43;51.16;-0.16
+Delhi - London;DEL;LHR;28.7;77.26;51.47;-0.45
+Bombay - London;LHR;BOM;51.5;-0.45;19.09;72.86
+Hong Kong - San Francisco;SFO;HKG;37.6;-122.39;22.32;113.94
+New York - Tokyo;NRT;JFK;35.8;140.39;40.64;-73.79
+London - Milan;LIN;LHR;45.5;9.18;51.47;-0.45
+Dar Es Salaam - Johannesburg;DAR;JNB;-6.9;39.2;-26.13;28.23
+New York - Phoenix;JFK;PHX;40.6;-73.79;33.44;-112.03
+Hamburg - London;HAM;LHR;53.6;10.01;51.47;-0.45
+Kansas City - New York;LGA;MCI;40.8;-73.88;39.3;-94.72
+Glasgow - Isle Of Man;IOM;GLA;54.1;-4.63;55.86;-4.43
+Hong Kong - Tokyo;NRT;HKG;35.8;140.39;22.32;113.94
+New York - Raleigh/durham;RDU;LGA;35.9;-78.79;40.77;-73.88
+Singapore - Sydney;SIN;SYD;1.3;103.98;-33.92;151.23
+New York - Seattle;JFK;SEA;40.6;-73.79;39.9;-75.59
+Hong Kong - Tokyo;HKG;NRT;22.3;113.94;35.75;140.39
+Bombay - Dubai;DXB;BOM;25.3;55.35;19.09;72.86
+Doha - Dubai;DXB;DOH;25.3;55.35;25.27;51.56
+Hong Kong - Seoul;HKG;ICN;22.3;113.94;37.45;126.66
+Dubai - Mauritius;DXB;MRU;25.3;55.35;-20.43;57.68
+Larnaca - London;LHR;LCA;51.5;-0.45;34.88;33.63
+Mexico City - Newark;EWR;MEX;40.7;-74.18;19.43;-99.16
+Delhi - Dubai;DEL;DXB;28.7;77.26;25.25;55.35
+Buenos Aires - New York;JFK;EZE;40.6;-73.79;-34.81;-58.54
+Frankfurt - Vienna;VIE;FRA;48.2;16.37;50.05;8.56
+Mexico City - Sao Paulo;GRU;MEX;-23.4;-46.48;19.43;-99.16
+Hong Kong - Tokyo;HKG;HND;22.3;113.94;35.55;139.75
+Newark - San Diego;EWR;SAN;40.7;-74.18;32.7;-102.18
+Cairo - Dubai;DXB;CAI;25.3;55.35;30.05;31.25
+Cairo - Mauritius;CAI;MRU;-26.1;28.23;-20.43;57.68
+Amsterdam - London;AMS;LCY;52.3;4.75;51.5;0.05
+Delhi - Singapore;SIN;DEL;1.3;103.98;28.66;77.26
+Cairo - London;CAI;LHR;30.1;31.25;51.47;-0.45
+Newark - Toronto;EWR;YYZ;40.7;-74.18;43.68;-79.61
+Hong Kong - London;HKG;LHR;22.3;113.94;51.47;-0.45
+Cape Town - Port Elizabeth;CPT;PLZ;-34;18.59;-33.98;25.61
+Hong Kong - Tokyo;HKG;HND;22.3;113.94;35.55;139.75
+New York - Seoul;ICN;JFK;37.5;126.66;40.64;-73.79
+Delhi - Newark;EWR;DEL;51.5;-0.45;28.66;77.26
+Singapore - Tokyo;SIN;NRT;1.3;103.98;35.75;140.39
+Toronto - Vancouver;YYZ;YVR;43.7;-79.61;49.19;-123.17
+Isle Of Man - Manchester;IOM;MAN;54.1;-4.63;53.37;0.1
+Cleveland - New York;LGA;CLE;40.8;-73.88;45.46;-120.2
+Delhi - Dubai;DEL;DXB;28.7;77.26;25.25;55.35
+London - Moscow;DME;LHR;55.4;37.9;51.47;-0.45
+Hong Kong - San Francisco;SFO;HKG;37.6;-122.39;22.32;113.94
+Hong Kong - New York;HKG;JFK;22.3;113.94;40.64;-73.79
+Delhi - Madras;MAA;DEL;13.1;80.23;28.66;77.26
+Cape Town - Johannesburg;CPT;JNB;-34;18.59;-26.13;28.23
+Frankfurt - Zurich;ZRH;FRA;47.5;8.57;50.05;8.56
+Alma Ata - London;ALA;LHR;43.4;77.03;51.47;-0.45
+Rio De Janeiro - Sao Paulo;CGH;SDU;-23.6;-46.66;-22.91;-43.17
+Calgary - Toronto;YYC;YYZ;51.1;-114.01;43.68;-79.61
+Johannesburg - Zurich;ZRH;JNB;47.5;8.57;-26.13;28.23
+Jersey-channel Islands - London;LCY;JER;51.5;0.05;49.21;-2.19
+Delhi - London;LHR;DEL;51.5;-0.45;28.66;77.26
+Brussels - London;LHR;BRU;51.5;-0.45;50.89;4.48
+Charlotte - New York;CLT;LGA;35.2;-80.95;40.77;-73.88
+Delhi - Manchester;MAN;DEL;51.5;-0.45;28.66;77.26
+Frankfurt - Zurich;ZRH;FRA;47.5;8.57;50.05;8.56
+Hong Kong - Tokyo;NRT;HKG;35.8;140.39;22.32;113.94
+Guernsey -channel Isl. - Jersey;GCI;JER;49.4;-2.6;49.21;-2.19
+London - Mauritius;LHR;MRU;51.5;-0.45;-20.43;57.68
+Buenos Aires - London;LHR;EZE;51.5;-0.45;-34.81;-58.54
+Bombay - London;LGW;BOM;25.3;55.35;19.09;72.86
+Hong Kong - Sydney;SYD;HKG;-33.9;151.23;22.32;113.94
+Boston - Tokyo;NRT;BOS;35.8;140.39;42.21;-71
+Glasgow - Newark;EWR;GLA;40.7;-74.18;55.86;-4.43
+Madras - Singapore;SIN;MAA;1.3;103.98;13.05;80.23
+Atlanta - London;LHR;ATL;51.5;-0.45;42.94;-83.53
+New York - Tokyo;HND;JFK;35.6;139.75;40.64;-73.79
+Dubai - Madrid;DXB;MAD;51.5;-0.45;40.46;-3.58
+London - Manila;MNL;LHR;1.3;103.98;51.47;-0.45
+Beijing - Hong Kong;PEK;HKG;40.1;116.58;22.32;113.94
+Beirut - London;BEY;LHR;33.8;35.49;51.47;-0.45
+Jakarta-soekarno - Singapore;CGK;SIN;-6.1;106.66;1.34;103.98
+London - Orlando;LGW;MCO;51.2;-0.16;28.44;-81.31
+Newark - Zurich;ZRH;EWR;47.5;8.57;40.69;-74.18
+Brussels - New York;JFK;BRU;40.6;-73.79;50.89;4.48
+Minneapolis - Newark;EWR;MSP;40.7;-74.18;44.88;-93.2
+Madras - New York;JFK;MAA;40.6;-73.79;13.05;80.23
+Bangalore - London;LHR;BLR;51.5;-0.45;12.8;77.65
+New York - Pittsburgh;LGA;PIT;40.8;-73.88;48.72;-94.74
+Buenos Aires - Miami;EZE;MIA;-34.8;-58.54;33.4;-110.87
+Bogota - New York;BOG;JFK;4.7;-74.14;40.64;-73.79
+Frankfurt - Singapore;FRA;SIN;50.1;8.56;1.34;103.98
+Cape Town - Durban;DUR;CPT;-30;30.95;-33.97;18.59
+Lima - New York;LIM;JFK;-12;-77.11;40.64;-73.79
+New York - Sydney;JFK;SYD;34.1;-118.24;-33.92;151.23
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Beijing - Hong Kong;HKG;PEK;22.3;113.94;40.07;116.58
+Chicago - San Francisco;ORD;SFO;41.6;-98.93;37.61;-122.39
+San Francisco - Tokyo;HND;SFO;35.6;139.75;37.61;-122.39
+Indianapolis - New York;IND;LGA;39.7;-86.3;40.77;-73.88
+Frankfurt - Tokyo;FRA;NRT;50.1;8.56;35.75;140.39
+New York - St. Louis;STL;LGA;38.7;-90.36;40.77;-73.88
+Bilbao - Madrid;MAD;BIO;40.5;-3.58;43.31;-2.91
+Karachi - London;LHR;KHI;25.3;55.35;24.9;67.15
+Jeddah - London;JED;LHR;21.7;39.15;51.47;-0.45
+Glasgow - Southampton;GLA;SOU;55.9;-4.43;50.95;-1.36
+Beijing - Newark;PEK;EWR;40.1;116.58;40.69;-74.18
+Bombay - Delhi;BOM;DEL;19.1;72.86;28.66;77.26
+Bermuda - London;LGW;BDA;51.2;-0.16;32.37;-64.69
+Birmingham - Hamburg;BHX;HAM;52.5;-1.73;53.64;10.01
+London - Nairobi;NBO;LHR;-1.3;36.81;51.47;-0.45
+Dubai - Johannesburg;JNB;DXB;-26.1;28.23;25.25;55.35
+Delhi - Singapore;DEL;SIN;28.7;77.26;1.34;103.98
+Glasgow - Singapore;SIN;GLA;51.5;-0.45;55.86;-4.43
+Perth - Sydney;SYD;PER;-33.9;151.23;-31.94;115.97
+Dallas - Houston;HOU;DAL;29.6;-90.72;36.72;-84.09
+London - Seoul;ICN;LHR;37.5;126.66;51.47;-0.45
+Birmingham - Glasgow;GLA;BHX;55.9;-4.43;52.45;-1.73
+Dubai - Singapore;DXB;SIN;25.3;55.35;1.34;103.98
+Singapore - Sydney;SYD;SIN;-33.9;151.23;1.34;103.98
+Bombay - Hong Kong;HKG;BOM;22.3;113.94;19.09;72.86
+Dubai - New York;JFK;DXB;40.6;-73.79;25.25;55.35
+Hong Kong - Kuala Lumpur;HKG;KUL;22.3;113.94;2.76;101.71
+Gaborone - Johannesburg;GBE;JNB;-24.6;25.93;-26.13;28.23
+Doha - London;DOH;LHR;25.3;51.56;51.47;-0.45
+London - Toronto;YYZ;LHR;43.7;-79.61;51.47;-0.45
+Nashville - New York;LGA;BNA;40.8;-73.88;36.13;-86.67
+London - Osaka;KIX;LHR;41.9;12.5;51.47;-0.45
+Jakarta-soekarno - Singapore;CGK;SIN;-6.1;106.66;1.34;103.98
+New York - Tel Aviv;JFK;TLV;40.6;-73.79;32.01;34.89
+Paris - Toulouse;TLS;ORY;43.6;1.38;48.73;2.37
+Birmingham - Dubai;BHX;DXB;52.5;-1.73;25.25;55.35
+Hamburg - Manchester;MAN;HAM;53.4;0.1;53.64;10.01
+London - Munich;LCY;MUC;51.5;0.05;48.34;11.77
+Seoul - Singapore;SIN;ICN;1.3;103.98;37.45;126.66
+Columbus - New York;LGA;CMH;40.8;-73.88;40;-82.89
+Hong Kong - Seoul;ICN;HKG;37.5;126.66;22.32;113.94
+Johannesburg - New York;JFK;JNB;40.6;-73.79;-26.13;28.23
+London - Tselinograd;LHR;TSE;50.1;8.56;51.03;71.48
+Dubai - Manchester;MAN;DXB;53.4;0.1;25.25;55.35
+Dubai - Riyadh;DXB;RUH;25.3;55.35;24.94;46.71
+New York - Tokyo;NRT;JFK;35.8;140.39;40.64;-73.79
+Newark - Shanghai;EWR;PVG;40.7;-74.18;31.12;121.8
+Geneva - Zurich;ZRH;GVA;47.5;8.57;46.23;6.11
+Isle Of Man - Jersey;IOM;JER;53.4;0.1;49.21;-2.19
+Hong Kong - Seoul;HKG;ICN;22.3;113.94;37.45;126.66
+New York - San Francisco;SFO;JFK;37.6;-122.39;40.64;-73.79
+London - Tokyo;LHR;HND;51.5;-0.45;35.55;139.75
+Madrid - Madrid;MAD;MAD;51.5;-0.45;40.46;-3.58
+Geneva - New York;JFK;GVA;40.6;-73.79;46.23;6.11
+Cincinnati - New York;LGA;CVG;40.8;-73.88;39.06;-84.66
+Geneva - Sao Paulo;GVA;GRU;49;2.54;-23.42;-46.48
+Abuja - London;LHR;ABV;51.5;-0.45;9.01;7.27
+Ankara-esenboga - Istanbul;IST;ESB;41;28.99;40.11;32.99
+Dubai - Manchester;MAN;DXB;53.4;0.1;25.25;55.35
+London - Moscow;LHR;SVO;51.5;-0.45;55.96;37.42
+Dubai - Kuwait;DXB;KWI;25.3;55.35;29.25;47.97
+Bangkok - Singapore;SIN;BKK;1.3;103.98;13.71;100.77
+Johannesburg - Sydney;JNB;SYD;-26.1;28.23;-33.92;151.23
+Hanover - London;LHR;HAJ;51.5;-0.45;52.46;9.7
+Delhi - Poona;DEL;PNQ;28.7;77.26;18.58;73.91
+Casablanca-mohamed V. - London;LHR;CMN;51.5;-0.45;33.37;-7.58
+Hong Kong - Shanghai;HKG;PVG;22.3;113.94;31.12;121.8
+Bangkok - Hong Kong;HKG;BKK;22.3;113.94;13.71;100.77
+London - Riyadh;RUH;LHR;24.9;46.71;51.47;-0.45
+New York - Paris;JFK;CDG;40.6;-73.79;49.01;2.54
+Johannesburg - Mauritius;MRU;JNB;-20.4;57.68;-26.13;28.23
+Dublin - New York;DUB;JFK;53.3;-6.25;40.64;-73.79
+New York - Zurich;ZRH;JFK;47.5;8.57;40.64;-73.79
+Boston - New York;JFK;BOS;40.6;-73.79;42.21;-71
+Manchester - Southampton;SOU;MAN;51;-1.36;53.37;0.1
+Dubai - Geneva;GVA;DXB;46.2;6.11;25.25;55.35
+New York - Zurich;ZRH;JFK;47.5;8.57;40.64;-73.79
+Beirut - Geneva;GVA;BEY;46.2;6.11;33.82;35.49
+Bombay - Dubai;BOM;DXB;19.1;72.86;25.25;55.35
+Munich - Newark;MUC;EWR;48.3;11.77;40.69;-74.18
+Milan - Rome;LIN;FCO;45.5;9.18;41.9;12.5
+London - Los Angeles;LAX;LHR;34.1;-118.24;51.47;-0.45
+Hong Kong - Sydney;SYD;HKG;-33.9;151.23;22.32;113.94
+Milwaukee - New York;LGA;MKE;40.8;-73.88;42.95;-87.91
+Hong Kong - Taipei;HKG;TPE;22.3;113.94;25.08;121.24
+Copenhagen - Stockholm;CPH;ARN;55.6;12.64;60.74;15.85
+Manchester - Philadelphia;MAN;PHL;53.4;0.1;45.05;-89.01
+Montreal - Toronto Island;YUL;YTZ;45.5;-73.75;43.63;-79.4
+Madrid - Milan;MAD;MIL;40.5;-3.58;37.72;15.12
+Frankfurt - Singapore;FRA;SIN;50.1;8.56;1.34;103.98
+Grand Cayman - London;GCM;LHR;19.3;-81.36;51.47;-0.45
+Beirut - Dubai;DXB;BEY;25.3;55.35;33.82;35.49
+New York - Prague;JFK;PRG;40.6;-73.79;50.08;14.43
+Accra - Nairobi;ACC;NBO;5.6;-0.17;-1.28;36.81
+Dubai - Karachi;KHI;DXB;24.9;67.15;25.25;55.35
+Melbourne - Sydney;SYD;MEL;-33.9;151.23;-37.67;144.85
+Addis Ababa - Nairobi;NBO;ADD;-1.3;36.81;8.98;38.8
+Newark - Sao Paulo;GRU;EWR;-23.4;-46.48;40.69;-74.18
+Ft. Lauderdale - New York;FLL;LGA;26.1;-80.13;40.77;-73.88
+Gaborone - Johannesburg;JNB;GBE;-26.1;28.23;-24.56;25.93
+Johannesburg - Singapore;SIN;JNB;1.3;103.98;-26.13;28.23
+Boston - Los Angeles;BOS;LAX;42.2;-71;34.05;-118.24
+Calgary - Houston;YYC;IAH;51.1;-114.01;29.98;-95.34
+Detroit - Newark;DTW;EWR;37.3;-107.75;40.69;-74.18
+London - Nairobi;NBO;LHR;-1.3;36.81;51.47;-0.45
+Gaborone - London;GBE;LON;-26.1;28.23;51.47;-0.45
+Barcelona - New York;BCN;JFK;41.3;2.08;40.64;-73.79
+London - Luxembourg;LHR;LUX;51.5;-0.45;49.63;6.21
+Boston - Newark;EWR;BOS;40.7;-74.18;42.21;-71
+Atlanta - Johannesburg;ATL;JNB;42.9;-83.53;-26.13;28.23
+Shanghai - Singapore;SIN;PVG;1.3;103.98;31.12;121.8
+Manchester - New York;MAN;JFK;51.5;-0.45;40.64;-73.79
+New York - San Francisco;SFO;JFK;37.6;-122.39;40.64;-73.79
+Perth - Sydney;SYD;PER;-33.9;151.23;-31.94;115.97
+Miami - Sao Paulo;GRU;MIA;-23.4;-46.48;33.4;-110.87
+Singapore - Tokyo;NRT;SIN;35.8;140.39;1.34;103.98
+Madras - Singapore;MAA;SIN;13.1;80.23;1.34;103.98
+Shanghai - Singapore;SIN;PVG;1.3;103.98;31.12;121.8
+Frankfurt - New York;FRA;JFK;50.1;8.56;40.64;-73.79
+London - Madrid;LGW;MAD;51.2;-0.16;40.46;-3.58
+London - Venice;VCE;LGW;45.4;12.32;51.16;-0.16
+Hong Kong - Singapore;HKG;SIN;22.3;113.94;1.34;103.98
+Bombay - Hong Kong;BOM;HKG;19.1;72.86;22.32;113.94
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Bloemfontein - Cape Town;BFN;CPT;-29.1;26.3;-33.97;18.59
+Bombay - Hong Kong;BOM;HKG;19.1;72.86;22.32;113.94
+Dubai - London;LHR;DXB;51.5;-0.45;25.25;55.35
+Dubai - Singapore;SIN;DXB;1.3;103.98;25.25;55.35
+Kuala Lumpur - London;LHR;KUL;1.3;103.98;2.76;101.71
+New York - Salt Lake City;JFK;SLC;40.6;-73.79;40.76;-111.89
+Melbourne - Sydney;MEL;SYD;-37.7;144.85;-33.92;151.23
+Bombay - Dubai;BOM;DXB;19.1;72.86;25.25;55.35
+Caracas - New York;JFK;CCS;18.4;-66.01;10.61;-66.99
+Geneva - Zurich;ZRH;GVA;47.5;8.57;46.23;6.11
+Beijing - Chicago;PEK;ORD;40.1;116.58;41.6;-98.93
+Kuwait - London;LHR;KWI;51.5;-0.45;29.25;47.97
+San Francisco - Seattle;SFO;SEA;37.6;-122.39;39.9;-75.59
+Miami - New York;MIA;JFK;33.4;-110.87;40.64;-73.79
+Delhi - Glasgow;DEL;GLA;51.5;-0.45;55.86;-4.43
+Newark - Stockholm;EWR;ARN;40.7;-74.18;60.74;15.85
+Copenhagen - London;CPH;LCY;55.6;12.64;51.5;0.05
+Birmingham - New York;BHM;LGA;33.6;-86.75;40.77;-73.88
+Hong Kong - Sydney;HKG;SYD;22.3;113.94;-33.92;151.23
+Miami - Newark;MIA;EWR;33.4;-110.87;40.69;-74.18
+Melbourne - Sydney;SYD;MEL;-33.9;151.23;-37.67;144.85
+Singapore - Taipei;TPE;SIN;25.1;121.24;1.34;103.98
+Dusseldorf - Newark;EWR;DUS;40.7;-74.18;51.28;6.78
+Dallas - Manchester;MAN;DFW;51.5;-0.45;32.87;-97.04
+Lisbon - Madrid;MAD;LIS;40.5;-3.58;38.77;-9.13
+New York - Singapore;SIN;JFK;1.3;103.98;40.64;-73.79
+Dar Es Salaam - Nairobi;DAR;NBO;-6.9;39.2;-1.28;36.81
+Melbourne - Sydney;MEL;SYD;-37.7;144.85;-33.92;151.23
+London - Mexico City;LHR;MEX;52.3;4.75;19.43;-99.16
+Beijing - Johannesburg;JNB;PEK;-26.1;28.23;40.07;116.58
+London - Washington Dc;IAD;LHR;39;-77.45;51.47;-0.45
+Dubai - Nairobi;DXB;NBO;25.3;55.35;-1.28;36.81
+Alma Ata - Frankfurt;FRA;ALA;50.1;8.56;43.36;77.03
+Hamburg - Singapore;SIN;HAM;50.1;8.56;53.64;10.01
+Manchester - New York;JFK;MAN;40.6;-73.79;53.37;0.1
+Dubai - New York;DXB;JFK;25.3;55.35;40.64;-73.79
+Manchester - Singapore;SIN;MAN;1.3;103.98;53.37;0.1
+Dubai - Hong Kong;DXB;HKG;25.3;55.35;22.32;113.94
+Ankara-esenboga - London;ESB;LHR;41;28.99;51.47;-0.45
+Seoul - Singapore;SIN;ICN;1.3;103.98;37.45;126.66
+Johannesburg - Nairobi;NBO;JNB;-1.3;36.81;-26.13;28.23
+Gibraltar - London;LHR;GIB;51.5;-0.45;36.13;-5.35
+Johannesburg - Singapore;SIN;JNB;1.3;103.98;-26.13;28.23
+Hong Kong - Taipei;TPE;HKG;25.1;121.24;22.32;113.94
+Abu Dhabi - New York;JFK;AUH;40.6;-73.79;24.42;54.64
+Munich - New York;JFK;MUC;40.6;-73.79;48.34;11.77
+Dubai - Manila;MNL;DXB;14.5;121.02;25.25;55.35
+Bombay - Johannesburg;JNB;BOM;25.3;55.35;19.09;72.86
+Frankfurt - Hong Kong;HKG;FRA;22.3;113.94;50.05;8.56
+Jakarta-soekarno - Singapore;CGK;SIN;-6.1;106.66;1.34;103.98
+Dubai - Madras;DXB;MAA;25.3;55.35;13.05;80.23
+New York - West Palm Beach;LGA;PBI;40.8;-73.88;26.69;-80.09
+Bangkok - Singapore;SIN;BKK;1.3;103.98;13.71;100.77
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Delhi - Madras;DEL;MAA;28.7;77.26;13.05;80.23
+Birmingham - Edinburgh;EDI;BHX;56;-3.34;52.45;-1.73
+Austin - New York;AUS;JFK;30.2;-97.67;40.64;-73.79
+Bombay - Poona;PNQ;BOM;18.6;73.91;19.09;72.86
+New York - Toronto;YYZ;LGA;43.7;-79.61;40.77;-73.88
+Johannesburg - Lusaka;JNB;LUN;-26.1;28.23;-15.33;28.45
+Frankfurt - Tselinograd;FRA;TSE;50.1;8.56;51.03;71.48
+San Francisco - Shanghai;PVG;SFO;31.1;121.8;37.61;-122.39
+London - Manchester;LHR;MAN;51.5;-0.45;53.37;0.1
+Osaka - Tokyo;HND;ITM;35.6;139.75;34.79;135.44
+Beijing - Singapore;SIN;PEK;1.3;103.98;40.07;116.58
+Denver - Houston;IAH;DEN;30;-95.34;39.77;-104.86
+Dubai - Singapore;SIN;DXB;1.3;103.98;25.25;55.35
+London - Nice;NCE;LHR;43.7;7.21;51.47;-0.45
+Delhi - New York;JFK;DEL;40.6;-73.79;28.66;77.26
+Calgary - London;LHR;YYC;51.5;-0.45;51.13;-114.01
+Bloemfontein - Durban;DUR;BFN;-30;30.95;-29.1;26.3
+Amsterdam - Paris;CDG;AMS;49;2.54;52.31;4.75
+Frankfurt - Zurich;FRA;ZRH;50.1;8.56;47.45;8.57
+Copenhagen - Newark;CPH;EWR;55.6;12.64;40.69;-74.18
+New Orleans - New York;LGA;MSY;40.8;-73.88;29.98;-90.26
+Boston - Chicago;ORD;BOS;41.6;-98.93;42.21;-71
+New York - Nice;JFK;NCE;40.6;-73.79;43.67;7.21
+Charlottesville - New York;LGA;CHO;40.8;-73.88;37.23;-88.81
+Geneva - London;GVA;LGW;46.2;6.11;51.16;-0.16
+Copenhagen - Stockholm;ARN;CPH;60.7;15.85;55.63;12.64
+New York - Sydney;SYD;JFK;-33.9;151.23;40.64;-73.79
+Entebbe/kampala - Johannesburg;EBB;JNB;0;32.44;-26.13;28.23
+Manila - Newcastle;NCL;MNL;25.3;55.35;14.51;121.02
+Cairo - Dubai;CAI;DXB;30.1;31.25;25.25;55.35
+Birmingham - Dubai;DXB;BHX;25.3;55.35;52.45;-1.73
+Lisbon - London;LHR;LIS;51.5;-0.45;38.77;-9.13
+Glasgow - London;LCY;GLA;51.5;0.05;55.86;-4.43
+Milan - Zurich;MXP;ZRH;45.5;9.18;47.45;8.57
+Denver - San Francisco;SFO;DEN;37.6;-122.39;39.77;-104.86
+Chicago - Tokyo;NRT;ORD;35.8;140.39;41.6;-98.93
+Seoul - Tokyo;HND;GMP;35.6;139.75;37.56;126.79
+Dubai - Istanbul;DXB;IST;25.3;55.35;41.04;28.99
+Beijing - San Francisco;SFO;PEK;37.6;-122.39;40.07;116.58
+Dubai - Karachi;KHI;DXB;24.9;67.15;25.25;55.35
+London - Stockholm;ARN;LHR;60.7;15.85;51.47;-0.45
+Atlanta - London;ATL;LHR;42.9;-83.53;51.47;-0.45
+Chicago - Dallas;DFW;ORD;32.9;-97.04;41.6;-98.93
+Hong Kong - Paris;CDG;HKG;49;2.54;22.32;113.94
+Geneva - Nairobi;GVA;NBO;47.5;8.57;-1.28;36.81
+Hong Kong - Singapore;HKG;SIN;22.3;113.94;1.34;103.98
+Amsterdam - Frankfurt;AMS;FRA;52.3;4.75;50.05;8.56
+Boston - Philadelphia;PHL;BOS;45.1;-89.01;42.21;-71
+Geneva - Zurich;ZRH;GVA;47.5;8.57;46.23;6.11
+Glasgow - London;LHR;GLA;51.5;-0.45;55.86;-4.43
+Edinburgh - Isle Of Man;IOM;EDI;54.1;-4.63;55.96;-3.34
+London - Milan;LIN;LHR;45.5;9.18;51.47;-0.45
+Chicago - Minneapolis;MSP;ORD;44.9;-93.2;41.6;-98.93
+Dubai - Johannesburg;DXB;JNB;25.3;55.35;-26.13;28.23
+New York - Richmond;RIC;LGA;45.8;-94.22;40.77;-73.88
+Milan - New York;JFK;LIN;51.5;-0.45;45.47;9.18
+London - Singapore;SIN;LHR;1.3;103.98;51.47;-0.45
+Chicago - Des Moines;ORD;DSM;41.6;-98.93;41.53;-93.65
+Durban - Port Elizabeth;PLZ;DUR;-34;25.61;-29.96;30.95
+Newark - Tulsa;EWR;TUL;41.6;-98.93;34.23;-89.36
+Geneva - Johannesburg;GVA;JNB;47.5;8.57;-26.13;28.23
+Cincinnati - Newark;EWR;CVG;40.7;-74.18;39.06;-84.66
+Johannesburg - Mahe Island;JNB;SEZ;-26.1;28.23;-4.68;55.52
+Beijing - Shanghai;PEK;SHA;40.1;116.58;31.19;121.34
+Melbourne - Singapore;SIN;MEL;1.3;103.98;-37.67;144.85
+Bombay - Delhi;DEL;BOM;28.7;77.26;19.09;72.86
+Beijing - New York;PEK;JFK;40.1;116.58;40.64;-73.79
+Cleveland - Newark;EWR;CLE;40.7;-74.18;45.46;-120.2
+London - Zurich;LHR;ZRH;51.5;-0.45;47.45;8.57
+Frankfurt - Munich;FRA;MUC;50.1;8.56;48.34;11.77
+Hong Kong - Seoul;ICN;HKG;37.5;126.66;22.32;113.94
+Bombay - Madras;MAA;BOM;13.1;80.23;19.09;72.86
+Frankfurt - Paris;FRA;CDG;50.1;8.56;49.01;2.54
+Hong Kong - Seoul;ICN;HKG;37.5;126.66;22.32;113.94
+Hong Kong - Manila;HKG;MNL;22.3;113.94;14.51;121.02
+Hong Kong - Shanghai;PVG;HKG;31.1;121.8;22.32;113.94
+George - Johannesburg;GRJ;JNB;-34;22.38;-26.13;28.23
+Jakarta-soekarno - London;LHR;CGK;22.3;113.94;-6.13;106.66
+Johannesburg - Kimberly;JNB;KIM;-26.1;28.23;-28.79;24.77
+Delhi - London;DEL;LHR;28.7;77.26;51.47;-0.45
+Budapest - London;LHR;BUD;51.5;-0.45;47.45;19.22
+Bombay - Glasgow;BOM;GLA;51.5;-0.45;55.86;-4.43
+Amsterdam - Frankfurt;FRA;AMS;50.1;8.56;52.31;4.75
+Frankfurt - Paris;FRA;CDG;50.1;8.56;49.01;2.54
+London - Muscat;MCT;LHR;23.6;58.29;51.47;-0.45
+Atlanta - Philadelphia;ATL;PHL;42.9;-83.53;45.05;-89.01
+London - Reykjavik;LHR;KEF;51.5;-0.45;63.99;-22.61
+Madrid - New York;MAD;NYC;40.5;-3.58;40.71;-74.01
+Lisbon - Manchester;MAN;LIS;53.4;0.1;38.77;-9.13
+Singapore - Taipei;SIN;TPE;1.3;103.98;25.08;121.24
+Athens - New York;ATH;JFK;37.9;23.72;40.64;-73.79
+Manila - Philadelphia;PHL;MNL;37.3;-107.75;14.51;121.02
+Milan - Paris;CDG;LIN;49;2.54;45.47;9.18
+Bombay - Poona;PNQ;BOM;18.6;73.91;19.09;72.86
+London - Mahe Island;SEZ;LHR;25.3;51.56;51.47;-0.45
+London - New York;NYC;LHR;40.7;-74.01;51.47;-0.45
+Hong Kong - Taipei;TPE;HKG;25.1;121.24;22.32;113.94
+Bombay - Hong Kong;HKG;BOM;22.3;113.94;19.09;72.86
+Philadelphia - San Diego;SAN;PHL;41.6;-98.93;45.05;-89.01
+Glasgow - Newark;EWR;GLA;51.5;-0.45;55.86;-4.43
+Bombay - Newark;EWR;BOM;40.7;-74.18;19.09;72.86
+East London - Johannesburg;ELS;JNB;-33;27.83;-26.13;28.23
+Kuala Lumpur - Singapore;KUL;SIN;2.8;101.71;1.34;103.98
+London - San Francisco;SFO;LHR;37.6;-122.39;51.47;-0.45
+Lima - Newark;LIM;EWR;-12;-77.11;40.69;-74.18
+Glasgow - London;GLA;STN;55.9;-4.43;51.89;0.26
+Accra - Nairobi;NBO;ACC;-1.3;36.81;5.6;-0.17
+London - Montreal;YUL;LHR;45.5;-73.75;51.47;-0.45
+Dubai - Sydney;SYD;DXB;-33.9;151.23;25.25;55.35
+Lisbon - Sao Paulo;LIS;GRU;38.8;-9.13;-23.42;-46.48
+Dubai - Madras;DXB;MAA;25.3;55.35;13.05;80.23
+Los Angeles - Tokyo;LAX;NRT;34.1;-118.24;35.75;140.39
+Aberdeen - London;LHR;ABZ;51.5;-0.45;57.2;-2.2
+Frankfurt - Paris;CDG;FRA;49;2.54;50.05;8.56
+London - Zurich;ZRH;LHR;47.5;8.57;51.47;-0.45
+Dubai - Frankfurt;FRA;DXB;50.1;8.56;25.25;55.35
+New York - Vancouver;YVR;JFK;49.2;-123.17;40.64;-73.79
+Manchester - Newark;EWR;MAN;40.7;-74.18;53.37;0.1
+London - Singapore;LHR;SIN;51.5;-0.45;1.34;103.98
+Madrid - San Francisco;MAD;SFO;51.5;-0.45;37.61;-122.39
+Edinburgh - Singapore;EDI;SIN;51.5;-0.45;1.34;103.98
+Las Vegas - London;LAS;LGW;32;-87.96;51.16;-0.16
+Chicago - Houston;ORD;IAH;41.6;-98.93;29.98;-95.34
+Singapore - Sydney;SIN;SYD;1.3;103.98;-33.92;151.23
+Lima - Santiago;LIM;SCL;-12;-77.11;-33.39;-70.79
+Cairo - London;LHR;CAI;51.5;-0.45;30.05;31.25
+Frankfurt - Singapore;FRA;SIN;50.1;8.56;1.34;103.98
+Gothenburg - London;LHR;GOT;51.5;-0.45;59.56;16.49
+New York - Sydney;JFK;SYD;40.6;-73.79;-33.92;151.23
+New York - Tampa;TPA;LGA;28;-82.54;40.77;-73.88
+Johannesburg - London;LHR;JNB;51.5;-0.45;-26.13;28.23
+Houston - Paris;CDG;IAH;39;-77.45;29.98;-95.34
+Hong Kong - San Francisco;SFO;HKG;37.6;-122.39;22.32;113.94
+Bombay - Delhi;BOM;DEL;19.1;72.86;28.66;77.26
+Los Angeles - Manila;LAX;MNL;37.5;126.66;14.51;121.02
+Geneva - London;GVA;LHR;46.2;6.11;51.47;-0.45
+Amsterdam - Johannesburg;JNB;AMS;-26.1;28.23;52.31;4.75
+Hong Kong - Taipei;HKG;TPE;22.3;113.94;25.08;121.24
+Fukuoka - Tokyo;HND;FUK;35.6;139.75;33.6;130.44
+Dubai - Frankfurt;DXB;FRA;25.3;55.35;50.05;8.56
+New York - Toronto;YYZ;LGA;43.7;-79.61;40.77;-73.88
+Bogota - Lima;BOG;LIM;4.7;-74.14;-12.02;-77.11
+Kuala Lumpur - Singapore;SIN;KUL;1.3;103.98;2.76;101.71
+Dubai - Nairobi;NBO;DXB;-1.3;36.81;25.25;55.35
+Manchester - Newark;MAN;EWR;53.4;0.1;40.69;-74.18
+Chicago - Kansas City;ORD;MCI;41.6;-98.93;39.3;-94.72
+Charlotte - Newark;CLT;EWR;35.2;-80.95;40.69;-74.18
+Bombay - Hong Kong;HKG;BOM;22.3;113.94;19.09;72.86
+Singapore - Tokyo;SIN;NRT;1.3;103.98;35.75;140.39
+London - Newcastle;NCL;LHR;55;-1.71;51.47;-0.45
+Moscow - Zurich;ZRH;DME;47.5;8.57;55.42;37.9
+London - Raleigh/durham;RDU;LHR;35.9;-78.79;51.47;-0.45
+Miami - Rio De Janeiro;MIA;GIG;33.4;-110.87;-22.81;-43.24
+Austin - London;LHR;AUS;41.6;-98.93;30.2;-97.67
+Houston - Tokyo;NRT;IAH;35.8;140.39;29.98;-95.34
+Madrid - Paris;MAD;PAR;40.5;-3.58;49.01;2.54
+Dubai - Newcastle;DXB;NCL;25.3;55.35;55.04;-1.71
+New York - Seoul;ICN;JFK;37.5;126.66;40.64;-73.79
+Philadelphia - Portland;PHL;PWM;45.1;-89.01;43.65;-70.31
+Dubai - Paris;DXB;CDG;25.3;55.35;49.01;2.54
+Dar Es Salaam - Dubai;DAR;DXB;-6.9;39.2;25.25;55.35
+Chicago - Los Angeles;ORD;LAX;41.6;-98.93;34.05;-118.24
+Bombay - Tokyo;NRT;BOM;35.8;140.39;19.09;72.86
+Seoul - Tokyo;HND;GMP;35.6;139.75;37.56;126.79
+Beijing - Singapore;PEK;SIN;40.1;116.58;1.34;103.98
+Dublin - London;DUB;LHR;53.3;-6.25;51.47;-0.45
+Bordeaux - Paris;ORY;BOD;48.7;2.37;41.73;8.88
+Newark - Portland;EWR;PDX;40.8;-111.89;45.59;-122.59
+Dublin - London;DUB;LCY;53.3;-6.25;51.5;0.05
+Houston - Rio De Janeiro;IAH;GIG;30;-95.34;-22.81;-43.24
+Edinburgh - Newark;EDI;EWR;56;-3.34;40.69;-74.18
+Dublin - London;LGW;DUB;51.2;-0.16;53.34;-6.25
+Philadelphia - Venice;PHL;VCE;51.5;-0.45;45.44;12.32
+Hamburg - Munich;MUC;HAM;48.3;11.77;53.64;10.01
+Newark - Vancouver;YVR;EWR;49.2;-123.17;40.69;-74.18
+Singapore - Taipei;SIN;TPE;1.3;103.98;25.08;121.24
+London - Zurich;LHR;ZRH;51.5;-0.45;47.45;8.57
+Helsinki - Stockholm;ARN;HEL;60.7;15.85;60.31;24.97
+Glasgow - Singapore;SIN;GLA;51.5;-0.45;55.86;-4.43
+Singapore - Zurich;SIN;ZRH;1.3;103.98;47.45;8.57
+Manila - Singapore;MNL;SIN;14.5;121.02;1.34;103.98
+New York - Toronto;JFK;YYZ;40.6;-73.79;43.68;-79.61
+Montreal - Toronto;YYZ;YUL;43.7;-79.61;45.46;-73.75
+Johannesburg - Windhoek;JNB;WDH;-26.1;28.23;-22.48;17.47
+Johannesburg - Sao Paulo;JNB;GRU;-26.1;28.23;-23.42;-46.48
+Dubai - Dublin;DXB;DUB;25.3;55.35;53.34;-6.25
+London - Stavanger;SVG;LHR;58.9;5.63;51.47;-0.45
+London - St. Petersburg;LHR;LED;51.5;-0.45;59.77;30.33
+Amsterdam - Frankfurt;AMS;FRA;52.3;4.75;50.05;8.56
+Edinburgh - London;LHR;EDI;51.5;-0.45;55.96;-3.34
+Bucharest-otopeni - London;OTP;LHR;44.6;26.07;51.47;-0.45
+Milwaukee - Newark;MKE;EWR;43;-87.91;40.69;-74.18
+Seoul - Singapore;SIN;ICN;1.3;103.98;37.45;126.66
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Atlanta - Johannesburg;ATL;JNB;42.9;-83.53;-26.13;28.23
+Dubai - Mahe Island;DXB;SEZ;25.3;55.35;-4.68;55.52
+Hong Kong - Perth;HKG;PER;13.7;100.77;-31.94;115.97
+Newark - San Antonio;SAT;EWR;42.9;-83.53;40.69;-74.18
+Paris - Zurich;ZRH;CDG;47.5;8.57;49.01;2.54
+Beijing - Paris;CDG;PEK;49;2.54;40.07;116.58
+Frankfurt - Paris;FRA;CDG;50.1;8.56;49.01;2.54
+Chicago - Toronto;ORD;YYZ;41.6;-98.93;43.68;-79.61
+Los Angeles - Washington Dc;IAD;LAX;39;-77.45;34.05;-118.24
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Amsterdam - New York;AMS;JFK;52.3;4.75;40.64;-73.79
+Beijing - Singapore;PEK;SIN;40.1;116.58;1.34;103.98
+Cologne - London;LHR;CGN;51.5;-0.45;50.88;7.11
+Bombay - Hong Kong;BOM;HKG;19.1;72.86;22.32;113.94
+Doha - Frankfurt;FRA;DOH;50.1;8.56;25.27;51.56
+Chicago - Philadelphia;PHL;ORD;45.1;-89.01;41.6;-98.93
+San Francisco - Santa Ana;SNA;SFO;37.4;-86.16;37.61;-122.39
+Edinburgh - Madras;EDI;MAA;51.5;-0.45;13.05;80.23
+London - Madrid;LHR;MAD;51.5;-0.45;40.46;-3.58
+Dublin - Philadelphia;PHL;DUB;45.1;-89.01;53.34;-6.25
+Barcelona - London;LHR;BCN;51.5;-0.45;41.3;2.08
+Los Angeles - Oakland;OAK;LAX;40.2;-97.9;34.05;-118.24
+New York - Orlando;LGA;MCO;40.8;-73.88;28.44;-81.31
+Seoul - Singapore;SIN;ICN;1.3;103.98;37.45;126.66
+London - Mauritius;MRU;LHR;49;2.54;51.47;-0.45
+Hong Kong - Taipei;TPE;HKG;25.1;121.24;22.32;113.94
+Berlin - London;LHR;TXL;51.5;-0.45;52.55;13.29
+Melbourne - Sydney;SYD;MEL;-33.9;151.23;-37.67;144.85
+Melbourne - Singapore;MEL;SIN;-37.7;144.85;1.34;103.98
+Milan - Naples;LIN;NAP;45.5;9.18;40.84;14.25
+Jakarta-soekarno - Singapore;SIN;CGK;1.3;103.98;-6.13;106.66
+Mexico City - Santiago;SCL;MEX;-33.4;-70.79;19.43;-99.16
+New York - Singapore;JFK;SIN;40.6;-73.79;1.34;103.98
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+London - Nice;LGW;NCE;51.2;-0.16;43.67;7.21
+Dubai - Jeddah;JED;DXB;21.7;39.15;25.25;55.35
+London - Madrid;LTN;MAD;51.9;-0.37;40.46;-3.58
+Mombasa - Nairobi;NBO;MBA;-1.3;36.81;-4;39.72
+Baltimore - London;BWI;LHR;39.2;-76.67;51.47;-0.45
+Lisbon - London;LGW;LIS;51.2;-0.16;38.77;-9.13
+New York - Osaka;JFK;ITM;35.8;140.39;34.79;135.44
+Kansas City - Newark;MCI;EWR;39.3;-94.72;40.69;-74.18
+Geneva - Singapore;GVA;SIN;25.3;51.56;1.34;103.98
+Geneva - Zurich;GVA;ZRH;46.2;6.11;47.45;8.57
+Munich - San Francisco;MUC;SFO;48.3;11.77;37.61;-122.39
+Amsterdam - London;AMS;LHR;52.3;4.75;51.47;-0.45
+Frankfurt - Geneva;GVA;FRA;46.2;6.11;50.05;8.56
+Miami - San Francisco;MIA;SFO;33.4;-110.87;37.61;-122.39
+Hong Kong - London;LHR;HKG;51.5;-0.45;22.32;113.94
+Edinburgh - London;LHR;EDI;51.5;-0.45;55.96;-3.34
+Milan - Paris;LIN;CDG;45.5;9.18;49.01;2.54
+Singapore - Sydney;SYD;SIN;-33.9;151.23;1.34;103.98
+Karachi - London;KHI;LGW;25.3;55.35;51.16;-0.16
+Sydney - Tokyo;NRT;SYD;35.8;140.39;-33.92;151.23
+Madrid - Milan;MXP;MAD;45.5;9.18;40.46;-3.58
+Dar Es Salaam - Nairobi;NBO;DAR;-1.3;36.81;-6.88;39.2
+Chicago - Hong Kong;HKG;ORD;22.3;113.94;41.6;-98.93
+Dubai - Jakarta;CGK;DXB;-6.1;106.66;25.25;55.35
+New York - Tokyo;JFK;HND;40.6;-73.79;35.55;139.75
+Brisbane - Singapore;SIN;BNE;1.3;103.98;-27.4;153.11
+Glasgow - Manchester;GLA;MAN;55.9;-4.43;53.37;0.1
+Montreal - Newark;EWR;YUL;40.7;-74.18;45.46;-73.75
+Miami - Tokyo;NRT;MIA;40.6;-73.79;33.4;-110.87
+Chicago - White Plains;ORD;HPN;41.6;-98.93;41.07;-73.7
+Cairo - Nairobi;CAI;NBO;30.1;31.25;-1.28;36.81
+New York - Portland;PDX;JFK;45.6;-122.59;40.64;-73.79
+Johannesburg - Munich;JNB;MUC;-26.1;28.23;48.34;11.77
+Atlanta - Miami;MIA;ATL;33.4;-110.87;42.94;-83.53
+Bangalore - Singapore;SIN;BLR;1.3;103.98;12.8;77.65
+Hong Kong - Tokyo;NRT;HKG;35.8;140.39;22.32;113.94
+Newark - Oslo;EWR;OSL;40.7;-74.18;59.91;10.75
+Bombay - Madras;BOM;MAA;19.1;72.86;13.05;80.23
+Indianapolis - Newark;EWR;IND;40.7;-74.18;39.71;-86.3
+Delhi - Singapore;SIN;DEL;1.3;103.98;28.66;77.26
+London - Vilnius;VNO;LHR;55.6;12.64;51.47;-0.45
+Des Moines - Newark;DSM;EWR;41.5;-93.65;40.69;-74.18
+Amsterdam - Paris;CDG;AMS;49;2.54;52.31;4.75
+Beijing - Hong Kong;HKG;PEK;22.3;113.94;40.07;116.58
+Geneva - London;LCY;GVA;51.5;0.05;46.23;6.11
+Lima - London;LIM;LCY;40.5;-3.58;51.5;0.05
+Jacksonville - New York;JAX;LGA;33.8;-85.76;40.77;-73.88
+Bangkok - Singapore;SIN;BKK;1.3;103.98;13.71;100.77
+Chicago - Tokyo;NRT;ORD;35.8;140.39;41.6;-98.93
+Edmonton - New York;YEG;LGA;44.9;-93.2;40.77;-73.88
+London - Miami;LHR;MIA;51.5;-0.45;33.4;-110.87
+Cape Town - New York;CPT;JFK;51.5;-0.45;40.64;-73.79
+Lima - Miami;MIA;LIM;33.4;-110.87;-12.02;-77.11
+Newark - Sydney;SYD;EWR;34.1;-118.24;40.69;-74.18
+Newark - Paris;EWR;ORY;40.7;-74.18;48.73;2.37
+Fort De France - Paris;FDF;ORY;14.6;-61.01;48.73;2.37
+Madrid - Paris;ORY;MAD;48.7;2.37;40.46;-3.58
+Glasgow - London;GLA;LHR;55.9;-4.43;51.47;-0.45
+Delhi - Poona;DEL;PNQ;28.7;77.26;18.58;73.91
+Guernsey -channel Isl. - Isle Of Man;IOM;GCI;51.2;-0.16;49.43;-2.6
+Barcelona - Madrid;MAD;BCN;40.5;-3.58;41.3;2.08
+San Francisco - Washington Dc;IAD;SFO;39;-77.45;37.61;-122.39
+Boston - New York;LGA;BOS;40.8;-73.88;42.21;-71
+Newark - St. Louis;STL;EWR;38.7;-90.36;40.69;-74.18
+Dubai - Sao Paulo;DXB;GRU;25.3;55.35;-23.42;-46.48
+Isle Of Man - Liverpool;IOM;LPL;54.1;-4.63;53.34;-2.85
+London - Zagreb;ZAG;LHR;45.7;16.06;51.47;-0.45
+Luxembourg - New York;JFK;LUX;50.1;8.56;49.63;6.21
+La Coruna - Madrid;MAD;LCG;40.5;-3.58;43.3;-8.38
+Accra - London;LHR;ACC;51.5;-0.45;5.6;-0.17
+Cairo - Nairobi;CAI;NBO;30.1;31.25;-1.28;36.81
+Dubai - Madrid;MAD;DXB;40.5;-3.58;25.25;55.35
+Austin - Houston;AUS;IAH;30.2;-97.67;29.98;-95.34
+Newark - Paris;CDG;EWR;49;2.54;40.69;-74.18
+Accra - Nairobi;ACC;NBO;5.6;-0.17;-1.28;36.81
+Dar Es Salaam - Nairobi;NBO;DAR;-1.3;36.81;-6.88;39.2
+Ft. Lauderdale - Newark;FLL;EWR;26.1;-80.13;40.69;-74.18
+Delhi - Dubai;DXB;DEL;25.3;55.35;28.66;77.26
+London - Munich;LCY;MUC;51.5;0.05;48.34;11.77
+Houston - Tulsa;TUL;IAH;34.2;-89.36;29.98;-95.34
+Dubai - Muscat;DXB;MCT;25.3;55.35;23.59;58.29
+London - Paris;LHR;ORY;51.5;-0.45;48.73;2.37
+Des Moines - New York;LGA;DSM;33.1;-88.31;41.53;-93.65
+Frankfurt - Seoul;ICN;FRA;37.5;126.66;50.05;8.56
+Brisbane - Sydney;BNE;SYD;-27.4;153.11;-33.92;151.23
+Manchester - Singapore;SIN;MAN;1.3;103.98;53.37;0.1
+Dubai - London;DXB;LHR;25.3;55.35;51.47;-0.45
+Detroit - White Plains;HPN;DTW;41.1;-73.7;37.26;-107.75
+Accra - Nairobi;ACC;NBO;5.6;-0.17;-1.28;36.81
+Basel-Mulhouse-Freiburg - London;LHR;BSL;51.5;-0.45;47.55;7.59
+Melbourne - Sydney;SYD;MEL;-33.9;151.23;-37.67;144.85
+Brisbane - Sydney;BNE;SYD;-27.4;153.11;-33.92;151.23
+London - San Francisco;LHR;SFO;51.5;-0.45;37.61;-122.39
+Bombay - Singapore;BOM;SIN;19.1;72.86;1.34;103.98
+Mombasa - Nairobi;NBO;MBA;-1.3;36.81;-4;39.72
+Johannesburg - Maputo;JNB;MPM;-26.1;28.23;-25.92;32.57
+Melbourne - Singapore;MEL;SIN;-37.7;144.85;1.34;103.98
+Edmonton - Toronto;YYZ;YEG;43.7;-79.61;53.31;-113.58
+Harare - Johannesburg;JNB;HRE;-26.1;28.23;-17.92;31.1
+London - Prague;LHR;PRG;51.5;-0.45;50.08;14.43
+Dubai - Los Angeles;DXB;LAX;25.3;55.35;34.05;-118.24
+Los Angeles - San Francisco;LAX;SFO;34.1;-118.24;37.61;-122.39
+Dallas - Philadelphia;PHL;DFW;45.1;-89.01;32.87;-97.04
+Kuala Lumpur - Singapore;SIN;KUL;1.3;103.98;2.76;101.71
+Madras - Singapore;MAA;SIN;13.1;80.23;1.34;103.98
+Gibraltar - London;GIB;LGW;36.1;-5.35;51.16;-0.16
+Los Angeles - Newark;EWR;LAX;40.7;-74.18;34.05;-118.24
+London - Paris;CDG;LHR;49;2.54;51.47;-0.45
+Atlanta - Charlottesville;CHO;ATL;37.2;-88.81;42.94;-83.53
+Johannesburg - Las Vegas;LAS;JNB;42.9;-83.53;-26.13;28.23
+London - Perth;LHR;PER;1.3;103.98;-31.94;115.97
+Boston - Toronto Island;BOS;YTZ;42.2;-71;43.63;-79.4
+San Francisco - Tel Aviv;SFO;TLV;40.7;-74.18;32.01;34.89
+Milan - Paris;LIN;CDG;45.5;9.18;49.01;2.54
+Monte Carlo - Nice;NCE;MCM;43.7;7.21;43.73;7.42
+London - Milan;LIN;LGW;45.5;9.18;51.16;-0.16
+Newark - Omaha;EWR;OMA;40.7;-74.18;31.73;-90.15
+Frankfurt - Milan;FRA;LIN;50.1;8.56;45.47;9.18
+San Francisco - Tokyo;SFO;NRT;37.6;-122.39;35.75;140.39
+London - Paris;CDG;LHR;49;2.54;51.47;-0.45
+Detroit - London;LHR;DTW;51.5;-0.45;37.26;-107.75
+Dubai - Johannesburg;DXB;JNB;25.3;55.35;-26.13;28.23
+Seoul - Singapore;ICN;SIN;37.5;126.66;1.34;103.98
+Houston - Oklahoma City;OKC;IAH;35.4;-97.6;29.98;-95.34
+Beijing - London;PEK;LHR;40.1;116.58;51.47;-0.45
+Halifax - Toronto;YYZ;YHZ;43.7;-79.61;44.89;-63.52
+Atlanta - Charlottesville;CHO;ATL;35.2;-80.95;42.94;-83.53
+Edinburgh - London;LGW;EDI;51.2;-0.16;55.96;-3.34
+Ho Chi Minh - Singapore;SIN;SGN;1.3;103.98;10.82;106.66
+Honolulu - Oahu - Tokyo;HNL;NRT;21.3;-157.92;35.75;140.39
+Honolulu - Oahu - Kona ;KOA;HNL;19.7;-156.04;21.34;-157.92
+Madrid - Mexico City;MEX;MAD;19.4;-99.16;40.46;-3.58
+Minneapolis - Philadelphia;MSP;PHL;44.9;-93.2;45.05;-89.01
+Chicago - Washington Dc;DCA;ORD;38.9;-77.04;41.6;-98.93
+Bombay - Singapore;SIN;BOM;1.3;103.98;19.09;72.86
+Chicago - New York;ORD;LGA;41.6;-98.93;40.77;-73.88
+Hong Kong - Las Vegas;HKG;LAS;34.1;-118.24;32.02;-87.96
+London - Madras;MAA;LHR;13.1;80.23;51.47;-0.45
+Brisbane - Sydney;SYD;BNE;-33.9;151.23;-27.4;153.11
+Kona - Hawaii - Los Angeles;LAX;KOA;34.1;-118.24;19.73;-156.04
+Calgary - London;LHR;YYC;51.5;-0.45;51.13;-114.01
+San Francisco - Tokyo;HND;SFO;35.6;139.75;37.61;-122.39
+Glasgow - London;GLA;LTN;55.9;-4.43;51.88;-0.37
+Abu Dhabi - Casablanca;CMN;AUH;33.4;-7.58;24.42;54.64
+Amsterdam - Newark;EWR;AMS;40.7;-74.18;52.31;4.75
+Boston - Sao Paulo;GRU;BOS;40.6;-73.79;42.21;-71
+Frankfurt - Milan;FRA;LIN;50.1;8.56;45.47;9.18
+Hong Kong - Osaka;HKG;KIX;22.3;113.94;34.43;135.24
+London - Portland;LHR;PDX;39.9;-75.59;45.59;-122.59
+Barcelona - San Francisco;BCN;SFO;50.1;8.56;37.61;-122.39
+Amsterdam - Singapore;SIN;AMS;1.3;103.98;52.31;4.75
+Geneva - Nice;NCE;GVA;43.7;7.21;46.23;6.11
+Boston - New York;LGA;BOS;40.8;-73.88;42.21;-71
+Geneva - Riyadh;GVA;RUH;50.1;8.56;24.94;46.71
+Dublin - London;LHR;DUB;51.5;-0.45;53.34;-6.25
+Johannesburg - Upington;UTN;JNB;-28.4;21.26;-26.13;28.23
+Brisbane - Sydney;BNE;SYD;-27.4;153.11;-33.92;151.23
+Birmingham - Bombay;BHX;BOM;25.3;55.35;19.09;72.86
+Kuala Lumpur - Singapore;SIN;KUL;1.3;103.98;2.76;101.71
+San Diego - San Francisco;SAN;SFO;32.7;-102.18;37.61;-122.39
+Dar Es Salaam - Dubai;DXB;DAR;25.3;55.35;-6.88;39.2
+Kiev-borispol - New York;JFK;KBP;40.6;-73.79;50.43;30.55
+Gaborone - Nairobi;GBE;NBO;-24.6;25.93;-1.28;36.81
+Johannesburg - Pietersburg;JNB;PTG;-26.1;28.23;-23.86;29.45
+Frankfurt - Newark;EWR;FRA;40.7;-74.18;50.05;8.56
+Hong Kong - Melbourne;MEL;HKG;-37.7;144.85;22.32;113.94
+Amsterdam - Hong Kong;HKG;AMS;22.3;113.94;52.31;4.75
+Hong Kong - Tokyo;HND;HKG;35.6;139.75;22.32;113.94
+Frankfurt - London;FRA;LCY;50.1;8.56;51.5;0.05
+Houston - Washington Dc;DCA;IAH;38.9;-77.04;29.98;-95.34
+Sydney - Tokyo;SYD;NRT;-33.9;151.23;35.75;140.39
+Boston - Chicago;BOS;ORD;42.2;-71;41.6;-98.93
+Houston - Sydney;IAH;SYD;34.1;-118.24;-33.92;151.23
+Biarrita - Paris;BIQ;ORY;43.5;-1.53;48.73;2.37
+Geneva - Paris;GVA;CDG;46.2;6.11;49.01;2.54
+Dusseldorf - New York;JFK;DUS;51.5;-0.45;51.28;6.78
+Los Angeles - Toronto;YYZ;LAX;43.7;-79.61;34.05;-118.24
+Chongqing - Hong Kong;HKG;CKG;22.3;113.94;29.58;106.5
+Accra - Dubai;DXB;ACC;25.3;55.35;5.6;-0.17
+Lisbon - Newark;LIS;EWR;38.8;-9.13;40.69;-74.18
+Hong Kong - Los Angeles;LAX;HKG;34.1;-118.24;22.32;113.94
+Moscow - Paris;CDG;SVO;49;2.54;55.96;37.42
+Newark - West Palm Beach;EWR;PBI;40.7;-74.18;26.69;-80.09
+Sydney - Tokyo;NRT;SYD;35.8;140.39;-33.92;151.23
+Bombay - Johannesburg;JNB;BOM;-26.1;28.23;19.09;72.86
+Shanghai - Singapore;PVG;SIN;31.1;121.8;1.34;103.98
+New York - Sao Paulo;GRU;JFK;-23.4;-46.48;40.64;-73.79
+New York - Turin;TRN;JFK;49;2.54;40.64;-73.79
+Jakarta-soekarno - Newark;EWR;CGK;1.3;103.98;-6.13;106.66
+Frankfurt - Geneva;GVA;FRA;46.2;6.11;50.05;8.56
+Frankfurt - New York;FRA;JFK;51.5;-0.45;40.64;-73.79
+Birmingham - Manila;MNL;BHX;25.3;55.35;52.45;-1.73
+Las Vegas - London;LHR;LAS;51.5;-0.45;32.02;-87.96
+Newark - Orlando;EWR;MCO;40.7;-74.18;28.44;-81.31
+London - Seoul;ICN;LHR;37.5;126.66;51.47;-0.45
+Madras - Singapore;MAA;SIN;13.1;80.23;1.34;103.98
+Madrid - New York;MAD;JFK;40.5;-3.58;40.64;-73.79
+Frankfurt - Madrid;FRA;MAD;50.1;8.56;40.46;-3.58
+Hong Kong - Johannesburg;HKG;JNB;22.3;113.94;-26.13;28.23
+Beijing - Tokyo;NRT;PEK;35.8;140.39;40.07;116.58
+Brisbane - Sydney;BNE;SYD;-27.4;153.11;-33.92;151.23
+Amsterdam - Hong Kong;AMS;HKG;52.3;4.75;22.32;113.94
+Brisbane - Toronto;YYZ;BNE;34.1;-118.24;-27.4;153.11
+Seoul - Zurich;ZRH;ICN;47.5;8.57;37.45;126.66
+Bentonville - New York;LGA;XNA;40.8;-73.88;36.28;-94.3
+Chicago - Kansas City;MCI;ORD;39.3;-94.72;41.6;-98.93
+Johannesburg - Philadelphia;PHL;JNB;40.6;-73.79;-26.13;28.23
+Geneva - London;LHR;GVA;51.5;-0.45;46.23;6.11
+Los Angeles - Philadelphia;PHL;LAX;45.1;-89.01;34.05;-118.24
+Toronto - Winnipeg;YYZ;YWG;43.7;-79.61;49.9;-97.23
+New York - Toronto;YYZ;JFK;43.7;-79.61;40.64;-73.79
+London - Taipei;TPE;LHR;22.3;113.94;51.47;-0.45
+Geneva - Madrid;GVA;MAD;46.2;6.11;40.46;-3.58
+Denver - Philadelphia;PHL;DEN;45.1;-89.01;39.77;-104.86
+New York - San Francisco;SFO;JFK;37.6;-122.39;40.64;-73.79
+London - Nairobi;NBO;LHR;-1.3;36.81;51.47;-0.45
+Boston - San Francisco;BOS;SFO;42.2;-71;37.61;-122.39
+Hong Kong - Zurich;HKG;ZRH;22.3;113.94;47.45;8.57
+Newark - Pittsburgh;EWR;PIT;40.7;-74.18;48.72;-94.74
+Melbourne - New York;MEL;JFK;22.3;113.94;40.64;-73.79
+Singapore - Zurich;ZRH;SIN;47.5;8.57;1.34;103.98
+Bologna - London;LGW;BLQ;51.2;-0.16;44.5;11.35
+Lisbon - Milan;MIL;LIS;37.7;15.12;38.77;-9.13
+Beijing - Seoul;PEK;ICN;40.1;116.58;37.45;126.66
+Aspen - Houston;ASE;IAH;39.2;-106.86;29.98;-95.34
+Durban - Lanseria;HLA;DUR;-25.9;27.92;-29.96;30.95
+Hong Kong - Manila;HKG;MNL;22.3;113.94;14.51;121.02
+Frankfurt - Rio De Janeiro;FRA;GIG;50.1;8.56;-22.81;-43.24
+Johannesburg - London;JNB;LHR;-26.1;28.23;51.47;-0.45
+Bombay - Brussels;BOM;BRU;19.1;72.86;50.89;4.48
+Brussels - New York;BRU;JFK;50.9;4.48;40.64;-73.79
+Athens - Frankfurt;ATH;FRA;37.9;23.72;50.05;8.56
+Sao Paulo - Toronto;YYZ;GRU;43.7;-79.61;-23.42;-46.48
+Gaborone - Nairobi;GBE;NBO;-26.1;28.23;-1.28;36.81
+New York - Nice;NCE;JFK;43.7;7.21;40.64;-73.79
+Abu Dhabi - Doha;DOH;AUH;25.3;51.56;24.42;54.64
+Hong Kong - Singapore;HKG;SIN;22.3;113.94;1.34;103.98
+Boston - New York;LGA;BOS;40.8;-73.88;42.21;-71
+Dubai - New York;DXB;JFK;25.3;55.35;40.64;-73.79
+Geneva - Seoul;ICN;GVA;50.1;8.56;46.23;6.11
+Beijing - Seoul;PEK;ICN;40.1;116.58;37.45;126.66
+Frankfurt - Jakarta;CGK;FRA;1.3;103.98;50.05;8.56
+Francistown - Gaborone;GBE;FRW;-24.6;25.93;-21.16;27.48
+Paris - Singapore;CDG;SIN;49;2.54;1.34;103.98
+Geneva - Jeddah;JED;GVA;50.1;8.56;46.23;6.11
+Frankfurt - Madrid;FRA;MAD;50.1;8.56;40.46;-3.58
+London - Madras;MAA;LHR;25.3;55.35;51.47;-0.45
+Melbourne - Tokyo;NRT;MEL;-33.9;151.23;-37.67;144.85
+Geneva - Tokyo;NRT;GVA;47.5;8.57;46.23;6.11
+London - Zurich;LCY;ZRH;51.5;0.05;47.45;8.57
+Paris - Sao Paulo;GRU;CDG;-23.4;-46.48;49.01;2.54
+Boston - Houston;IAH;BOS;30;-95.34;42.21;-71
+San Francisco - Singapore;SIN;SFO;1.3;103.98;37.61;-122.39
+Hangzhou - Hong Kong;HKG;HGH;22.3;113.94;30.33;120.23
+Birmingham - Dublin;DUB;BHX;53.3;-6.25;52.45;-1.73
+Kiev-borispol - London;LHR;KBP;51.5;-0.45;50.43;30.55
+Casablanca-mohamed V. - Dubai;CMN;DXB;33.4;-7.58;25.25;55.35
+Chicago - Denver;ORD;DEN;41.6;-98.93;39.77;-104.86
+Dallas - Los Angeles;DFW;LAX;32.9;-97.04;34.05;-118.24
+Birmingham - Delhi;BHX;DEL;25.3;55.35;28.66;77.26
+Hong Kong - Newark;HKG;EWR;22.3;113.94;40.69;-74.18
+New York - Singapore;SIN;JFK;1.3;103.98;40.64;-73.79
+Los Angeles - New York;LAX;JFK;34.1;-118.24;40.64;-73.79
+Bogota - Mexico City;BOG;MEX;4.7;-74.14;19.43;-99.16
+Atlanta - Chicago;ORD;ATL;41.6;-98.93;42.94;-83.53
+Hong Kong - Los Angeles;LAX;HKG;34.1;-118.24;22.32;113.94
+Los Angeles - Sydney;LAX;SYD;34.1;-118.24;-33.92;151.23
+London - Tbilisi;LHR;TBS;41;28.99;41.67;44.96
+Bangalore - New York;BLR;JFK;25.3;51.56;40.64;-73.79
+London - Riyadh;LHR;RUH;51.5;-0.45;24.94;46.71
+Dublin - Lisbon;LIS;DUB;38.8;-9.13;53.34;-6.25
+London - Singapore;SIN;LHR;1.3;103.98;51.47;-0.45
+Dusseldorf - London;LHR;DUS;51.5;-0.45;51.28;6.78
+Manila - Singapore;SIN;MNL;1.3;103.98;14.51;121.02
+Bogota - London;BOG;LHR;40.5;-3.58;51.47;-0.45
+Paris - San Francisco;CDG;SFO;49;2.54;37.61;-122.39
+Boston - Toronto;YYZ;BOS;43.7;-79.61;42.21;-71
+Brasilia - Sao Paulo;BSB;CGH;-15.9;-47.91;-23.63;-46.66
+Delhi - Poona;PNQ;DEL;18.6;73.91;28.66;77.26
+Geneva - Paris;CDG;GVA;49;2.54;46.23;6.11
+Madrid - Sao Paulo;GRU;MAD;-23.4;-46.48;40.46;-3.58
+San Francisco - Singapore;SIN;SFO;1.3;103.98;37.61;-122.39
+Beijing - Singapore;SIN;PEK;1.3;103.98;40.07;116.58
+Hong Kong - Kuala Lumpur;HKG;KUL;22.3;113.94;2.76;101.71
+Belfast-city - London;BHD;LGW;54.6;-5.87;51.16;-0.16
+Burbank - Oakland;OAK;BUR;40.2;-97.9;34.2;-118.35
+Dubai - London;DXB;LHR;25.3;55.35;51.47;-0.45
+Atlanta - San Francisco;SFO;ATL;37.6;-122.39;42.94;-83.53
+Johannesburg - Paris;CDG;JNB;49;2.54;-26.13;28.23
+Chicago - Miami;MIA;ORD;33.4;-110.87;41.6;-98.93
+Portland - San Francisco;PDX;SFO;45.6;-122.59;37.61;-122.39
+Geneva - Lisbon;LIS;GVA;38.8;-9.13;46.23;6.11
+Entebbe/kampala - Nairobi;EBB;NBO;0;32.44;-1.28;36.81
+Las Vegas - Los Angeles;LAX;LAS;34.1;-118.24;32.02;-87.96
+Delhi - Hong Kong;HKG;DEL;22.3;113.94;28.66;77.26
+London - Turin;TRN;LGW;45.1;7.7;51.16;-0.16
+London - Stuttgart;STR;LHR;54.4;13.52;51.47;-0.45
+Dubai - Zurich;DXB;ZRH;25.3;55.35;47.45;8.57
+Kuala Lumpur - Singapore;KUL;SIN;2.8;101.71;1.34;103.98
+Frankfurt - Hamburg;HAM;FRA;53.6;10.01;50.05;8.56
+Bombay - Poona;PNQ;BOM;18.6;73.91;19.09;72.86
+Columbus - Newark;CMH;EWR;40;-82.89;40.69;-74.18
+Bangalore - Bombay;BOM;BLR;19.1;72.86;12.8;77.65
+Los Angeles - San Francisco;SFO;LAX;37.6;-122.39;34.05;-118.24
+Frankfurt - Geneva;FRA;GVA;50.1;8.56;46.23;6.11
+London - Luxembourg;LHR;LUX;51.5;-0.45;49.63;6.21
+Edinburgh - London;LCY;EDI;51.5;0.05;55.96;-3.34
+Seoul - Taipei;TPE;ICN;25.1;121.24;37.45;126.66
+Hong Kong - Sydney;SYD;HKG;-33.9;151.23;22.32;113.94
+Frankfurt - Zurich;FRA;ZRH;50.1;8.56;47.45;8.57
+Bahrain - Dubai;DXB;BAH;25.3;55.35;26.27;50.63
+Houston - San Francisco;IAH;SFO;30;-95.34;37.61;-122.39
+Chicago - San Francisco;ORD;SFO;41.6;-98.93;37.61;-122.39
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Mexico City - Monterrey;MTY;MEX;25.8;-100.32;19.43;-99.16
+Denver - London;LHR;DEN;51.5;-0.45;39.77;-104.86
+Newark - Oklahoma City;OKC;EWR;37.3;-107.75;40.69;-74.18
+New York - San Juan;JFK;SJU;40.6;-73.79;18.44;-66.01
+Beijing - Tokyo;PEK;HND;40.1;116.58;35.55;139.75
+Hong Kong - Tokyo;HND;HKG;35.6;139.75;22.32;113.94
+Amsterdam - Paris;CDG;AMS;49;2.54;52.31;4.75
+London - Tokyo;LHR;HND;51.5;-0.45;35.55;139.75
+Karachi - Lahore;KHI;LHE;24.9;67.15;31.52;74.39
+Delhi - Dubai;DXB;DEL;25.3;55.35;28.66;77.26
+Dubai - Kuwait;DXB;KWI;25.3;55.35;29.25;47.97
+Singapore - Washington Dc;IAD;SIN;48.3;11.77;1.34;103.98
+Houston - Los Angeles;IAH;LAX;30;-95.34;34.05;-118.24
+Bahrain - Dubai;DXB;BAH;25.3;55.35;26.27;50.63
+Boston - Toronto;BOS;YYZ;42.2;-71;43.68;-79.61
+Boston - Los Angeles;LAX;BOS;34.1;-118.24;42.21;-71
+Phoenix - Toronto;PHX;YYZ;34.1;-118.24;43.68;-79.61
+Dubai - Glasgow;GLA;DXB;55.9;-4.43;25.25;55.35
+Munich - Tokyo;MUC;NRT;48.3;11.77;35.75;140.39
+Sydney - Tokyo;NRT;SYD;35.8;140.39;-33.92;151.23
+Larnaca - London;LCA;LHR;34.9;33.63;51.47;-0.45
+Cape Town - Johannesburg;JNB;CPT;-26.1;28.23;-33.97;18.59
+Abu Dhabi - London;AUH;LHR;24.4;54.64;51.47;-0.45
+Birmingham - Isle Of Man;IOM;BHX;54.1;-4.63;52.45;-1.73
+Minneapolis - San Francisco;SFO;MSP;39.8;-104.86;44.88;-93.2
+Hong Kong - Singapore;HKG;SIN;22.3;113.94;1.34;103.98
+Munich - Paris;CDG;MUC;49;2.54;48.34;11.77
+Lisbon - Milan;LIS;MXP;38.8;-9.13;45.47;9.18
+New York - Shanghai;PVG;JFK;31.1;121.8;40.64;-73.79
+Louisville - New York;LGA;SDF;40.8;-73.88;38.18;-85.72
+Frankfurt - Luxembourg;FRA;LUX;50.1;8.56;49.63;6.21
+Dubai - Riyadh;RUH;DXB;24.9;46.71;25.25;55.35
+Hong Kong - Singapore;HKG;SIN;22.3;113.94;1.34;103.98
+Dubai - Johannesburg;DXB;JNB;25.3;55.35;-26.13;28.23
+Hong Kong - Sydney;SYD;HKG;-33.9;151.23;22.32;113.94
+Mexico City - Toronto;YYZ;MEX;43.7;-79.61;19.43;-99.16
+Newark - Stuttgart;EWR;STR;40.7;-74.18;54.42;13.52
+Bombay - Singapore;SIN;BOM;1.3;103.98;19.09;72.86
+Atlanta - White Plains;ATL;HPN;42.9;-83.53;41.07;-73.7
+Kalgoorlie - Perth;PER;KGI;-31.9;115.97;-30.78;121.45
+Johannesburg - Mahe Island;JNB;SEZ;-1.3;36.81;-4.68;55.52
+New York - San Francisco;JFK;SFO;40.6;-73.79;37.61;-122.39
+Paris - Shanghai;PVG;CDG;31.1;121.8;49.01;2.54
+Jeddah - London;LHR;JED;51.5;-0.45;21.67;39.15
+Islamabad/rawalpindi - Karachi;ISB;KHI;33.6;73.1;24.9;67.15
+Beijing - Shanghai;PEK;SHA;40.1;116.58;31.19;121.34
+Atlanta - Boston;ATL;BOS;42.9;-83.53;42.21;-71
+Hong Kong - Shanghai;HKG;PVG;22.3;113.94;31.12;121.8
+Sydney - Tokyo;SYD;NRT;-33.9;151.23;35.75;140.39
+Dubai - Nairobi;DXB;NBO;25.3;55.35;-1.28;36.81
+Amsterdam - London;AMS;LGW;52.3;4.75;51.16;-0.16
+Dar Es Salaam - Nairobi;DAR;NBO;-6.9;39.2;-1.28;36.81
+Edinburgh - London;EDI;LHR;56;-3.34;51.47;-0.45
+Gaborone - Maun;MUB;GBE;-20;23.43;-24.56;25.93
+Delhi - Singapore;DEL;SIN;28.7;77.26;1.34;103.98
+London - Seoul;ICN;LHR;37.5;126.66;51.47;-0.45
+Paris - Sao Paulo;GRU;CDG;-23.4;-46.48;49.01;2.54
+New York - Rome;JFK;FCO;40.6;-73.79;41.9;12.5
+Geneva - Paris;GVA;CDG;46.2;6.11;49.01;2.54
+Brisbane - London;LHR;BNE;1.3;103.98;-27.4;153.11
+Moscow - New York;JFK;SVO;40.6;-73.79;55.96;37.42
+Frankfurt - Prague;FRA;PRG;50.1;8.56;50.08;14.43
+Baltimore - London;BWI;LHR;39.2;-76.67;51.47;-0.45
+Atlanta - Sao Paulo;GRU;ATL;-23.4;-46.48;42.94;-83.53
+Boston - Paris;CDG;BOS;49;2.54;42.21;-71
+Dublin - New York;JFK;DUB;40.6;-73.79;53.34;-6.25
+Atlanta - Los Angeles;ATL;LAX;42.9;-83.53;34.05;-118.24
+London - Seattle;SEA;LHR;50.1;8.56;51.47;-0.45
+Ithaca - Newark;ITH;EWR;40;-75.36;40.69;-74.18
+London - Manchester;MAN;LGW;53.4;0.1;51.16;-0.16
+Amman - London;LHR;AMM;51.5;-0.45;31.95;35.94
+Houston - Sao Paulo;GRU;IAH;-23.4;-46.48;29.98;-95.34
+Milan - Newark;MXP;EWR;45.5;9.18;40.69;-74.18
+Dubai - Gaborone;DXB;GBE;-26.1;28.23;-24.56;25.93
+Lisbon - London;LIS;LHR;38.8;-9.13;51.47;-0.45
+Miami - Montevideo;MIA;MVD;33.4;-110.87;-34.83;-56.03
+Oslo - Stockholm;OSL;ARN;59.9;10.75;60.74;15.85
+Geneva - New York;GVA;JFK;46.2;6.11;40.64;-73.79
+Barcelona - London;LHR;BCN;51.5;-0.45;41.3;2.08
+New York - Stockholm;JFK;ARN;40.6;-73.79;60.74;15.85
+Ft. Lauderdale - New York;JFK;FLL;40.6;-73.79;26.07;-80.13
+Lisbon - Singapore;LIS;SIN;50.1;8.56;1.34;103.98
+Berlin - Cologne;TXL;CGN;52.6;13.29;50.88;7.11
+Birmingham - Newark;EWR;BHX;40.7;-74.18;52.45;-1.73
+Antigua - London;ANU;LGW;17.1;-61.79;51.16;-0.16
+Frankfurt - Luxembourg;FRA;LUX;50.1;8.56;49.63;6.21
+Madrid - Tenerife ;TCI;MAD;35.7;-6.92;40.46;-3.58
+Auckland-intl - Hong Kong;HKG;AKL;22.3;113.94;-37;174.79
+Geneva - Rio De Janeiro;GIG;GVA;51.5;-0.45;46.23;6.11
+Dubai - Prague;PRG;DXB;50.1;14.43;25.25;55.35
+Harare - Johannesburg;JNB;HRE;-26.1;28.23;-17.92;31.1
+Las Vegas - Los Angeles;LAX;LAS;34.1;-118.24;32.02;-87.96
+Memphis - Newark;MEM;EWR;33.1;-88.31;40.69;-74.18
+London - Tampa;TPA;LGW;28;-82.54;51.16;-0.16
+Belfast-city - London;BHD;LHR;54.6;-5.87;51.47;-0.45
+Calgary - Vancouver;YYC;YVR;51.1;-114.01;49.19;-123.17
+Bombay - Tokyo;NRT;BOM;35.8;140.39;19.09;72.86
+Los Angeles - Seattle;SEA;LAX;39.9;-75.59;34.05;-118.24
+Milan - Paris;CDG;LIN;49;2.54;45.47;9.18
+New York - Pittsburgh;PIT;JFK;48.7;-94.74;40.64;-73.79
+Paris - Zurich;ZRH;CDG;47.5;8.57;49.01;2.54
+Brussels - Tokyo;NRT;BRU;50.1;8.56;50.89;4.48
+Geneva - Moscow;GVA;SVO;46.2;6.11;55.96;37.42
+Los Angeles - San Francisco;LAX;SFO;34.1;-118.24;37.61;-122.39
+Chicago - St. Louis;STL;ORD;38.7;-90.36;41.6;-98.93
+Bermuda - New York;JFK;BDA;40.6;-73.79;32.37;-64.69
+Edmonton - Newark;YEG;EWR;44.9;-93.2;40.69;-74.18
+Abu Dhabi - Johannesburg;AUH;JNB;24.4;54.64;-26.13;28.23
+Asturias - Madrid;OVD;MAD;43.6;-6.03;40.46;-3.58
+Boston - Miami;BOS;MIA;42.2;-71;33.4;-110.87
+Dubai - Karachi;KHI;DXB;24.9;67.15;25.25;55.35
+Hyderabad - London;HYD;LHR;17.5;78.46;51.47;-0.45
+Liverpool - Madrid;LPL;MAD;53.3;-2.85;40.46;-3.58
+Dubai - Tokyo;DXB;NRT;25.3;55.35;35.75;140.39
+Geneva - New York;JFK;GVA;51.5;-0.45;46.23;6.11
+Amman - Beirut;BEY;AMM;33.8;35.49;31.95;35.94
+Cape Town - Dubai;DXB;CPT;25.3;55.35;-33.97;18.59
+Copenhagen - Paris;CDG;CPH;49;2.54;55.63;12.64
+Newark - Tampa;TPA;EWR;28;-82.54;40.69;-74.18
+Hong Kong - Singapore;SIN;HKG;1.3;103.98;22.32;113.94
+Casablanca-mohamed V. - Dubai;CMN;DXB;33.4;-7.58;25.25;55.35
+Birmingham - Milan;MXP;BHX;45.5;9.18;52.45;-1.73
+Hong Kong - London;LHR;HKG;51.5;-0.45;22.32;113.94
+Bermuda - Newark;BDA;EWR;32.4;-64.69;40.69;-74.18
+Santiago - Sao Paulo;SCL;GRU;-33.4;-70.79;-23.42;-46.48
+Geneva - Glasgow;GLA;GVA;51.5;0.05;46.23;6.11
+Hong Kong - Osaka;KIX;HKG;34.4;135.24;22.32;113.94
+Istanbul - New York;IST;JFK;41;28.99;40.64;-73.79
+Geneva - Jersey;JER;GVA;49.2;-2.19;46.23;6.11
+Hong Kong - Sydney;SYD;HKG;-33.9;151.23;22.32;113.94
+Cairns - Hong Kong;CNS;HKG;-16.9;145.76;22.32;113.94
+London - Tokyo;HND;LHR;35.6;139.75;51.47;-0.45
+Dublin - Newark;EWR;DUB;40.7;-74.18;53.34;-6.25
+London - Melbourne;MEL;LHR;-37.7;144.85;51.47;-0.45
+Brisbane - Singapore;SIN;BNE;1.3;103.98;-27.4;153.11
+Entebbe/kampala - Nairobi;NBO;EBB;-1.3;36.81;0.04;32.44
+Bombay - Hyderabad;BOM;HYD;19.1;72.86;17.45;78.46
+Greensboro/h Pt/win-salem - New York;GSO;LGA;36.1;-79.94;40.77;-73.88
+Accra - Lagos;LOS;ACC;6.6;3.32;5.6;-0.17
+Madrid - Milan;LIN;MAD;45.5;9.18;40.46;-3.58
+Dubai - Johannesburg;JNB;DXB;-26.1;28.23;25.25;55.35
+Dubai - Mauritius;DXB;MRU;25.3;55.35;-20.43;57.68
+Dallas - Washington Dc;DCA;DFW;38.9;-77.04;32.87;-97.04
+Chicago - San Francisco;ORD;SFO;41.6;-98.93;37.61;-122.39
+Calgary - Tokyo;YYC;NRT;49.2;-123.17;35.75;140.39
+London - Manchester;LHR;MAN;51.5;-0.45;53.37;0.1
+Miami - Sao Paulo;MIA;GRU;33.4;-110.87;-23.42;-46.48
+Montreal - New York;LGA;YUL;40.8;-73.88;45.46;-73.75
+London - Toronto;LHR;YYZ;51.5;-0.45;43.68;-79.61
+Miami - Santiago;MIA;SCL;33.4;-110.87;-33.39;-70.79
+Hong Kong - New York;HKG;JFK;22.3;113.94;40.64;-73.79
+Lagos - London;LOS;LHR;6.6;3.32;51.47;-0.45
+Beijing - Tsinan;PEK;TNA;40.1;116.58;36.66;116.97
+Bangkok - Singapore;SIN;BKK;1.3;103.98;13.71;100.77
+Chicago - London;LHR;ORD;51.5;-0.45;41.6;-98.93
+Hong Kong - Toronto;HKG;YYZ;22.3;113.94;43.68;-79.61
+Houston - Paris;IAH;CDG;30;-95.34;49.01;2.54
+Moscow - San Francisco;SFO;DME;50.1;8.56;55.42;37.9
+Sao Paulo - Zurich;ZRH;GRU;47.5;8.57;-23.42;-46.48
+Paris - Tokyo;NRT;CDG;35.8;140.39;49.01;2.54
+Hong Kong - Jakarta;HKG;CGK;22.3;113.94;-6.13;106.66
+New York - San Diego;JFK;SAN;40.6;-73.79;32.7;-102.18
+Austin - Dallas;DFW;AUS;32.9;-97.04;30.2;-97.67
+Istanbul - New York;JFK;IST;40.6;-73.79;41.04;28.99
+Houston - Toronto;IAH;YYZ;30;-95.34;43.68;-79.61
+San Francisco - Sao Paulo;GRU;SFO;-23.4;-46.48;37.61;-122.39
+Beijing - Singapore;PEK;SIN;40.1;116.58;1.34;103.98
+Singapore - Sydney;SYD;SIN;-33.9;151.23;1.34;103.98
+London - Prague;PRG;LHR;50.1;14.43;51.47;-0.45
+Madras - Newark;EWR;MAA;50.1;8.56;13.05;80.23
+London - Vilnius;STN;VNO;51.9;0.26;54.64;25.28
+Lisbon - London;LTN;LIS;51.9;-0.37;38.77;-9.13
+Dubai - London;DXB;LHR;25.3;55.35;51.47;-0.45
+Beijing - Calgary;YYC;PEK;49.2;-123.17;40.07;116.58
+Birmingham - Singapore;BHX;SIN;25.3;55.35;1.34;103.98
+New York - San Francisco;SFO;JFK;37.6;-122.39;40.64;-73.79
+Boston - Paris;CDG;BOS;49;2.54;42.21;-71
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Denver - Los Angeles;LAX;DEN;34.1;-118.24;39.77;-104.86
+Bangkok - Hong Kong;BKK;HKG;13.7;100.77;22.32;113.94
+Bombay - Chicago;ORD;BOM;28.7;77.26;19.09;72.86
+Perth - Singapore;PER;SIN;-31.9;115.97;1.34;103.98
+Delhi - Dubai;DEL;DXB;28.7;77.26;25.25;55.35
+Jakarta-soekarno - Kuala Lumpur;CGK;KUL;-6.1;106.66;2.76;101.71
+Chicago - Toronto;ORD;YYZ;41.6;-98.93;43.68;-79.61
+Copenhagen - Oslo;OSL;CPH;59.9;10.75;55.63;12.64
+Bombay - Madras;BOM;MAA;19.1;72.86;13.05;80.23
+Paris - Sao Paulo;CDG;GRU;49;2.54;-23.42;-46.48
+Beijing - Shanghai;PEK;SHA;40.1;116.58;31.19;121.34
+London - Newark;LHR;EWR;51.5;-0.45;40.69;-74.18
+Chicago - Columbus;CMH;ORD;40;-82.89;41.6;-98.93
+Geneva - Moscow;GVA;DME;46.2;6.11;55.42;37.9
+New York - Orlando;JFK;MCO;40.6;-73.79;28.44;-81.31
+Birmingham - Jersey;JER;BHX;49.2;-2.19;52.45;-1.73
+Denver - New York;DEN;JFK;39.8;-104.86;40.64;-73.79
+Baku - London;GYD;LHR;40.2;47.69;51.47;-0.45
+Bombay - Dubai;DXB;BOM;25.3;55.35;19.09;72.86
+Bogota - Miami;MIA;BOG;33.4;-110.87;4.7;-74.14
+Dallas - San Francisco;DFW;SFO;32.9;-97.04;37.61;-122.39
+Las Vegas - San Francisco;SFO;LAS;37.6;-122.39;32.02;-87.96
+Dubai - Jeddah;DXB;JED;25.3;55.35;21.67;39.15
+Hong Kong - Jakarta;HKG;CGK;22.3;113.94;-6.13;106.66
+Accra - London;ACC;LHR;5.6;-0.17;51.47;-0.45
+London - St. Louis;LHR;STL;41.6;-98.93;38.74;-90.36
+Las Vegas - Philadelphia;PHL;LAS;45.1;-89.01;32.02;-87.96
+Doha - New York;DOH;JFK;25.3;51.56;40.64;-73.79
+New York - Venice;JFK;VCE;40.6;-73.79;45.44;12.32
+Honolulu - Oahu - New York;JFK;HNL;40.6;-73.79;21.34;-157.92
+Jersey-channel Islands - London;LGW;JER;51.2;-0.16;49.21;-2.19
+Chicago - Sao Paulo;GRU;ORD;33.4;-110.87;41.6;-98.93
+Atlanta - New York;JFK;ATL;40.6;-73.79;42.94;-83.53
+Nashville - Newark;BNA;EWR;36.1;-86.67;40.69;-74.18
+Bombay - Manchester;BOM;MAN;25.3;55.35;53.37;0.1
+Amsterdam - Geneva;AMS;GVA;52.3;4.75;46.23;6.11
+London - Sydney;LHR;SYD;51.5;-0.45;-33.92;151.23
+Chengdu - Hong Kong;HKG;CTU;22.3;113.94;30.58;103.94
+Accra - Dar Es Salaam;ACC;DAR;-1.3;36.81;-6.88;39.2
+Osaka - Singapore;KIX;SIN;34.4;135.24;1.34;103.98
+Frankfurt - Tokyo;FRA;NRT;50.1;8.56;35.75;140.39
+Belfast - Newark;BFS;EWR;54.7;-6.22;40.69;-74.18
+Hamburg - London;LTN;HAM;51.9;-0.37;53.64;10.01
+Madrid - Manchester;MAN;MAD;53.4;0.1;40.46;-3.58
+Belfast-city - Glasgow;GLA;BHD;55.9;-4.43;54.61;-5.87
+New York - Washington Dc;DCA;LGA;38.9;-77.04;40.77;-73.88
+Abu Dhabi - Geneva;AUH;GVA;24.4;54.64;46.23;6.11
+Madrid - Paris;CDG;MAD;49;2.54;40.46;-3.58
+Rio De Janeiro - Sao Paulo;GRU;GIG;-23.4;-46.48;-22.81;-43.24
+Bogota - Newark;BOG;EWR;33.4;-110.87;40.69;-74.18
+Johannesburg - Sydney;JNB;SYD;-26.1;28.23;-33.92;151.23
+Dusseldorf - Hamburg;DUS;HAM;51.3;6.78;53.64;10.01
+Alicante - Madrid;ALC;MAD;38.3;-0.56;40.46;-3.58
+Dallas - Lisbon;DFW;LIS;40.7;-74.18;38.77;-9.13
+Shanghai - Singapore;SIN;PVG;1.3;103.98;31.12;121.8
+Jakarta-soekarno - London;LHR;CGK;25.3;51.56;-6.13;106.66
+Detroit - New York;DTW;LGA;37.3;-107.75;40.77;-73.88
+Hyderabad - New York;JFK;HYD;25.3;55.35;17.45;78.46
+Edinburgh - Newark;EDI;EWR;56;-3.34;40.69;-74.18
+Boston - Madrid;BOS;MAD;42.2;-71;40.46;-3.58
+Boston - Minneapolis;MSP;BOS;44.9;-93.2;42.21;-71
+Newark - Prague;PRG;EWR;48.3;11.77;40.69;-74.18
+Melbourne - Perth;PER;MEL;-31.9;115.97;-37.67;144.85
+London - Tel Aviv;TLV;LHR;32;34.89;51.47;-0.45
+Belfast-city - Manchester;BHD;MAN;54.6;-5.87;53.37;0.1
+Paris - Philadelphia;PHL;CDG;45.1;-89.01;49.01;2.54
+Mexico City - Rio De Janeiro;MEX;GIG;9.1;-79.38;-22.81;-43.24
+Frankfurt - London;LCY;FRA;51.5;0.05;50.05;8.56
+Sydney - Tokyo;SYD;NRT;-33.9;151.23;35.75;140.39
+Kiev-borispol - Newark;KBP;EWR;50.1;8.56;40.69;-74.18
+Hong Kong - Tokyo;NRT;HKG;35.8;140.39;22.32;113.94
+Sao Paulo - Tokyo;GRU;NRT;32.9;-97.04;35.75;140.39
+Geneva - Lima;LIM;GVA;52.3;4.75;46.23;6.11
+Frankfurt - Lisbon;FRA;LIS;50.1;8.56;38.77;-9.13
+Delhi - Madrid;MAD;DEL;51.5;-0.45;28.66;77.26
+Philadelphia - Providence;PVD;PHL;41.7;-71.44;45.05;-89.01
+Hong Kong - Tokyo;HND;HKG;35.6;139.75;22.32;113.94
+Bogota - Frankfurt;BOG;FRA;4.7;-74.14;50.05;8.56
+London - Minneapolis;LHR;MSP;51.5;-0.45;44.88;-93.2
+Bogota - Sao Paulo;GRU;BOG;-23.4;-46.48;4.7;-74.14
+Milan - Zurich;ZRH;MXP;47.5;8.57;45.47;9.18
+Cape Town - East London;ELS;CPT;-33;27.83;-33.97;18.59
+Brussels - Geneva;BRU;GVA;50.9;4.48;46.23;6.11
+Melbourne - Newark;EWR;MEL;34.1;-118.24;-37.67;144.85
+Cape Town - Hong Kong;HKG;CPT;-26.1;28.23;-33.97;18.59
+Johannesburg - Umtata;JNB;UTT;-26.1;28.23;-31.55;28.67
+London - Venice;VCE;LHR;45.4;12.32;51.47;-0.45
+Johannesburg - Zurich;ZRH;JNB;47.5;8.57;-26.13;28.23
+Delhi - Frankfurt;DEL;FRA;28.7;77.26;50.05;8.56
+Glasgow - New York;GLA;JFK;51.5;-0.45;40.64;-73.79
+Bahrain - London;LHR;BAH;51.5;-0.45;26.27;50.63
+Newark - Paris;EWR;ORY;40.7;-74.18;48.73;2.37
+London - Tokyo;NRT;LHR;35.8;140.39;51.47;-0.45
+Calgary - New York;YYC;LGA;43.7;-79.61;40.77;-73.88
+Nairobi - Singapore;SIN;NBO;25.3;55.35;-1.28;36.81
+Auckland-intl - London;AKL;LHR;1.3;103.98;51.47;-0.45
+Hong Kong - Paris;HKG;CDG;22.3;113.94;49.01;2.54
+Lima - Sao Paulo;LIM;GRU;-12;-77.11;-23.42;-46.48
+Madrid - Mexico City;MAD;MEX;33.4;-110.87;19.43;-99.16
+Singapore - Zurich;SIN;ZRH;1.3;103.98;47.45;8.57
+New York - Seoul;JFK;ICN;40.6;-73.79;37.45;126.66
+Los Angeles - New York;JFK;LAX;40.6;-73.79;34.05;-118.24
+Amsterdam - Geneva;GVA;AMS;46.2;6.11;52.31;4.75
+Boston - Washington Dc;DCA;BOS;38.9;-77.04;42.21;-71
+Rio De Janeiro - San Francisco;GIG;SFO;33.4;-110.87;37.61;-122.39
+Dubai - Moscow;DME;DXB;55.4;37.9;25.25;55.35
+Hong Kong - Ulan Bator;HKG;ULN;22.3;113.94;47.85;106.76
+San Francisco - Taipei;SFO;TPE;37.6;-122.39;25.08;121.24
+Paris - Stockholm;CDG;ARN;49;2.54;60.74;15.85
+Dubai - New York;JFK;DXB;40.6;-73.79;25.25;55.35
+Munich - Paris;CDG;MUC;49;2.54;48.34;11.77
+Amsterdam - Stockholm;AMS;ARN;52.3;4.75;60.74;15.85
+Amsterdam - Johannesburg;AMS;JNB;49;2.54;-26.13;28.23
+Dallas - Houston;DFW;IAH;32.9;-97.04;29.98;-95.34
+Delhi - Madras;MAA;DEL;13.1;80.23;28.66;77.26
+Kuala Lumpur - Tokyo;KUL;NRT;2.8;101.71;35.75;140.39
+Mauritius - Nairobi;MRU;NBO;-20.4;57.68;-1.28;36.81
+Johannesburg - Lisbon;LIS;JNB;51.5;-0.45;-26.13;28.23
+Bombay - Lisbon;BOM;LIS;50.1;8.56;38.77;-9.13
+Hamburg - Newcastle;NCL;HAM;52.3;4.75;53.64;10.01
+Geneva - Paris;CDG;GVA;49;2.54;46.23;6.11
+Bangkok - Zurich;BKK;ZRH;13.7;100.77;47.45;8.57
+London - San Francisco;SFO;LHR;37.6;-122.39;51.47;-0.45
+Nice - Paris;NCE;CDG;43.7;7.21;49.01;2.54
+Amsterdam - Mexico City;MEX;AMS;19.4;-99.16;52.31;4.75
+London - Nairobi;NBO;LHR;-1.3;36.81;51.47;-0.45
+Entebbe/kampala - Nairobi;EBB;NBO;0;32.44;-1.28;36.81
+Bahrain - Frankfurt;FRA;BAH;50.1;8.56;26.27;50.63
+Madrid - Singapore;MAD;SIN;50.1;8.56;1.34;103.98
+Boston - Miami;MIA;BOS;33.4;-110.87;42.21;-71
+Denver - Toronto;YYZ;DEN;43.7;-79.61;39.77;-104.86
+Frankfurt - Manchester;MAN;FRA;53.4;0.1;50.05;8.56
+New York - Omaha;OMA;LGA;31.7;-90.15;40.77;-73.88
+London - Minneapolis;MSP;LHR;44.9;-93.2;51.47;-0.45
+Madison - New York;MSN;LGA;41.6;-98.93;40.77;-73.88
+Delhi - Tokyo;DEL;NRT;28.7;77.26;35.75;140.39
+Chicago - New York;ORD;LGA;41.6;-98.93;40.77;-73.88
+Lima - London;LHR;LIM;40.5;-3.58;-12.02;-77.11
+Durban - Gaborone;DUR;GBE;-26.1;28.23;-24.56;25.93
+Amsterdam - Frankfurt;FRA;AMS;50.1;8.56;52.31;4.75
+Dubai - Houston;DXB;IAH;25.3;55.35;29.98;-95.34
+Houston - Mobile;IAH;MOB;30;-95.34;35.88;-85.26
+Newark - San Francisco;EWR;SFO;40.7;-74.18;37.61;-122.39
+Jersey-channel Islands - Southampton;JER;SOU;49.2;-2.19;50.95;-1.36
+Madrid - Porto;MAD;OPO;40.5;-3.58;41.24;-8.67
+Frankfurt - Kuala Lumpur;KUL;FRA;2.8;101.71;50.05;8.56
+Manila - Singapore;SIN;MNL;1.3;103.98;14.51;121.02
+Barcelona - Newark;EWR;BCN;40.7;-74.18;41.3;2.08
+London - Madras;LHR;MAA;28.7;77.26;13.05;80.23
+Frankfurt - Lisbon;FRA;LIS;50.1;8.56;38.77;-9.13
+London - Sao Paulo;LHR;GRU;51.5;-0.45;-23.42;-46.48
+London - Taipei;TPE;LHR;22.3;113.94;51.47;-0.45
+Hong Kong - Taipei;HKG;TPE;22.3;113.94;25.08;121.24
+Geneva - London;LHR;GVA;51.5;-0.45;46.23;6.11
+Johannesburg - London;LHR;JNB;51.5;-0.45;-26.13;28.23
+Paris - Stockholm;CDG;ARN;49;2.54;60.74;15.85
+London - Paris;CDG;LHR;49;2.54;51.47;-0.45
+Newark - Zurich;ZRH;EWR;47.5;8.57;40.69;-74.18
+East London - Port Elizabeth;PLZ;ELS;-34;25.61;-33.04;27.83
+New York - Norfolk;ORF;LGA;36.9;-76.22;40.77;-73.88
+Los Angeles - San Jose;LAX;SJC;34.1;-118.24;37.37;-121.93
+Johannesburg - Paris;JNB;CDG;-26.1;28.23;49.01;2.54
+Hong Kong - London;HKG;LHR;22.3;113.94;51.47;-0.45
+Frankfurt - London;FRA;LHR;50.1;8.56;51.47;-0.45
+Bombay - Frankfurt;BOM;FRA;19.1;72.86;50.05;8.56
+Chicago - Ft. Lauderdale;FLL;ORD;26.1;-80.13;41.6;-98.93
+New Orleans - Philadelphia;PHL;MSY;45.1;-89.01;29.98;-90.26
+Copenhagen - London;CPH;LHR;55.6;12.64;51.47;-0.45
+New Orleans - Washington Dc;MSY;DCA;30;-90.26;38.85;-77.04
+Beijing - Shanghai;SHA;PEK;31.2;121.34;40.07;116.58
+Boston - New York;BOS;JFK;42.2;-71;40.64;-73.79
+Frankfurt - Singapore;FRA;SIN;50.1;8.56;1.34;103.98
+San Francisco - Toronto;YYZ;SFO;43.7;-79.61;37.61;-122.39
+Los Angeles - Shanghai;LAX;PVG;34.1;-118.24;31.12;121.8
+Paris - Rio De Janeiro;GIG;CDG;-22.8;-43.24;49.01;2.54
+Hong Kong - Singapore;SIN;HKG;1.3;103.98;22.32;113.94
+Chicago - Cincinnati;CVG;ORD;39.1;-84.66;41.6;-98.93
+New York - Oklahoma City;OKC;LGA;41.6;-98.93;40.77;-73.88
+Abu Dhabi - Muscat;MCT;AUH;23.6;58.29;24.42;54.64
+Doha - Johannesburg;DOH;JNB;25.3;55.35;-26.13;28.23
+London - Rome;LHR;FCO;51.5;-0.45;41.9;12.5
+London - Singapore;LHR;SIN;51.5;-0.45;1.34;103.98
+Helsinki - New York;JFK;HEL;52.3;4.75;60.31;24.97
+Frankfurt - Zurich;FRA;ZRH;50.1;8.56;47.45;8.57
+Atlanta - New York;JFK;ATL;40.6;-73.79;42.94;-83.53
+London - Taipei;LHR;TPE;50.1;8.56;25.08;121.24
+Lisbon - Sao Paulo;SAO;LIS;-14.2;-51.41;38.77;-9.13
+Brisbane - Melbourne;BNE;MEL;-27.4;153.11;-37.67;144.85
+Dubai - Milan;DXB;MXP;25.3;55.35;45.47;9.18
+Los Angeles - Miami;LAX;MIA;34.1;-118.24;33.4;-110.87
+Dubai - Madras;DXB;MAA;25.3;55.35;13.05;80.23
+Frankfurt - Madras;FRA;MAA;50.1;8.56;13.05;80.23
+Toronto - Washington Dc;DCA;YYZ;38.9;-77.04;43.68;-79.61
+Hong Kong - Singapore;SIN;HKG;1.3;103.98;22.32;113.94
+Atlanta - Washington Dc;ATL;IAD;42.9;-83.53;38.96;-77.45
+Edinburgh - Manchester;EDI;MAN;56;-3.34;53.37;0.1
+Belfast-city - Birmingham;BHD;BHX;54.6;-5.87;52.45;-1.73
+London - Paris;CDG;LHR;49;2.54;51.47;-0.45
+Bombay - Dubai;BOM;DXB;19.1;72.86;25.25;55.35
+Hong Kong - Zurich;ZRH;HKG;47.5;8.57;22.32;113.94
+Lisbon - Maputo;LIS;MPM;38.8;-9.13;-25.92;32.57
+London - Rabat;LHR;RBA;49;2.54;30.74;-6.45
+Rio De Janeiro - Sao Paulo;GRU;GIG;-23.4;-46.48;-22.81;-43.24
+Karachi - London;KHI;LHR;24.9;67.15;51.47;-0.45
+Los Angeles - Sydney;SYD;LAX;-33.9;151.23;34.05;-118.24
+Paris - Singapore;SIN;CDG;1.3;103.98;49.01;2.54
+Copenhagen - Helsinki;CPH;HEL;55.6;12.64;60.31;24.97
+Madrid - Santiago De Compostela;MAD;SCQ;40.5;-3.58;42.9;-8.42
+Delhi - Hong Kong;HKG;DEL;22.3;113.94;28.66;77.26
+Amman - Dubai;AMM;DXB;32;35.94;25.25;55.35
+Los Angeles - San Diego;SAN;LAX;32.7;-102.18;34.05;-118.24
+Boston - Doha;DOH;BOS;51.5;-0.45;42.21;-71
+Austin - Tokyo;AUS;NRT;32.9;-97.04;35.75;140.39
+Taipei-sung Shan - Tokyo;HND;TSA;35.6;139.75;25.06;121.55
+Stockholm - Zurich;ARN;ZRH;60.7;15.85;47.45;8.57
+New York - Seoul;JFK;ICN;40.6;-73.79;37.45;126.66
+Frankfurt - Tel Aviv;FRA;TLV;50.1;8.56;32.01;34.89
+Addis Ababa - Johannesburg;JNB;ADD;-26.1;28.23;8.98;38.8
+Boston - New York;BOS;LGA;42.2;-71;40.77;-73.88
+New Orleans - Newark;MSY;EWR;30;-90.26;40.69;-74.18
+Geneva - Paris;CDG;GVA;49;2.54;46.23;6.11
+Atlanta - Mexico City;MEX;ATL;19.4;-99.16;42.94;-83.53
+Montpellier - Paris;MPL;ORY;43.6;3.96;48.73;2.37
+Hong Kong - London;HKG;LHR;22.3;113.94;51.47;-0.45
+Boston - London;LHR;BOS;51.5;-0.45;42.21;-71
+Bombay - New York;BOM;JFK;19.1;72.86;40.64;-73.79
+Lisbon - Miami;MIA;LIS;51.5;-0.45;38.77;-9.13
+San Jose - Sao Paulo;SJC;GRU;32.9;-97.04;-23.42;-46.48
+Doha - New York;DOH;JFK;25.3;51.56;40.64;-73.79
+Munich - Newark;MUC;EWR;48.3;11.77;40.69;-74.18
+Singapore - Zurich;SIN;ZRH;1.3;103.98;47.45;8.57
+Malaga - New York;JFK;AGP;40.6;-73.79;36.68;-4.49
+Frankfurt - Vienna;VIE;FRA;48.2;16.37;50.05;8.56
+Dublin - Milan;DUB;LIN;53.3;-6.25;45.47;9.18
+Lisbon - London;LHR;LIS;51.5;-0.45;38.77;-9.13
+Milan - Newark;LIN;EWR;51.5;-0.45;40.69;-74.18
+Singapore - Taipei;TPE;SIN;25.1;121.24;1.34;103.98
+Jakarta-soekarno - Singapore;CGK;SIN;-6.1;106.66;1.34;103.98
+Manchester - Philadelphia;PHL;MAN;45.1;-89.01;53.37;0.1
+Berlin - Frankfurt;FRA;TXL;50.1;8.56;52.55;13.29
+Cape Town - Singapore;SIN;CPT;1.3;103.98;-33.97;18.59
+Lisbon - Philadelphia;PHL;LIS;45.1;-89.01;38.77;-9.13
+Charleston - New York;LGA;CHS;40.8;-73.88;32.88;-80.04
+Newark - Richmond;EWR;RIC;40.7;-74.18;45.75;-94.22
+Madrid - Sao Paulo;MAD;SAO;40.5;-3.58;-14.24;-51.41
+Manchester - Vilnius;MAN;VNO;50.1;8.56;54.64;25.28
+Bombay - Hong Kong;HKG;BOM;22.3;113.94;19.09;72.86
+Dubai - Gaborone;DXB;GBE;-26.1;28.23;-24.56;25.93
+Newark - Turin;TRN;EWR;48.3;11.77;40.69;-74.18
+Lisbon - Sao Paulo;VCP;LIS;-23;-47.14;38.77;-9.13
+Dubai - Tokyo;NRT;DXB;35.8;140.39;25.25;55.35
+Boston - Dallas;BOS;DFW;42.2;-71;32.87;-97.04
+Durban - Johannesburg;DUR;JNB;-30;30.95;-26.13;28.23
+New York - West Palm Beach;PBI;JFK;26.7;-80.09;40.64;-73.79
+Dar Es Salaam - Gaborone;GBE;DAR;-26.1;28.23;-6.88;39.2
+Los Angeles - Singapore;SIN;LAX;1.3;103.98;34.05;-118.24
+Madrid - Paris;ORY;MAD;48.7;2.37;40.46;-3.58
+Atlanta - Dallas;ATL;DFW;42.9;-83.53;32.87;-97.04
+Glasgow - Johannesburg;GLA;JNB;51.5;-0.45;-26.13;28.23
+Bari - Milan;BRI;LIN;41.1;16.87;45.47;9.18
+Entebbe/kampala - Johannesburg;JNB;EBB;-26.1;28.23;0.04;32.44
+London - Nice;LCY;NCE;51.5;0.05;43.67;7.21
+Copenhagen - London;LHR;CPH;51.5;-0.45;55.63;12.64
+Beirut - Cairo;CAI;BEY;30.1;31.25;33.82;35.49
+Guernsey -channel Isl. - Manchester;MAN;GCI;53.4;0.1;49.43;-2.6
+Atlanta - Paris;ATL;CDG;42.9;-83.53;49.01;2.54
+Dubai - Lisbon;DXB;LIS;49;2.54;38.77;-9.13
+Alma Ata - Atyrau;ALA;GUW;43.4;77.03;47.11;51.85
+Bahrain - Muscat;MCT;BAH;23.6;58.29;26.27;50.63
+Brisbane - Los Angeles;LAX;BNE;34.1;-118.24;-27.4;153.11
+Houston - Pittsburgh;IAH;PIT;30;-95.34;48.72;-94.74
+Manchester - Portland;PDX;MAN;52.3;4.75;53.37;0.1
+Paris - Singapore;CDG;SIN;49;2.54;1.34;103.98
+Johannesburg - Nice;JNB;NCE;49;2.54;43.67;7.21
+Dubai - Madras;DXB;MAA;25.3;55.35;13.05;80.23
+Alma Ata - Zurich;ZRH;ALA;50.1;8.56;43.36;77.03
+Bombay - London;LHR;BOM;51.5;-0.45;19.09;72.86
+Dubai - Riyadh;DXB;RUH;25.3;55.35;24.94;46.71
+Chicago - Detroit;DTW;ORD;37.3;-107.75;41.6;-98.93
+Hamburg - Newark;EWR;HAM;51.5;-0.45;53.64;10.01
+Bombay - Poona;BOM;PNQ;19.1;72.86;18.58;73.91
+Basel-Mulhouse-Freiburg - San Francisco;SFO;BSL;50.1;8.56;47.55;7.59
+London - Sydney;SYD;LHR;-33.9;151.23;51.47;-0.45
+Doha - Sao Paulo;DOH;GRU;25.3;51.56;-23.42;-46.48
+Dubai - Washington Dc;DXB;IAD;40.6;-73.79;38.96;-77.45
+Hanover - Munich;HAJ;MUC;52.5;9.7;48.34;11.77
+Amsterdam - Hanover;AMS;HAJ;52.3;4.75;52.46;9.7
+Frankfurt - Munich;MUC;FRA;48.3;11.77;50.05;8.56
+Amsterdam - Zurich;AMS;ZRH;52.3;4.75;47.45;8.57
+Chicago - Montreal;YUL;ORD;45.5;-73.75;41.6;-98.93
+Milan - Trieste;LIN;TRS;45.5;9.18;45.65;13.77
+Boston - Denver;BOS;DEN;42.2;-71;39.77;-104.86
+Johannesburg - Nairobi;NBO;JNB;-1.3;36.81;-26.13;28.23
+Abu Dhabi - Manchester;AUH;MAN;24.4;54.64;53.37;0.1
+Abu Dhabi - Manila;MNL;AUH;14.5;121.02;24.42;54.64
+Lima - Santiago;LIM;SCL;-12;-77.11;-33.39;-70.79
+Santa Ana - Sao Paulo;GRU;SNA;32.9;-97.04;37.41;-86.16
+Hamburg - London;LGW;HAM;51.2;-0.16;53.64;10.01
+London - Pittsburgh;LHR;PIT;39;-77.45;48.72;-94.74
+Dallas - New York;DFW;LGA;32.9;-97.04;40.77;-73.88
+Hong Kong - London;HKG;LHR;22.3;113.94;51.47;-0.45
+Sydney - Tokyo;NRT;SYD;35.8;140.39;-33.92;151.23
+Melbourne - Sydney;MEL;SYD;-37.7;144.85;-33.92;151.23
+Hong Kong - Los Angeles;LAX;HKG;34.1;-118.24;22.32;113.94
+Denver - Los Angeles;DEN;LAX;39.8;-104.86;34.05;-118.24
+Geneva - Houston;IAH;GVA;40.7;-74.18;46.23;6.11
+Dubai - Melbourne;MEL;DXB;-37.7;144.85;25.25;55.35
+London - Los Angeles;LHR;LAX;51.5;-0.45;34.05;-118.24
+Accra - Lagos;LOS;ACC;6.6;3.32;5.6;-0.17
+Tel Aviv-yafo - Zurich;ZRH;TLV;47.5;8.57;32.01;34.89
+San Francisco - Shanghai;PVG;SFO;31.1;121.8;37.61;-122.39
+Newark - San Francisco;SFO;EWR;37.6;-122.39;40.69;-74.18
+Albuquerque - San Francisco;ABQ;SFO;39.8;-104.86;37.61;-122.39
+Manila - New York;MNL;JFK;14.5;121.02;40.64;-73.79
+New York - Panama City;JFK;PTY;40.6;-73.79;9.07;-79.38
+Boston - Toronto;BOS;YYZ;42.2;-71;43.68;-79.61
+Cape Town - George;CPT;GRJ;-34;18.59;-34;22.38
+Munich - Zurich;MUC;ZRH;48.3;11.77;47.45;8.57
+Perth - Sydney;SYD;PER;-33.9;151.23;-31.94;115.97
+Johannesburg - Washington Dc;JNB;IAD;-26.1;28.23;38.96;-77.45
+Amsterdam - Geneva;GVA;AMS;46.2;6.11;52.31;4.75
+Bogota - Santiago;SCL;BOG;-33.4;-70.79;4.7;-74.14
+Seoul - Zurich;ICN;ZRH;48.3;11.77;47.45;8.57
+Austin - New York;AUS;LGA;32.9;-97.04;40.77;-73.88
+Doha - Geneva;GVA;DOH;46.2;6.11;25.27;51.56
+London - Lugano;LCY;LUG;47.5;8.57;46;8.91
+Belfast - Glasgow;BFS;GLA;54.7;-6.22;55.86;-4.43
+Calgary - Edmonton;YYC;YEG;51.1;-114.01;53.31;-113.58
+Moscow - Tselinograd;SVO;TSE;56;37.42;51.03;71.48
+East Midlands - Glasgow;EMA;GLA;52.8;-1.33;55.86;-4.43
+Dubai - Lisbon;LIS;DXB;38.8;-9.13;25.25;55.35
+Newark - Poona;PNQ;EWR;50.1;8.56;40.69;-74.18
+Melbourne - Perth;PER;MEL;-31.9;115.97;-37.67;144.85
+Athens - Milan;MXP;ATH;45.5;9.18;37.89;23.72
+Denver - San Francisco;DEN;SFO;39.8;-104.86;37.61;-122.39
+Beijing - Singapore;PEK;SIN;40.1;116.58;1.34;103.98
+Cape Town - London;CPT;LHR;-34;18.59;51.47;-0.45
+Madras - Tokyo;NRT;MAA;1.3;103.98;13.05;80.23
+Newcastle - Southampton;SOU;NCL;51;-1.36;55.04;-1.71
+Houston - San Jose Del Cabo;IAH;SJD;30;-95.34;23.16;-109.72
+Hamburg - London;HAM;LHR;53.6;10.01;51.47;-0.45
+Dusseldorf - London;DUS;LHR;51.3;6.78;51.47;-0.45
+Luxembourg - Milan;LUX;MXP;49.6;6.21;45.47;9.18
+Houston - San Antonio;IAH;SAT;30;-95.34;37.91;-89.45
+Los Angeles - Minneapolis;MSP;LAX;44.9;-93.2;34.05;-118.24
+Philadelphia - Phoenix;PHL;PHX;44.9;-93.2;33.44;-112.03
+Florence - Frankfurt;FRA;FLR;50.1;8.56;43.8;11.2
+Leeds/bradford - Southampton;SOU;LBA;51;-1.36;53.87;-1.66
+London - Rio De Janeiro;GIG;LHR;-22.8;-43.24;51.47;-0.45
+Burbank - San Francisco;BUR;SFO;34.2;-118.35;37.61;-122.39
+Madrid - Singapore;MAD;SIN;50.1;8.56;1.34;103.98
+Dubai - Riyadh;RUH;DXB;24.9;46.71;25.25;55.35
+London - Riyadh;LHR;RUH;51.5;-0.45;24.94;46.71
+Helsinki - Stockholm;ARN;HEL;60.7;15.85;60.31;24.97
+Detroit - New York;DTW;JFK;37.3;-107.75;40.64;-73.79
+Brasilia - Rio De Janeiro;GIG;BSB;-22.8;-43.24;-15.86;-47.91
+Brasilia - Sao Paulo;BSB;GRU;-15.9;-47.91;-23.42;-46.48
+Lima - Sao Paulo;GRU;LIM;-23.4;-46.48;-12.02;-77.11
+Jakarta-soekarno - Tokyo;CGK;NRT;-6.1;106.66;35.75;140.39
+Johannesburg - Mahe Island;SEZ;JNB;-20.4;57.68;-26.13;28.23
+Johannesburg - Pietermaritzburg;PZB;JNB;-29.6;30.39;-26.13;28.23
+London - Malaga;AGP;LGW;36.7;-4.49;51.16;-0.16
+Frankfurt - Riyadh;RUH;FRA;24.9;46.71;50.05;8.56
+Johannesburg - Sydney;SYD;JNB;-33.9;151.23;-26.13;28.23
+Hong Kong - Istanbul;HKG;IST;22.3;113.94;41.04;28.99
+Paris - Singapore;CDG;SIN;49;2.54;1.34;103.98
+New York - Raleigh/durham;RDU;JFK;35.9;-78.79;40.64;-73.79
+Houston - Manchester;IAH;MAN;30;-95.34;53.37;0.1
+Bombay - Dubai;BOM;DXB;19.1;72.86;25.25;55.35
+Los Angeles - Tokyo;LAX;NRT;34.1;-118.24;35.75;140.39
+Jersey-channel Islands - Manchester;MAN;JER;53.4;0.1;49.21;-2.19
+Delhi - Poona;DEL;PNQ;28.7;77.26;18.58;73.91
+Newark - San Jose;EWR;SJO;40.7;-74.18;9.99;-84.21
+Hong Kong - Singapore;SIN;HKG;1.3;103.98;22.32;113.94
+Frankfurt - Poona;FRA;PNQ;50.1;8.56;18.58;73.91
+Bombay - Zurich;BOM;ZRH;19.1;72.86;47.45;8.57
+Glasgow - London;GLA;LHR;55.9;-4.43;51.47;-0.45
+Sydney - Toronto;SYD;YYZ;34.1;-118.24;43.68;-79.61
+Jakarta-soekarno - Singapore;SIN;CGK;1.3;103.98;-6.13;106.66
+Bogota - Medellin;MDE;BOG;6.2;-75.43;4.7;-74.14
+Delhi - San Francisco;SFO;DEL;50.1;8.56;28.66;77.26
+Newark - Salt Lake City;EWR;SLC;40.7;-74.18;40.76;-111.89
+Dubai - Muscat;MCT;DXB;23.6;58.29;25.25;55.35
+Atlanta - Nashville;BNA;ATL;36.1;-86.67;42.94;-83.53
+London - Milan;LHR;LIN;51.5;-0.45;45.47;9.18
+Madrid - Vigo;VGO;MAD;42.2;-8.63;40.46;-3.58
+Frankfurt - Poona;PNQ;FRA;18.6;73.91;50.05;8.56
+Cairo - Dubai;CAI;DXB;30.1;31.25;25.25;55.35
+Moscow - Paris;SVO;CDG;56;37.42;49.01;2.54
+San Diego - San Francisco;SFO;SAN;37.6;-122.39;32.7;-102.18
+Chicago - San Francisco;ORD;SFO;41.6;-98.93;37.61;-122.39
+Chicago - New York;LGA;ORD;40.8;-73.88;41.6;-98.93
+New York - Paris;CDG;JFK;49;2.54;40.64;-73.79
+London - San Diego;SAN;LHR;30;-95.34;51.47;-0.45
+Dubai - London;LHR;DXB;51.5;-0.45;25.25;55.35
+Bombay - Munich;MUC;BOM;48.3;11.77;19.09;72.86
+Mexico City - New York;JFK;MEX;40.6;-73.79;19.43;-99.16
+Basel-Mulhouse-Freiburg - Frankfurt;FRA;BSL;50.1;8.56;47.55;7.59
+Boston - Dublin;BOS;DUB;42.2;-71;53.34;-6.25
+Hong Kong - London;LHR;HKG;51.5;-0.45;22.32;113.94
+Billund - London;LCY;BLL;51.5;0.05;55.75;9.15
+Chicago - Toronto;YYZ;ORD;43.7;-79.61;41.6;-98.93
+Denver - Newcastle;NCL;DEN;51.5;-0.45;39.77;-104.86
+Johannesburg - Lagos;LOS;JNB;6.6;3.32;-26.13;28.23
+Kiev-borispol - London;LHR;KBP;51.5;-0.45;50.43;30.55
+Hiroshima - Tokyo;HIJ;HND;34.4;132.92;35.55;139.75
+Dublin - Luxembourg;LUX;DUB;51.5;0.05;53.34;-6.25
+Ithaca - New York;LGA;ITH;40.8;-73.88;40.03;-75.36
+Entebbe/kampala - London;EBB;LHR;0;32.44;51.47;-0.45
+Minneapolis - New York;MSP;LGA;44.9;-93.2;40.77;-73.88
+Houston - Las Vegas;IAH;LAS;30;-95.34;32.02;-87.96
+Miami - Newark;EWR;MIA;40.7;-74.18;33.4;-110.87
+Atlanta - Washington Dc;ATL;DCA;42.9;-83.53;38.85;-77.04
+Birmingham - Frankfurt;FRA;BHX;50.1;8.56;52.45;-1.73
+Chicago - Tokyo;NRT;ORD;35.8;140.39;41.6;-98.93
+Singapore - Tokyo;SIN;NRT;1.3;103.98;35.75;140.39
+Hong Kong - Vancouver;YVR;HKG;49.2;-123.17;22.32;113.94
+Dubai - Kuala Lumpur;DXB;KUL;25.3;55.35;2.76;101.71
+Berlin - London;LHR;BER;51.5;-0.45;47.81;9.6
+London - Sydney;SYD;LHR;-33.9;151.23;51.47;-0.45
+San Diego - San Jose;SAN;SJC;32.7;-102.18;37.37;-121.93
+New York - San Antonio;SAT;LGA;30;-95.34;40.77;-73.88
+Cologne - Hamburg;CGN;HAM;50.9;7.11;53.64;10.01
+London - Stockholm;LCY;ARN;51.5;0.05;60.74;15.85
+Amsterdam - Newcastle;AMS;NCL;52.3;4.75;55.04;-1.71
+Amsterdam - Nairobi;NBO;AMS;-1.3;36.81;52.31;4.75
+Cairo - Nairobi;NBO;CAI;-1.3;36.81;30.05;31.25
+Doha - Tokyo;DOH;NRT;25.3;51.56;35.75;140.39
+Chicago - Los Angeles;ORD;LAX;41.6;-98.93;34.05;-118.24
+Frankfurt - Osaka;FRA;KIX;50.1;8.56;34.43;135.24
+Bombay - New York;JFK;BOM;25.3;55.35;19.09;72.86
+Beijing - Munich;PEK;MUC;40.1;116.58;48.34;11.77
+Beijing - Seoul;ICN;PEK;37.5;126.66;40.07;116.58
+London - Santiago;LCY;SCL;40.5;-3.58;-33.39;-70.79
+Beirut - London;LHR;BEY;51.5;-0.45;33.82;35.49
+Dar Es Salaam - Dubai;DXB;DAR;25.3;55.35;-6.88;39.2
+Dublin - Manchester;MAN;DUB;53.4;0.1;53.34;-6.25
+New York - Tulsa;TUL;LGA;33.1;-88.31;40.77;-73.88
+Belfast-city - Edinburgh;EDI;BHD;56;-3.34;54.61;-5.87
+Chicago - San Francisco;SFO;ORD;37.6;-122.39;41.6;-98.93
+Brussels - London;BRU;LHR;50.9;4.48;51.47;-0.45
+Brussels - Frankfurt;FRA;BRU;50.1;8.56;50.89;4.48
+Atlanta - Houston;IAH;ATL;30;-95.34;42.94;-83.53
+Phoenix - San Francisco;PHX;SFO;33.4;-112.03;37.61;-122.39
+Bombay - Newark;BOM;EWR;19.1;72.86;40.69;-74.18
+Manila - Tokyo;NRT;MNL;35.8;140.39;14.51;121.02
+Kuala Lumpur - Singapore;SIN;KUL;1.3;103.98;2.76;101.71
+Jakarta-soekarno - Taipei;TPE;CGK;22.3;113.94;-6.13;106.66
+London - Singapore;LHR;SIN;51.5;-0.45;1.34;103.98
+Melbourne - Singapore;SIN;MEL;1.3;103.98;-37.67;144.85
+Bombay - San Francisco;BOM;SFO;50.1;8.56;37.61;-122.39
+Geneva - Lagos;GVA;LOS;50.1;8.56;6.58;3.32
+New York - Rio De Janeiro;LGA;GIG;33.4;-110.87;-22.81;-43.24
+Amsterdam - London;AMS;LHR;52.3;4.75;51.47;-0.45
+Chicago - Kansas City;ORD;MCI;41.6;-98.93;39.3;-94.72
+Calgary - Tokyo;YYC;NRT;49.2;-123.17;35.75;140.39
+London - Nassau;LHR;NAS;51.5;-0.45;25.08;-77.34
+Los Angeles - Seoul;ICN;LAX;37.5;126.66;34.05;-118.24
+Los Angeles - San Diego;SAN;LAX;32.7;-102.18;34.05;-118.24
+Bombay - London;BOM;LHR;19.1;72.86;51.47;-0.45
+Los Angeles - New York;LAX;JFK;34.1;-118.24;40.64;-73.79
+Paris - San Francisco;SFO;CDG;37.6;-122.39;49.01;2.54
+Amsterdam - Dubai;AMS;DXB;52.3;4.75;25.25;55.35
+Boston - Frankfurt;BOS;FRA;42.2;-71;50.05;8.56
+Paris - Singapore;SIN;CDG;1.3;103.98;49.01;2.54
+Jakarta-soekarno - New York;JFK;CGK;1.3;103.98;-6.13;106.66
+Los Angeles - Toronto;LAX;YYZ;34.1;-118.24;43.68;-79.61
+Brisbane - Los Angeles;BNE;LAX;-27.4;153.11;34.05;-118.24
+Cairo - Geneva;CAI;GVA;30.1;31.25;46.23;6.11
+Johannesburg - Sao Paulo;GRU;JNB;-23.4;-46.48;-26.13;28.23
+Mombasa - Nairobi;NBO;MBA;-1.3;36.81;-4;39.72
+Austin - Dallas;DAL;AUS;36.7;-84.09;30.2;-97.67
+New Orleans - New York;JFK;MSY;40.6;-73.79;29.98;-90.26
+New York - Tokyo;NRT;JFK;35.8;140.39;40.64;-73.79
+Beirut - Dubai;BEY;DXB;33.8;35.49;25.25;55.35
+Sao Paulo - Sao Paulo;CGH;CGH;-22.9;-43.17;-23.63;-46.66
+Copenhagen - Stockholm;ARN;CPH;60.7;15.85;55.63;12.64
+Frankfurt - Seoul;ICN;FRA;37.5;126.66;50.05;8.56
+Hong Kong - Munich;MUC;HKG;48.3;11.77;22.32;113.94
+Geneva - Madrid;GVA;MAD;46.2;6.11;40.46;-3.58
+Brisbane - Hong Kong;HKG;BNE;22.3;113.94;-27.4;153.11
+Dubai - Riyadh;DXB;RUH;25.3;55.35;24.94;46.71
+Bangkok - London;LHR;BKK;51.5;-0.45;13.71;100.77
+Frankfurt - London;FRA;LHR;50.1;8.56;51.47;-0.45
+Aberdeen - London;ABZ;LCY;57.2;-2.2;51.5;0.05
+Gaborone - Kasane;GBE;BBK;-20;23.43;-17.83;25.16
+London - Milan;LHR;LIN;51.5;-0.45;45.47;9.18
+Frankfurt - Oslo;FRA;OSL;50.1;8.56;59.91;10.75
+London - Zurich;LCY;ZRH;51.5;0.05;47.45;8.57
+Beijing - London;PEK;LHR;40.1;116.58;51.47;-0.45
+Seoul - Tokyo;GMP;HND;37.6;126.79;35.55;139.75
+Istanbul - London;LON;IST;51.5;-0.45;41.04;28.99
+London - Moscow;LHR;DME;51.5;-0.45;55.42;37.9
+Beijing - Shanghai;SHA;PEK;31.2;121.34;40.07;116.58
+Delhi - Poona;DEL;PNQ;28.7;77.26;18.58;73.91
+Delhi - Milan;MXP;DEL;45.5;9.18;28.66;77.26
+Tokyo - Washington Dc;NRT;IAD;35.8;140.39;38.96;-77.45
+London - Santiago;LHR;SCL;-23.4;-46.48;-33.39;-70.79
+Dar Es Salaam - Geneva;DAR;GVA;47.5;8.57;46.23;6.11
+Buenos Aires - Santiago;SCL;EZE;-33.4;-70.79;-34.81;-58.54
+Dubai - Tokyo;DXB;NRT;25.3;55.35;35.75;140.39
+Kansas City - New York;MCI;LGA;39.3;-94.72;40.77;-73.88
+Cork - London;ORK;LHR;51.9;-8.49;51.47;-0.45
+Dallas - Sydney;SYD;DFW;-33.9;151.23;32.87;-97.04
+Dubai - Sydney;SYD;DXB;-33.9;151.23;25.25;55.35
+London - Vilnius;STN;VNO;51.9;0.26;54.64;25.28
+Milan - Poona;PNQ;MXP;28.7;77.26;45.47;9.18
+London - New York;JFK;LCY;40.6;-73.79;51.5;0.05
+London - New York;JFK;LHR;40.6;-73.79;51.47;-0.45
+Harare - Nairobi;HRE;NBO;-17.9;31.1;-1.28;36.81
+Bremen - Frankfurt;BRE;FRA;53.1;8.78;50.05;8.56
+Newark - Washington Dc;EWR;DCA;40.7;-74.18;38.85;-77.04
+Bombay - Calcutta;CCU;BOM;22.7;88.44;19.09;72.86
+Geneva - London;LHR;GVA;51.5;-0.45;46.23;6.11
+Los Angeles - Tokyo;LAX;HND;34.1;-118.24;35.55;139.75
+Los Angeles - Phoenix;LAX;PHX;34.1;-118.24;33.44;-112.03
+Singapore - Zurich;ZRH;SIN;47.5;8.57;1.34;103.98
+Dublin - Isle Of Man;IOM;DUB;54.1;-4.63;53.34;-6.25
+New York - Nice;NCE;JFK;43.7;7.21;40.64;-73.79
+Basel-Mulhouse-Freiburg - New York;BSL;JFK;50.1;8.56;40.64;-73.79
+Shanghai - Tokyo;PVG;NRT;31.1;121.8;35.75;140.39
+Dubai - Hong Kong;DXB;HKG;25.3;55.35;22.32;113.94
+London - New York;LCY;JFK;51.5;0.05;40.64;-73.79
+New York - Warsaw;WAW;JFK;52.2;20.98;40.64;-73.79
+Atlanta - Tampa;TPA;ATL;28;-82.54;42.94;-83.53
+Los Angeles - Sydney;LAX;SYD;34.1;-118.24;-33.92;151.23
+Dundee - London;DND;LCY;56.5;-3.02;51.5;0.05
+Frankfurt - Rio De Janeiro;FRA;GIG;50.1;8.56;-22.81;-43.24
+Milan - Paris;LIN;ORY;45.5;9.18;48.73;2.37
+Charlotte - Denver;CLT;DEN;35.2;-80.95;39.77;-104.86
+Frankfurt - Paris;FRA;CDG;50.1;8.56;49.01;2.54
+Frankfurt - Manchester;FRA;MAN;50.1;8.56;53.37;0.1
+Mahe Island - Mauritius;SEZ;MRU;-4.7;55.52;-20.43;57.68
+Amsterdam - Zurich;AMS;ZRH;52.3;4.75;47.45;8.57
+Madrid - Rio De Janeiro;MAD;RIO;40.5;-3.58;-22.91;-43.45
+Boston - New York;LGA;BOS;40.8;-73.88;42.21;-71
+Des Moines - Minneapolis;MSP;DSM;44.9;-93.2;41.53;-93.65
+Glasgow - Sao Paulo;GLA;GRU;51.5;-0.45;-23.42;-46.48
+Oakland - Seattle;SEA;OAK;39.9;-75.59;40.23;-97.9
+Bilbao - London;LHR;BIO;51.5;-0.45;43.31;-2.91
+Maputo - Nairobi;NBO;MPM;-1.3;36.81;-25.92;32.57
+Chicago - New York;JFK;ORD;40.6;-73.79;41.6;-98.93
+New York - Stuttgart;JFK;STR;50.1;8.56;54.42;13.52
+Chicago - Sao Paulo;GRU;ORD;-23.4;-46.48;41.6;-98.93
+Hong Kong - Tokyo;HKG;NRT;22.3;113.94;35.75;140.39
+Atlanta - Raleigh/durham;RDU;ATL;35.9;-78.79;42.94;-83.53
+Edinburgh - Southampton;EDI;SOU;56;-3.34;50.95;-1.36
+Bangalore - London;LHR;BLR;25.3;55.35;12.8;77.65
+Salt Lake City - San Francisco;SFO;SLC;37.6;-122.39;40.76;-111.89
+Dubai - London;LHR;DXB;51.5;-0.45;25.25;55.35
+Philadelphia - Portland;PDX;PHL;45.6;-122.59;45.05;-89.01
+Entebbe/kampala - Nairobi;NBO;EBB;-1.3;36.81;0.04;32.44
+Los Angeles - Tokyo;LAX;HND;34.1;-118.24;35.55;139.75
+Geneva - Lugano;GVA;LUG;46.2;6.11;46;8.91
+Austin - San Francisco;SFO;AUS;37.6;-122.39;30.2;-97.67
+Chicago - Grand Rapids;ORD;GRR;41.6;-98.93;42.88;-85.53
+Colorado Springs - Philadelphia;COS;PHL;42.9;-83.53;45.05;-89.01
+Dubai - Lusaka;DXB;LUN;25.3;55.35;-15.33;28.45
+Moscow - Tselinograd;TSE;DME;51;71.48;55.42;37.9
+Delhi - Poona;DEL;PNQ;28.7;77.26;18.58;73.91
+Amsterdam - Copenhagen;CPH;AMS;55.6;12.64;52.31;4.75
+Chicago - Washington Dc;IAD;ORD;39;-77.45;41.6;-98.93
+Doha - Singapore;SIN;DOH;1.3;103.98;25.27;51.56
+New York - Prague;PRG;JFK;50.1;14.43;40.64;-73.79
+Dubai - London;DXB;LHR;25.3;55.35;51.47;-0.45
+Indianapolis - Philadelphia;PHL;IND;45.1;-89.01;39.71;-86.3
+Tokushima - Tokyo;TKS;HND;34.1;134.6;35.55;139.75
+Houston - New York;JFK;HOU;40.6;-73.79;29.6;-90.72
+Boston - Philadelphia;PHL;BOS;45.1;-89.01;42.21;-71
+Amsterdam - Frankfurt;FRA;AMS;50.1;8.56;52.31;4.75
+Paris - Zurich;CDG;ZRH;49;2.54;47.45;8.57
+Boston - Zurich;ZRH;BOS;51.5;-0.45;42.21;-71
+Edinburgh - London;STN;EDI;51.9;0.26;55.96;-3.34
+Aberdeen - Dallas;DFW;ABZ;51.5;-0.45;57.2;-2.2
+Brussels - Frankfurt;FRA;BRU;50.1;8.56;50.89;4.48
+Mexico City - Miami;MIA;MEX;33.4;-110.87;19.43;-99.16
+London - San Diego;LHR;SAN;51.5;-0.45;32.7;-102.18
+San Jose - Santa Ana;SNA;SJC;37.4;-86.16;37.37;-121.93
+Grand Rapids - Newark;EWR;GRR;40.7;-74.18;42.88;-85.53
+Amsterdam - San Francisco;SFO;AMS;51.5;-0.45;52.31;4.75
+Frankfurt - Stockholm;FRA;ARN;50.1;8.56;60.74;15.85
+Geneva - Muscat;MCT;GVA;47.5;8.57;46.23;6.11
+Paris - Tokyo;NRT;CDG;35.8;140.39;49.01;2.54
+New York - Taipei;TPE;JFK;22.3;113.94;40.64;-73.79
+London - Seoul;LHR;ICN;51.5;-0.45;37.45;126.66
+Paris - Tel Aviv;CDG;TLV;49;2.54;32.01;34.89
+Frankfurt - Johannesburg;FRA;JNB;50.1;8.56;-26.13;28.23
+Geneva - Quito;GVA;UIO;52.3;4.75;-0.14;-78.48
+Perth - Sydney;SYD;PER;-33.9;151.23;-31.94;115.97
+London - Sydney;LHR;SYD;51.5;-0.45;-33.92;151.23
+Perth - Singapore;PER;SIN;-31.9;115.97;1.34;103.98
+Accra - Entebbe/kampala;ACC;EBB;-1.3;36.81;0.04;32.44
+Geneva - Madrid;GVA;MAD;46.2;6.11;40.46;-3.58
+Bandar Seri Begawan - Singapore;SIN;BWN;1.3;103.98;4.95;114.92
+Minneapolis - Tokyo;NRT;MSP;35.8;140.39;44.88;-93.2
+Dubai - Moscow;DXB;DME;25.3;55.35;55.42;37.9
+Berlin - Frankfurt;FRA;BER;50.1;8.56;47.81;9.6
+Dublin - London;STN;DUB;51.9;0.26;53.34;-6.25
+Hong Kong - Seoul;HKG;ICN;22.3;113.94;37.45;126.66
+Chicago - Phoenix;ORD;PHX;41.6;-98.93;33.44;-112.03
+Lima - Santiago;LIM;SCL;-12;-77.11;-33.39;-70.79
+New York - Ottawa;LGA;YOW;40.8;-73.88;45.32;-75.67
+Lisbon - Paris;CDG;LIS;49;2.54;38.77;-9.13
+Rio De Janeiro - Sao Paulo;CGH;SDU;-23.6;-46.66;-22.91;-43.17
+Buffalo - Philadelphia;PHL;BUF;45.1;-89.01;42.93;-78.74
+Denver - Hong Kong;HKG;DEN;37.6;-122.39;39.77;-104.86
+Beijing - Copenhagen;CPH;PEK;55.6;12.64;40.07;116.58
+Hong Kong - Munich;HKG;MUC;22.3;113.94;48.34;11.77
+Copenhagen - Munich;MUC;CPH;48.3;11.77;55.63;12.64
+Singapore - Sydney;SYD;SIN;-33.9;151.23;1.34;103.98
+Shanghai - Singapore;SIN;PVG;1.3;103.98;31.12;121.8
+Chicago - Las Vegas;LAS;ORD;32;-87.96;41.6;-98.93
+Brussels - Frankfurt;FRA;BRU;50.1;8.56;50.89;4.48
+Milan - Sao Paulo;GRU;MXP;38.8;-9.13;45.47;9.18
+Seoul - Tokyo;HND;GMP;35.6;139.75;37.56;126.79
+Edinburgh - Paris;EDI;CDG;56;-3.34;49.01;2.54
+Chicago - Milan;ORD;MXP;40.6;-73.79;45.47;9.18
+Bangkok - Frankfurt;FRA;BKK;50.1;8.56;13.71;100.77
+Dhaka - Hong Kong;HKG;DAC;22.3;113.94;23.84;90.39
+Moscow - Zurich;ZRH;DME;47.5;8.57;55.42;37.9
+New York - Washington Dc;DCA;JFK;38.9;-77.04;40.64;-73.79
+Madrid - Santander;SDR;MAD;43.4;-3.82;40.46;-3.58
+Amsterdam - London;AMS;LCY;52.3;4.75;51.5;0.05
+Oakland - Santa Ana;SNA;OAK;37.4;-86.16;40.23;-97.9
+Delhi - London;DEL;LHR;28.7;77.26;51.47;-0.45
+Frankfurt - Taipei;TPE;FRA;25.1;121.24;50.05;8.56
+Houston - Kansas City;IAH;MCI;30;-95.34;39.3;-94.72
+Beirut - Kuwait;BEY;KWI;33.8;35.49;29.25;47.97
+Birmingham - Johannesburg;JNB;BHX;25.3;55.35;52.45;-1.73
+Louisville - Newark;EWR;SDF;40.7;-74.18;38.18;-85.72
+Augusta - New York;AGS;LGA;42.9;-83.53;40.77;-73.88
+Milan - Singapore;MXP;SIN;45.5;9.18;1.34;103.98
+Edinburgh - Geneva;EDI;GVA;56;-3.34;46.23;6.11
+Bombay - Singapore;SIN;BOM;1.3;103.98;19.09;72.86
+Dubai - Johannesburg;JNB;DXB;-26.1;28.23;25.25;55.35
+Amsterdam - Milan;AMS;LIN;52.3;4.75;45.47;9.18
+Abu Dhabi - Frankfurt;AUH;FRA;24.4;54.64;50.05;8.56
+Dubai - Nairobi;NBO;DXB;-1.3;36.81;25.25;55.35
+Dubai - San Francisco;DXB;SFO;25.3;55.35;37.61;-122.39
+Honolulu - Oahu - Newark;HNL;EWR;21.3;-157.92;40.69;-74.18
+Dublin - Edinburgh;EDI;DUB;56;-3.34;53.34;-6.25
+Amsterdam - Paris;CDG;AMS;49;2.54;52.31;4.75
+Philadelphia - Rome;FCO;PHL;41.9;12.5;45.05;-89.01
+Lusaka - Nairobi;NBO;LUN;-1.3;36.81;-15.33;28.45
+Chicago - Tampa;TPA;ORD;28;-82.54;41.6;-98.93
+Kuala Lumpur - Sydney;SYD;KUL;-33.9;151.23;2.76;101.71
+Houston - New Orleans;IAH;MSY;30;-95.34;29.98;-90.26
+Birmingham - Venice;BHX;VCE;49;2.54;45.44;12.32
+Memphis - New York;LGA;MEM;40.8;-73.88;33.13;-88.31
+Amsterdam - London;LHR;AMS;51.5;-0.45;52.31;4.75
+Bangkok - Hong Kong;BKK;HKG;13.7;100.77;22.32;113.94
+Edinburgh - New York;EDI;JFK;51.5;-0.45;40.64;-73.79
+Gaborone - Johannesburg;JNB;GBE;-26.1;28.23;-24.56;25.93
+Amman - Dubai;AMM;DXB;32;35.94;25.25;55.35
+Melbourne - Perth;PER;MEL;-31.9;115.97;-37.67;144.85
+Glasgow - Jersey;JER;GLA;51;-1.36;55.86;-4.43
+New York - Tri;TRI;LGA;42.9;-83.53;40.77;-73.88
+Newark - Vail/eagle;EWR;EGE;40.7;-74.18;41.29;-85.28
+Boston - London;BOS;LHR;42.2;-71;51.47;-0.45
+Dubai - Mauritius;MRU;DXB;-20.4;57.68;25.25;55.35
+Kona - Hawaii - Newark;EWR;KOA;34.1;-118.24;19.73;-156.04
+Kona - Hawaii - Tokyo;KOA;NRT;21.3;-157.92;35.75;140.39
+Dubai - Kuwait;KWI;DXB;29.3;47.97;25.25;55.35
+Chicago - Des Moines;DSM;ORD;41.5;-93.65;41.6;-98.93
+Chicago - Indianapolis;ORD;IND;41.6;-98.93;39.71;-86.3
+Delhi - Madras;DEL;MAA;28.7;77.26;13.05;80.23
+Bahrain - Dammam;BAH;DMM;26.3;50.63;26.47;49.8
+Boston - Denver;BOS;DEN;42.2;-71;39.77;-104.86
+Bangkok - Tokyo;NRT;BKK;35.8;140.39;13.71;100.77
+Johannesburg - Singapore;SIN;JNB;25.3;55.35;-26.13;28.23
+Jackson Hole - New York;JAC;LGA;41.6;-98.93;40.77;-73.88
+Nairobi - Ndola;NLA;NBO;-13;28.66;-1.28;36.81
+London - Munich;LHR;MUC;51.5;-0.45;48.34;11.77
+Cape Town - Frankfurt;CPT;FRA;-34;18.59;50.05;8.56
+Edinburgh - London;EDI;LTN;56;-3.34;51.88;-0.37
+Buffalo - Newark;EWR;BUF;40.7;-74.18;42.93;-78.74
+Geneva - Munich;MUC;GVA;48.3;11.77;46.23;6.11
+London - Mobile;MOB;LHR;32.9;-97.04;51.47;-0.45
+Dublin - London;LTN;DUB;51.9;-0.37;53.34;-6.25
+London - Zurich;LHR;ZRH;51.5;-0.45;47.45;8.57
+Geneva - Moscow;SVO;GVA;56;37.42;46.23;6.11
+Cairo - Mauritius;CAI;MRU;-26.1;28.23;-20.43;57.68
+Dublin - Madrid;MAD;DUB;40.5;-3.58;53.34;-6.25
+Los Angeles - New York;LAX;JFK;34.1;-118.24;40.64;-73.79
+Dubai - Dubai;DXB;DXB;23.6;58.29;25.25;55.35
+Geneva - Nice;GVA;NCE;46.2;6.11;43.67;7.21
+Madrid - Paris;CDG;MAD;49;2.54;40.46;-3.58
+Boston - New York;BOS;LGA;42.2;-71;40.77;-73.88
+Frankfurt - Houston;IAH;FRA;30;-95.34;50.05;8.56
+London - Sao Paulo;SAO;LHR;-14.2;-51.41;51.47;-0.45
+Paris - Shanghai;PVG;CDG;31.1;121.8;49.01;2.54
+Beijing - Shanghai;PEK;PVG;40.1;116.58;31.12;121.8
+Tokyo - Zurich;NRT;ZRH;35.8;140.39;47.45;8.57
+Madras - Singapore;SIN;MAA;1.3;103.98;13.05;80.23
+Pittsburgh - San Francisco;PIT;SFO;40.6;-73.79;37.61;-122.39
+Hong Kong - Zurich;HKG;ZRH;22.3;113.94;47.45;8.57
+Geneva - Munich;GVA;MUC;46.2;6.11;48.34;11.77
+Beirut - Jeddah;BEY;JED;33.8;35.49;21.67;39.15
+San Francisco - Tokyo;SFO;HND;37.6;-122.39;35.55;139.75
+Amsterdam - Dar Es Salaam;DAR;AMS;-6.9;39.2;52.31;4.75
+Antwerp - London;LCY;ANR;51.5;0.05;51.19;4.45
+Los Angeles - Taipei;TPE;LAX;25.1;121.24;34.05;-118.24
+Dubai - Hong Kong;DXB;HKG;25.3;55.35;22.32;113.94
+Karachi - Manchester;MAN;KHI;25.3;55.35;24.9;67.15
+Detroit - Frankfurt;DTW;FRA;37.3;-107.75;50.05;8.56
+London - Singapore;SIN;LHR;1.3;103.98;51.47;-0.45
+Krakow - London;KRK;LHR;48.2;16.37;51.47;-0.45
+Auckland-intl - Sydney;SYD;AKL;-33.9;151.23;-37;174.79
+Charlotte - London;LGW;CLT;51.2;-0.16;35.22;-80.95
+Dresden - Frankfurt;FRA;DRS;50.1;8.56;51.12;13.77
+Frankfurt - Lisbon;FRA;LIS;50.1;8.56;38.77;-9.13
+Chicago - Paris;CDG;ORD;49;2.54;41.6;-98.93
+New York - Toronto;YYZ;JFK;43.7;-79.61;40.64;-73.79
+Dubai - Paris;CDG;DXB;49;2.54;25.25;55.35
+Chicago - New York;LGA;ORD;40.8;-73.88;41.6;-98.93
+Johannesburg - Madrid;MAD;JNB;51.5;-0.45;-26.13;28.23
+Athens - Paris;ATH;CDG;37.9;23.72;49.01;2.54
+Athens - Singapore;SIN;ATH;1.3;103.98;37.89;23.72
+Newark - Singapore;SIN;EWR;1.3;103.98;40.69;-74.18
+Geneva - Kuwait;GVA;KWI;50.1;8.56;29.25;47.97
+Atlanta - Ft. Lauderdale;FLL;ATL;26.1;-80.13;42.94;-83.53
+Madras - Poona;PNQ;MAA;18.6;73.91;13.05;80.23
+Kiev-borispol - London;LHR;KBP;51.5;-0.45;50.43;30.55
+Jakarta-soekarno - Tokyo;CGK;NRT;-6.1;106.66;35.75;140.39
+Frankfurt - Milan;FRA;LIN;50.1;8.56;45.47;9.18
+Boston - Chicago;ORD;BOS;41.6;-98.93;42.21;-71
+Bergen - Stavanger;BGO;SVG;60.3;5.23;58.88;5.63
+Houston - Philadelphia;PHL;IAH;45.1;-89.01;29.98;-95.34
+Auckland-intl - Sydney;SYD;AKL;-33.9;151.23;-37;174.79
+Madrid - Warsaw;MAD;WAW;48.3;11.77;52.17;20.98
+New York - Singapore;SIN;JFK;1.3;103.98;40.64;-73.79
+Amsterdam - Paris;CDG;AMS;49;2.54;52.31;4.75
+New York - Portland;LGA;PWM;40.8;-73.88;43.65;-70.31
+Fort Meyers-regional - Newark;EWR;RSW;40.7;-74.18;26.52;-81.75
+Cape Town - Singapore;CPT;SIN;-34;18.59;1.34;103.98
+London - Salt Lake City;SLC;LHR;49;2.54;51.47;-0.45
+Hong Kong - Manila;HKG;MNL;22.3;113.94;14.51;121.02
+Beijing - San Francisco;SFO;PEK;37.6;-122.39;40.07;116.58
+Austin - Chicago;AUS;ORD;30.2;-97.67;41.6;-98.93
+Aspen - New York;ASE;LGA;39.8;-104.86;40.77;-73.88
+Denver - San Francisco;SFO;DEN;37.6;-122.39;39.77;-104.86
+New York - Vail/eagle;EGE;JFK;41.3;-85.28;40.64;-73.79
+Chicago - Hong Kong;HKG;ORD;22.3;113.94;41.6;-98.93
+Beijing - Singapore;PEK;SIN;40.1;116.58;1.34;103.98
+Manchester - Washington Dc;MAN;IAD;51.5;-0.45;38.96;-77.45
+Greensboro/h Pt/win-salem - Newark;EWR;GSO;40.7;-74.18;36.1;-79.94
+Gibraltar - New York;JFK;GIB;51.5;-0.45;36.13;-5.35
+Dusseldorf - Paris;CDG;DUS;49;2.54;51.28;6.78
+Madrid - Porto;MAD;OPO;40.5;-3.58;41.24;-8.67
+Vienna - Zurich;VIE;ZRH;48.2;16.37;47.45;8.57
+Madras - Poona;PNQ;MAA;18.6;73.91;13.05;80.23
+Munich - Zurich;MUC;ZRH;48.3;11.77;47.45;8.57
+Dar Es Salaam - Nairobi;NBO;DAR;-1.3;36.81;-6.88;39.2
+San Diego - San Francisco;SAN;SFO;32.7;-102.18;37.61;-122.39
+Seoul - Tokyo;HND;GMP;35.6;139.75;37.56;126.79
+Beijing - Hong Kong;PEK;HKG;40.1;116.58;22.32;113.94
+London - Moscow;LHR;DME;51.5;-0.45;55.42;37.9
+San Francisco - Washington Dc;DCA;SFO;38.9;-77.04;37.61;-122.39
+Brussels - Singapore;BRU;SIN;45.5;9.18;1.34;103.98
+New York - Perth;PER;JFK;22.3;113.94;40.64;-73.79
+Budapest - Istanbul;IST;BUD;41;28.99;47.45;19.22
+Athens - Milan;LIN;ATH;41.9;12.5;37.89;23.72
+Bangalore - Delhi;DEL;BLR;28.7;77.26;12.8;77.65
+Hamburg - Nice;HAM;NCE;48.3;11.77;43.67;7.21
+Entebbe/kampala - London;LHR;EBB;51.5;-0.45;0.04;32.44
+Juneau - Seattle;SEA;JNU;39.9;-75.59;58.36;-134.58
+Lisbon - Paris;LIS;PAR;38.8;-9.13;49.01;2.54
+Doha - New York;JFK;DOH;25.3;55.35;25.27;51.56
+Alma Ata - Frankfurt;ALA;FRA;43.4;77.03;50.05;8.56
+Ahmedabad - Bombay;BOM;AMD;19.1;72.86;23.08;72.62
+Seoul - Tokyo;NRT;ICN;35.8;140.39;37.45;126.66
+Dubai - Nice;DXB;NCE;25.3;55.35;43.67;7.21
+San Francisco - Seoul;SFO;ICN;37.6;-122.39;37.45;126.66
+Frankfurt - Hamburg;FRA;HAM;50.1;8.56;53.64;10.01
+Denver - Oakland;DEN;OAK;39.8;-104.86;40.23;-97.9
+Las Vegas - Seoul;ICN;LAS;37.6;-122.39;32.02;-87.96
+Hong Kong - Kuala Lumpur;HKG;KUL;22.3;113.94;2.76;101.71
+Abu Dhabi - Tokyo;NRT;AUH;35.8;140.39;24.42;54.64
+Bombay - Newcastle;NCL;BOM;25.3;55.35;19.09;72.86
+Melbourne - Sydney;MEL;SYD;-37.7;144.85;-33.92;151.23
+Charlotte - Nashville;CLT;BNA;35.2;-80.95;36.13;-86.67
+Jakarta-soekarno - New York;JFK;CGK;22.3;113.94;-6.13;106.66
+Frankfurt - Poona;PNQ;FRA;18.6;73.91;50.05;8.56
+New York - Philadelphia;JFK;PHL;40.6;-73.79;45.05;-89.01
+Aberdeen - London;ABZ;LGW;57.2;-2.2;51.16;-0.16
+Moscow - New York;SVO;JFK;56;37.42;40.64;-73.79
+Tokyo - Zurich;ZRH;NRT;47.5;8.57;35.75;140.39
+Bombay - Delhi;DEL;BOM;28.7;77.26;19.09;72.86
+Birmingham - Karachi;BHX;KHI;25.3;55.35;24.9;67.15
+Copenhagen - Frankfurt;CPH;FRA;55.6;12.64;50.05;8.56
+Buenos Aires - New York;LGA;EZE;33.4;-110.87;-34.81;-58.54
+Dubai - Kuala Lumpur;KUL;DXB;2.8;101.71;25.25;55.35
+Delhi - Singapore;SIN;DEL;1.3;103.98;28.66;77.26
+Belgrade - London;LHR;BEG;48.3;11.77;44.81;20.46
+Cardiff Wales - Glasgow;CWL;GLA;51.4;-3.34;55.86;-4.43
+Los Angeles - San Francisco;LAX;SFO;34.1;-118.24;37.61;-122.39
+Calgary - Montreal;YYC;YUL;51.1;-114.01;45.46;-73.75
+Johannesburg - Maputo;MPM;JNB;-25.9;32.57;-26.13;28.23
+London - Tokyo;LHR;NRT;51.5;-0.45;35.75;140.39
+London - Sao Paulo;LHR;GRU;51.5;-0.45;-23.42;-46.48
+Kiev-borispol - London;LGW;KBP;51.2;-0.16;50.43;30.55
+Berlin - Munich;MUC;BER;48.3;11.77;47.81;9.6
+Vancouver - Whitehorse;YVR;YXY;49.2;-123.17;60.71;-135.08
+Moscow - Zurich;SVO;ZRH;56;37.42;47.45;8.57
+Bangalore - Poona;BLR;PNQ;12.8;77.65;18.58;73.91
+London - New York;LCY;JFK;51.5;0.05;40.64;-73.79
+Beijing - Paris;CDG;PEK;49;2.54;40.07;116.58
+Frankfurt - Stockholm;FRA;ARN;50.1;8.56;60.74;15.85
+Boston - San Francisco;BOS;SFO;42.2;-71;37.61;-122.39
+Cologne - Munich;CGN;MUC;50.9;7.11;48.34;11.77
+Boston - New York;JFK;BOS;40.6;-73.79;42.21;-71
+Los Angeles - Seoul;LAX;ICN;34.1;-118.24;37.45;126.66
+Rome - Tokyo;NRT;FCO;35.8;140.39;41.9;12.5
+Dubai - Karachi;DXB;KHI;25.3;55.35;24.9;67.15
+Charlotte - Philadelphia;PHL;CLT;45.1;-89.01;35.22;-80.95
+Geneva - Zurich;ZRH;GVA;47.5;8.57;46.23;6.11
+Copenhagen - London;LHR;CPH;51.5;-0.45;55.63;12.64
+Kuala Lumpur - Tokyo;NRT;KUL;35.8;140.39;2.76;101.71
+Barcelona - Lisbon;LIS;BCN;38.8;-9.13;41.3;2.08
+Beijing - Madrid;MAD;BJS;51.5;-0.45;40.07;116.58
+Kiev-borispol - Prague;KBP;PRG;50.4;30.55;50.08;14.43
+Dubai - Nairobi;DXB;NBO;25.3;55.35;-1.28;36.81
+Paris - Rome;CDG;FCO;49;2.54;41.9;12.5
+Los Angeles - Singapore;LAX;SIN;34.1;-118.24;1.34;103.98
+Birmingham - Hamburg;BHX;HAM;52.5;-1.73;53.64;10.01
+Delhi - Teesside;DEL;MME;52.3;4.75;54.51;-1.44
+Nice - Singapore;SIN;NCE;49;2.54;43.67;7.21
+Hanover - London;HAJ;LHR;52.5;9.7;51.47;-0.45
+New York - Tokyo;NRT;LGA;41.6;-98.93;40.77;-73.88
+Basel-Mulhouse-Freiburg - Dusseldorf;BSL;DUS;47.6;7.59;51.28;6.78
+San Francisco - Tokyo;NRT;SFO;35.8;140.39;37.61;-122.39
+Knoxville - New York;TYS;LGA;45.1;-89.01;40.77;-73.88
+Frankfurt - Tokyo;HND;FRA;35.6;139.75;50.05;8.56
+Osaka - Singapore;SIN;KIX;1.3;103.98;34.43;135.24
+San Francisco - Zurich;SFO;ZRH;37.6;-122.39;47.45;8.57
+Glasgow - London;LHR;GLA;51.5;-0.45;55.86;-4.43
+Bahrain - Paris;CDG;BAH;49;2.54;26.27;50.63
+Lisbon - Porto;LIS;OPO;38.8;-9.13;41.24;-8.67
+Amsterdam - New York;AMS;JFK;51.5;-0.45;40.64;-73.79
+Johannesburg - Windhoek;JNB;WDH;-26.1;28.23;-22.48;17.47
+Jakarta-soekarno - New York;CGK;JFK;-6.1;106.66;40.64;-73.79
+Ho Chi Minh - London;SGN;LHR;22.3;113.94;51.47;-0.45
+Bangalore - Manchester;MAN;BLR;25.3;55.35;12.8;77.65
+Madrid - Newark;MAD;EWR;51.5;-0.45;40.69;-74.18
+Dar Es Salaam - Johannesburg;JNB;DAR;-26.1;28.23;-6.88;39.2
+London - Munich;LCY;MUC;51.5;0.05;48.34;11.77
+Athens - Zurich;ATH;ZRH;37.9;23.72;47.45;8.57
+Delhi - Newcastle;DEL;NCL;51.5;-0.45;55.04;-1.71
+Madrid - Sao Paulo;GRU;MAD;-23.4;-46.48;40.46;-3.58
+Guam - New York;JFK;GUM;35.8;140.39;13.48;144.75
+Accra - Dubai;DXB;ACC;25.3;55.35;5.6;-0.17
+Delhi - Manchester;DEL;MAN;25.3;55.35;53.37;0.1
+Chicago - Manila;ORD;MNL;13.5;144.75;14.51;121.02
+Entebbe/kampala - Geneva;GVA;EBB;51.5;-0.45;0.04;32.44
+Munich - Seoul;MUC;ICN;48.3;11.77;37.45;126.66
+Geneva - Munich;MUC;GVA;48.3;11.77;46.23;6.11
+Edinburgh - London;LHR;EDI;51.5;-0.45;55.96;-3.34
+Dusseldorf - Munich;MUC;DUS;48.3;11.77;51.28;6.78
+Perth - Singapore;PER;SIN;-31.9;115.97;1.34;103.98
+Abu Dhabi - London;AUH;LHR;24.4;54.64;51.47;-0.45
+Denver - Newark;EWR;DEN;40.7;-74.18;39.77;-104.86
+London - Madrid;LHR;MAD;51.5;-0.45;40.46;-3.58
+Ankara-esenboga - Hong Kong;HKG;ESB;41;28.99;40.11;32.99
+Santiago - Sao Paulo;GRU;SCL;-23.4;-46.48;-33.39;-70.79
+Lisbon - Paris;ORY;LIS;48.7;2.37;38.77;-9.13
+Jacksonville - Newark;EWR;JAX;40.7;-74.18;33.81;-85.76
+Perth - Singapore;SIN;PER;1.3;103.98;-31.94;115.97
+Delhi - Singapore;DEL;SIN;28.7;77.26;1.34;103.98
+Singapore - Sydney;SYD;SIN;-33.9;151.23;1.34;103.98
+Jeddah - Karachi;KHI;JED;24.9;67.15;21.67;39.15
+Chicago - Pittsburgh;PIT;ORD;48.7;-94.74;41.6;-98.93
+New York - Vilnius;VNO;JFK;60.3;24.97;40.64;-73.79
+Monterrey - New York;LGA;MTY;30;-95.34;25.82;-100.32
+Accra - Nairobi;NBO;ACC;-1.3;36.81;5.6;-0.17
+Houston - Phoenix;IAH;PHX;30;-95.34;33.44;-112.03
+Dubai - Islamabad/rawalpindi;DXB;ISB;25.3;55.35;33.61;73.1
+Dallas - Tokyo;NRT;DFW;35.8;140.39;32.87;-97.04
+Frankfurt - Madrid;MAD;FRA;40.5;-3.58;50.05;8.56
+Delhi - Hong Kong;DEL;HKG;28.7;77.26;22.32;113.94
+Milwaukee - Minneapolis;MSP;MKE;44.9;-93.2;42.95;-87.91
+Matsuyama Shikoku - Tokyo;MYJ;HND;33.8;132.7;35.55;139.75
+Newark - Vancouver;YVR;EWR;49.2;-123.17;40.69;-74.18
+London - Montevideo;LHR;MVD;40.5;-3.58;-34.83;-56.03
+New York - Santo Domingo;SDQ;JFK;18.4;-69.67;40.64;-73.79
+Chicago - Springfield;ORD;SGF;41.6;-98.93;37.24;-93.38
+London - Madrid;LHR;MAD;51.5;-0.45;40.46;-3.58
+Madrid - New York;MAD;JFK;40.5;-3.58;40.64;-73.79
+Atlanta - Charlotte;CLT;ATL;35.2;-80.95;42.94;-83.53
+Houston - Los Angeles;LAX;IAH;34.1;-118.24;29.98;-95.34
+Halifax - London;LHR;YHZ;51.5;-0.45;44.89;-63.52
+New York - Venice;JFK;VCE;40.6;-73.79;45.44;12.32
+New York - Washington Dc;IAD;LGA;39;-77.45;40.77;-73.88
+Bangkok - Dubai;DXB;BKK;25.3;55.35;13.71;100.77
+Newark - Singapore;SIN;EWR;1.3;103.98;40.69;-74.18
+Cleveland - New York;JFK;CLE;40.6;-73.79;45.46;-120.2
+Seoul - Washington Dc;IAD;ICN;39;-77.45;37.45;126.66
+Tokyo - Washington Dc;NRT;IAD;35.8;140.39;38.96;-77.45
+Dubai - Singapore;DXB;SIN;25.3;55.35;1.34;103.98
+Johannesburg - Mauritius;MRU;JNB;-20.4;57.68;-26.13;28.23
+Dubai - Frankfurt;DXB;FRA;25.3;55.35;50.05;8.56
+Dubai - Munich;MUC;DXB;48.3;11.77;25.25;55.35
+Dubai - Madras;DXB;MAA;25.3;55.35;13.05;80.23
+Birmingham - Madras;BHX;MAA;25.3;55.35;13.05;80.23
+Seoul - Tokyo;GMP;HND;37.6;126.79;35.55;139.75
+Jakarta-soekarno - Tokyo;CGK;NRT;-6.1;106.66;35.75;140.39
+New York - Riyadh;RUH;JFK;50.1;8.56;40.64;-73.79
+Ft. Lauderdale - Philadelphia;PHL;FLL;45.1;-89.01;26.07;-80.13
+Amsterdam - Moscow;AMS;SVO;52.3;4.75;55.96;37.42
+Chicago - Cleveland;ORD;CLE;41.6;-98.93;45.46;-120.2
+Milan - Trieste;TRS;LIN;45.7;13.77;45.47;9.18
+San Francisco - Seoul;SFO;ICN;37.6;-122.39;37.45;126.66
+London - New York;JFK;LHR;40.6;-73.79;51.47;-0.45
+London - New York;LHR;JFK;51.5;-0.45;40.64;-73.79
+Boston - Warsaw;WAW;BOS;47.5;8.57;42.21;-71
+Berlin - Frankfurt;FRA;TXL;50.1;8.56;52.55;13.29
+Frankfurt - Toronto;FRA;YYZ;50.1;8.56;43.68;-79.61
+Miami - New York;MIA;JFK;33.4;-110.87;40.64;-73.79
+Atlanta - St. Louis;STL;ATL;38.7;-90.36;42.94;-83.53
+Hong Kong - Johannesburg;JNB;HKG;-26.1;28.23;22.32;113.94
+New York - Vienna;JFK;VIE;40.6;-73.79;48.2;16.37
+Newark - Rome;FCO;EWR;41.9;12.5;40.69;-74.18
+Bogota - Lima;BOG;LIM;4.7;-74.14;-12.02;-77.11
+Changsha - Hong Kong;HKG;CSX;22.3;113.94;28.17;113.08
+Abu Dhabi - Johannesburg;JNB;AUH;-26.1;28.23;24.42;54.64
+Accra - Cairo;CAI;ACC;30.1;31.25;5.6;-0.17
+London - Milan;LHR;MXP;51.5;-0.45;45.47;9.18
+Brisbane - Melbourne;BNE;MEL;-27.4;153.11;-37.67;144.85
+Boston - Phoenix;BOS;PHX;42.2;-71;33.44;-112.03
+London - Toronto;YYZ;YXU;43.7;-79.61;43.03;-81.15
+Cairo - New York;JFK;CAI;40.6;-73.79;30.05;31.25
+Bangalore - Bombay;BOM;BLR;19.1;72.86;12.8;77.65
+Brussels - Geneva;GVA;BRU;46.2;6.11;50.89;4.48
+Lagos - Newark;EWR;LOS;42.9;-83.53;6.58;3.32
+Minneapolis - New York;MSP;JFK;44.9;-93.2;40.64;-73.79
+Hong Kong - Shanghai;HKG;SHA;22.3;113.94;31.19;121.34
+Dubai - Hyderabad;DXB;HYD;25.3;55.35;17.45;78.46
+New York - Santiago;SCL;LGA;42.9;-83.53;40.77;-73.88
+Ho Chi Minh - Singapore;SIN;SGN;1.3;103.98;10.82;106.66
+Minneapolis - New York;LGA;MSP;40.8;-73.88;44.88;-93.2
+Aspen - Newark;ASE;EWR;39.8;-104.86;40.69;-74.18
+Beijing - Shanghai;PEK;SHA;40.1;116.58;31.19;121.34
+Munich - Singapore;SIN;MUC;1.3;103.98;48.34;11.77
+Lisbon - Milan;LIS;LIN;38.8;-9.13;45.47;9.18
+Barcelona - Madrid;MAD;BCN;40.5;-3.58;41.3;2.08
+Jacksonville - New York;JAX;JFK;33.8;-85.76;40.64;-73.79
+Bangalore - Singapore;BLR;SIN;12.8;77.65;1.34;103.98
+Beijing - Taipei;TPE;PEK;25.1;121.24;40.07;116.58
+Bombay - Johannesburg;BOM;JNB;19.1;72.86;-26.13;28.23
+Monroe - Newark;EWR;MLU;42.9;-83.53;32.51;-92.04
+Munich - Vienna;MUC;VIE;48.3;11.77;48.2;16.37
+Kuala Lumpur - Singapore;KUL;SIN;2.8;101.71;1.34;103.98
+London - Madrid;LCY;MAD;51.5;0.05;40.46;-3.58
+Gaborone - Lusaka;GBE;LUN;-26.1;28.23;-15.33;28.45
+Geneva - Manchester;MAN;GVA;53.4;0.1;46.23;6.11
+London - Rotterdam;LCY;RTM;51.5;0.05;51.95;4.43
+London - Seoul;ICN;LCY;51.5;-0.45;51.5;0.05
+Frankfurt - Geneva;GVA;FRA;46.2;6.11;50.05;8.56
+Delhi - Johannesburg;DEL;JNB;25.3;55.35;-26.13;28.23
+New York - Vancouver;LGA;YVR;43.7;-79.61;49.19;-123.17
+Dubai - London;LHR;DXB;51.5;-0.45;25.25;55.35
+Nice - Sao Paulo;GRU;NCE;51.5;-0.45;43.67;7.21
+Seattle - Vancouver;SEA;YVR;39.9;-75.59;49.19;-123.17
+Paris - Rabat;CDG;RBA;49;2.54;30.74;-6.45
+Entebbe/kampala - Johannesburg;JNB;EBB;-26.1;28.23;0.04;32.44
+Chicago - Moscow;ORD;DME;51.5;-0.45;55.42;37.9
+Melbourne - Singapore;MEL;SIN;-37.7;144.85;1.34;103.98
+Los Angeles - San Francisco;SFO;LAX;37.6;-122.39;34.05;-118.24
+Mahon - Menorca - Palma ;MAH;PMI;39.9;4.23;39.54;2.73
+Beijing - Paris;PEK;CDG;40.1;116.58;49.01;2.54
+Marseille - Paris;ORY;MRS;48.7;2.37;43.29;5.37
+Genoa - London;GOA;LGW;44.4;8.94;51.16;-0.16
+Hong Kong - San Francisco;HKG;SFO;22.3;113.94;37.61;-122.39
+Mexico City - Sao Paulo;MEX;GRU;19.4;-99.16;-23.42;-46.48
+Seoul - Zurich;ICN;ZRH;50.1;8.56;47.45;8.57
+London - Zurich;ZRH;LHR;47.5;8.57;51.47;-0.45
+Brasilia - Newark;EWR;BSB;42.9;-83.53;-15.86;-47.91
+Canberra - Sydney;CBR;SYD;-35.3;149.19;-33.92;151.23
+Canberra - Melbourne;MEL;CBR;-37.7;144.85;-35.31;149.19
+Newark - Washington Dc;IAD;EWR;39;-77.45;40.69;-74.18
+London - Zagreb;LGW;ZAG;51.2;-0.16;45.73;16.06
+New York - Richmond;RIC;JFK;45.8;-94.22;40.64;-73.79
+Ankara-esenboga - Istanbul;ESB;IST;40.1;32.99;41.04;28.99
+New York - Sydney;JFK;SYD;40.6;-73.79;-33.92;151.23
+New York - Seoul;JFK;ICN;40.6;-73.79;37.45;126.66
+Johannesburg - Windhoek;WDH;JNB;-22.5;17.47;-26.13;28.23
+Houston - Sao Paulo;GRU;IAH;-23.4;-46.48;29.98;-95.34
+Maputo - Sao Paulo;GRU;MPM;-26.1;28.23;-25.92;32.57
+Boston - New York;BOS;JFK;42.2;-71;40.64;-73.79
+Geneva - Mexico City;GVA;MEX;51.5;-0.45;19.43;-99.16
+Bombay - Tokyo;BOM;NRT;19.1;72.86;35.75;140.39
+Los Angeles - Portland;PDX;LAX;45.6;-122.59;34.05;-118.24
+Bangalore - Poona;BLR;PNQ;12.8;77.65;18.58;73.91
+Frankfurt - Poona;PNQ;FRA;18.6;73.91;50.05;8.56
+Bangalore - Singapore;SIN;BLR;1.3;103.98;12.8;77.65
+Frankfurt - Tokyo;FRA;NRT;50.1;8.56;35.75;140.39
+Seoul - Zurich;ZRH;ICN;50.1;8.56;37.45;126.66
+Los Angeles - Portland;LAX;PWM;45.1;-89.01;43.65;-70.31
+London - San Francisco;SFO;LHR;37.6;-122.39;51.47;-0.45
+Funchal Madeira - Lisbon;LIS;FNC;38.8;-9.13;32.69;-16.77
+Bombay - London;BOM;LHR;19.1;72.86;51.47;-0.45
+Amsterdam - Geneva;AMS;GVA;52.3;4.75;46.23;6.11
+Singapore - Tokyo;HND;SIN;35.6;139.75;1.34;103.98
+Boston - Los Angeles;BOS;LAX;42.2;-71;34.05;-118.24
+Charlotte - New York;JFK;CLT;40.6;-73.79;35.22;-80.95
+San Francisco - Toronto;YYZ;SFO;43.7;-79.61;37.61;-122.39
+Dubai - Mahe Island;SEZ;DXB;-4.7;55.52;25.25;55.35
+London - Porto;LGW;OPO;51.2;-0.16;41.24;-8.67
+Nairobi - Singapore;SIN;NBO;25.3;51.56;-1.28;36.81
+Bombay - Frankfurt;BOM;FRA;19.1;72.86;50.05;8.56
+Birmingham - Dubai;DXB;BHX;25.3;55.35;52.45;-1.73
+Hong Kong - Toronto;HKG;YYZ;22.3;113.94;43.68;-79.61
+Manila - Newark;MNL;EWR;35.8;140.39;40.69;-74.18
+Delhi - Tokyo;DEL;NRT;28.7;77.26;35.75;140.39
+Accra - New York;ACC;JFK;42.9;-83.53;40.64;-73.79
+Basel-Mulhouse-Freiburg - Frankfurt;FRA;BSL;50.1;8.56;47.55;7.59
+Philadelphia - Toronto;YYZ;PHL;43.7;-79.61;45.05;-89.01
+New York - Raleigh/durham;JFK;RDU;40.6;-73.79;35.87;-78.79
+New York - Washington Dc;LGA;IAD;40.8;-73.88;38.96;-77.45
+Lusaka - Nairobi;NBO;LUN;-1.3;36.81;-15.33;28.45
+San Francisco - Shanghai;PVG;SFO;31.1;121.8;37.61;-122.39
+Beijing - Newark;EWR;PEK;40.7;-74.18;40.07;116.58
+San Francisco - Zurich;SFO;ZRH;50.1;8.56;47.45;8.57
+Newark - Zurich;ZRH;EWR;47.5;8.57;40.69;-74.18
+London - Munich;LHR;MUC;51.5;-0.45;48.34;11.77
+Birmingham - Guernsey ;BHX;GCI;52.5;-1.73;49.43;-2.6
+Dallas - Paris;CDG;DFW;49;2.54;32.87;-97.04
+Seoul - Washington Dc;IAD;ICN;39;-77.45;37.45;126.66
+Bombay - Kuala Lumpur;KUL;BOM;2.8;101.71;19.09;72.86
+Doha - Osaka;DOH;KIX;25.3;51.56;34.43;135.24
+Doha - Dubai;DXB;DOH;25.3;55.35;25.27;51.56
+New York - South Bend;SBN;LGA;41.6;-98.93;40.77;-73.88
+Newark - Sao Paulo;EWR;GRU;40.7;-74.18;-23.42;-46.48
+Curitiba - Sao Paulo;CGH;CWB;-23.6;-46.66;-25.54;-49.17
+Lisbon - Paris;CDG;LIS;49;2.54;38.77;-9.13
+Beijing - Shanghai;PEK;SHA;40.1;116.58;31.19;121.34
+New York - Rio De Janeiro;JFK;GIG;40.6;-73.79;-22.81;-43.24
+Prague - Singapore;PRG;SIN;51.5;-0.45;1.34;103.98
+Manchester - Shanghai;MAN;PVG;25.3;55.35;31.12;121.8
+Paris - Toronto;YYZ;CDG;43.7;-79.61;49.01;2.54
+Doha - Melbourne;DOH;MEL;25.3;51.56;-37.67;144.85
+Frankfurt - Seoul;ICN;FRA;37.5;126.66;50.05;8.56
+Lyon - Nice;NCE;LYS;43.7;7.21;43.13;-0.35
+Amsterdam - London;LTN;AMS;51.9;-0.37;52.31;4.75
+Dallas - Houston;IAH;DFW;30;-95.34;32.87;-97.04
+Edinburgh - Stockholm;EDI;ARN;55.6;12.64;60.74;15.85
+London - New York;JFK;LHR;40.6;-73.79;51.47;-0.45
+Chicago - New York;LGA;ORD;40.8;-73.88;41.6;-98.93
+Kisumu - London;LHR;KIS;-1.3;36.81;-0.09;34.73
+Boston - New York;BOS;LGA;42.2;-71;40.77;-73.88
+London - Santiago;SCL;LHR;49;2.54;51.47;-0.45
+Los Angeles - Paris;CDG;LAX;40.8;-111.89;34.05;-118.24
+Paris - Seoul;ICN;CDG;37.5;126.66;49.01;2.54
+Los Angeles - Phoenix;LAX;PHX;34.1;-118.24;33.44;-112.03
+Doha - Singapore;SIN;DOH;1.3;103.98;25.27;51.56
+Madrid - Nice;NCE;MAD;43.7;7.21;40.46;-3.58
+Ljubljana - London;LHR;LJU;50.1;8.56;46.23;14.46
+Chicago - Fort Meyers;RSW;ORD;26.5;-81.75;41.6;-98.93
+Calgary - Frankfurt;FRA;YYC;50.1;8.56;51.13;-114.01
+Johannesburg - London;JNB;LHR;-26.1;28.23;51.47;-0.45
+Miami - New York;LGA;MIA;40.8;-73.88;33.4;-110.87
+Frankfurt - Geneva;GVA;FRA;46.2;6.11;50.05;8.56
+Madrid - San Sebastian;EAS;MAD;43.4;-1.79;40.46;-3.58
+Colombo - Dubai;DXB;CMB;25.3;55.35;7.18;79.89
+London - Rio De Janeiro;LHR;GIG;51.5;-0.45;-22.81;-43.24
+Beijing - Singapore;SIN;PEK;1.3;103.98;40.07;116.58
+Lima - Mexico City;MEX;LIM;19.4;-99.16;-12.02;-77.11
+Amsterdam - London;LHR;AMS;51.5;-0.45;52.31;4.75
+Montevideo - New York;MVD;JFK;33.4;-110.87;40.64;-73.79
+Durban - London;LHR;DUR;-26.1;28.23;-29.96;30.95
+Florence - London;LGW;FLR;51.2;-0.16;43.8;11.2
+Milan - Paris;LIN;CDG;45.5;9.18;49.01;2.54
+Lisbon - New York;NYC;LIS;51.5;-0.45;38.77;-9.13
+Boston - New York;BOS;JFK;42.2;-71;40.64;-73.79
+Boston - London;LHR;BOS;51.5;-0.45;42.21;-71
+Milan - New York;LIN;JFK;41.9;12.5;40.64;-73.79
+Barcelona - Madrid;MAD;BCN;40.5;-3.58;41.3;2.08
+Bogota - Geneva;BOG;GVA;50.1;8.56;46.23;6.11
+Helsinki - Oslo;OSL;HEL;59.9;10.75;60.31;24.97
+Fort Meyers-regional - New York;RSW;LGA;26.5;-81.75;40.77;-73.88
+Madrid - Mexico City;MEX;MAD;19.4;-99.16;40.46;-3.58
+Berlin - New York;JFK;TXL;40.6;-73.79;52.55;13.29
+Taipei - Tokyo;NRT;TPE;35.8;140.39;25.08;121.24
+Singapore - Taipei;TPE;SIN;25.1;121.24;1.34;103.98
+New York - Shannon;SNN;JFK;52.7;-8.92;40.64;-73.79
+Frankfurt - Vancouver;YVR;FRA;49.2;-123.17;50.05;8.56
+Doha - Frankfurt;FRA;DOH;50.1;8.56;25.27;51.56
+Denver - Frankfurt;DEN;FRA;39.8;-104.86;50.05;8.56
+Dubai - Mobile;DXB;MOB;30;-95.34;35.88;-85.26
+London - Manchester;MAN;LHR;53.4;0.1;51.47;-0.45
+Milan - Sao Paulo;GRU;MXP;47.5;8.57;45.47;9.18
+Seattle - Tokyo;NRT;SEA;35.8;140.39;39.9;-75.59
+Portland - Tokyo;PDX;NRT;45.6;-122.59;35.75;140.39
+Delhi - Tokyo;DEL;NRT;28.7;77.26;35.75;140.39
+Hong Kong - Istanbul;IST;HKG;41;28.99;22.32;113.94
+Cincinnati - Philadelphia;PHL;CVG;45.1;-89.01;39.06;-84.66
+Chicago - Traverse City;ORD;TVC;41.6;-98.93;44.74;-85.58
+Bombay - Mauritius;BOM;MRU;25.3;55.35;-20.43;57.68
+Phoenix - San Jose Del Cabo;PHX;SJD;33.4;-112.03;23.16;-109.72
+Geneva - Zurich;GVA;ZRH;46.2;6.11;47.45;8.57
+Edinburgh - New York;JFK;EDI;51.5;-0.45;55.96;-3.34
+Hong Kong - Perth;PER;HKG;-31.9;115.97;22.32;113.94
+Madrid - Palma ;MAD;PMI;40.5;-3.58;39.54;2.73
+Copenhagen - Paris;CPH;CDG;55.6;12.64;49.01;2.54
+Bentonville - Newark;EWR;XNA;40.7;-74.18;36.28;-94.3
+Mahe Island - Mauritius;MRU;SEZ;-20.4;57.68;-4.68;55.52
+London - Singapore;LHR;SIN;51.5;-0.45;1.34;103.98
+Madrid - Pamplona;MAD;PNA;40.5;-3.58;42.77;-1.64
+Singapore - Warsaw;SIN;WAW;50.1;8.56;52.17;20.98
+Jakarta-soekarno - Singapore;CGK;SIN;-6.1;106.66;1.34;103.98
+Madrid - Philadelphia;MAD;PHL;40.5;-3.58;45.05;-89.01
+Mahe Island - Nairobi;SEZ;NBO;-4.7;55.52;-1.28;36.81
+Edinburgh - Zurich;ZRH;EDI;51.5;-0.45;55.96;-3.34
+Amsterdam - Frankfurt;AMS;FRA;52.3;4.75;50.05;8.56
+Edinburgh - London;EDI;LCY;56;-3.34;51.5;0.05
+Amsterdam - Tokyo;NRT;AMS;50.1;8.56;52.31;4.75
+Atlanta - Richmond;ATL;RIC;42.9;-83.53;45.75;-94.22
+Dubai - Lagos;DXB;LOS;25.3;55.35;6.58;3.32
+Houston - Newark;EWR;IAH;40.7;-74.18;29.98;-95.34
+Manila - San Francisco;SFO;MNL;35.8;140.39;14.51;121.02
+Hong Kong - Zurich;ZRH;HKG;50.1;8.56;22.32;113.94
+Bombay - Edinburgh;BOM;EDI;51.5;-0.45;55.96;-3.34
+Bombay - Nairobi;BOM;NBO;19.1;72.86;-1.28;36.81
+Chicago - Memphis;ORD;MEM;41.6;-98.93;33.13;-88.31
+Columbus - Philadelphia;CMH;PHL;40;-82.89;45.05;-89.01
+Calcutta - Singapore;SIN;CCU;1.3;103.98;22.65;88.44
+Bombay - Brussels;BOM;BRU;19.1;72.86;50.89;4.48
+Gran Canaria - Canary Isl - Madrid;LPA;MAD;27.9;-15.39;40.46;-3.58
+Lisbon - Manchester;LIS;MAN;38.8;-9.13;53.37;0.1
+London - Tokyo;LHR;HND;51.5;-0.45;35.55;139.75
+Athens - London;LHR;ATH;51.5;-0.45;37.89;23.72
+Bangkok - Seoul;ICN;BKK;37.5;126.66;13.71;100.77
+Abu Dhabi - Paris;AUH;CDG;24.4;54.64;49.01;2.54
+Los Angeles - New York;JFK;LAX;40.6;-73.79;34.05;-118.24
+Nairobi - Paris;CDG;NBO;49;2.54;-1.28;36.81
+Madras - Nairobi;MAA;NBO;25.3;51.56;-1.28;36.81
+Edinburgh - London;LHR;EDI;51.5;-0.45;55.96;-3.34
+Naples - Palermo;NAP;PMO;40.8;14.25;38.12;13.36
+Houston - San Diego;IAH;SAN;30;-95.34;32.7;-102.18
+Brussels - Madrid;MAD;BRU;40.5;-3.58;50.89;4.48
+Bloemfontein - Port Elizabeth;BFN;PLZ;-29.1;26.3;-33.98;25.61
+Miami - Washington Dc;DCA;MIA;38.9;-77.04;33.4;-110.87
+Belfast-city - Leeds/bradford;BHD;LBA;54.6;-5.87;53.87;-1.66
+Hong Kong - Los Angeles;HKG;LAX;22.3;113.94;34.05;-118.24
+Barcelona - London;LGW;BCN;51.2;-0.16;41.3;2.08
+Copenhagen - Stockholm;ARN;CPH;60.7;15.85;55.63;12.64
+Portland - San Diego;SAN;PDX;32.7;-102.18;45.59;-122.59
+Dallas - Seoul;DFW;ICN;32.9;-97.04;37.45;126.66
+Bombay - London;BOM;LHR;19.1;72.86;51.47;-0.45
+Dubai - Mauritius;MRU;DXB;-20.4;57.68;25.25;55.35
+Bangalore - London;LHR;BLR;51.5;-0.45;12.8;77.65
+Kiev-borispol - London;LHR;KBP;51.5;-0.45;50.43;30.55
+Geneva - Nice;GVA;NCE;46.2;6.11;43.67;7.21
+Accra - Johannesburg;JNB;ACC;-26.1;28.23;5.6;-0.17
+East Midlands - Frankfurt;EMA;FRA;52.8;-1.33;50.05;8.56
+Entebbe/kampala - Nairobi;EBB;NBO;0;32.44;-1.28;36.81
+Bologna - New York;BLQ;JFK;50.1;8.56;40.64;-73.79
+Bangkok - Kuala Lumpur;KUL;BKK;2.8;101.71;13.71;100.77
+Mahe Island - Nairobi;SEZ;NBO;-4.7;55.52;-1.28;36.81
+Atlanta - Orlando;ATL;MCO;42.9;-83.53;28.44;-81.31
+Rio De Janeiro - Santiago;GIG;SCL;-22.8;-43.24;-33.39;-70.79
+San Francisco - Santa Barbara;SFO;SBA;37.6;-122.39;34.43;-119.83
+New York - Taipei;TPE;JFK;25.1;121.24;40.64;-73.79
+Edinburgh - Tokyo;NRT;EDI;51.5;-0.45;55.96;-3.34
+Hanoi - Hong Kong;HAN;HKG;21.2;105.81;22.32;113.94
+Athens - Singapore;ATH;SIN;37.9;23.72;1.34;103.98
+Las Vegas - Manila;MNL;LAS;14.5;121.02;32.02;-87.96
+London - Nice;LHR;NCE;51.5;-0.45;43.67;7.21
+Catania - Milan;LIN;CTA;45.5;9.18;37.51;15.07
+Cairo - Singapore;CAI;SIN;30.1;31.25;1.34;103.98
+Brussels - Los Angeles;BRU;LAX;51.5;-0.45;34.05;-118.24
+Regina - Toronto;YYZ;YQR;43.7;-79.61;50.43;-104.66
+Amsterdam - Geneva;GVA;AMS;46.2;6.11;52.31;4.75
+Los Angeles - New York;JFK;LAX;40.6;-73.79;34.05;-118.24
+Honolulu - Oahu - Seattle;SEA;HNL;39.9;-75.59;21.34;-157.92
+Portland - Seattle;PDX;SEA;45.6;-122.59;39.9;-75.59
+Gaborone - Johannesburg;GBE;JNB;-24.6;25.93;-26.13;28.23
+Frankfurt - Istanbul;IST;FRA;41;28.99;50.05;8.56
+Milan - Moscow;MXP;SVO;45.5;9.18;55.96;37.42
+Beijing - Lanzhou;PEK;LHW;40.1;116.58;36.06;103.76
+Hong Kong - Jakarta;CGK;HKG;-6.1;106.66;22.32;113.94
+Amsterdam - Zurich;AMS;ZRH;52.3;4.75;47.45;8.57
+Edinburgh - Frankfurt;FRA;EDI;51.5;-0.45;55.96;-3.34
+Beijing - Tokyo;HND;PEK;35.6;139.75;40.07;116.58
+Stockholm - Zurich;ARN;ZRH;60.7;15.85;47.45;8.57
+Geneva - Miami;GVA;MIA;40.5;-3.58;33.4;-110.87
+Algiers - London;ALG;LGW;36.7;3.22;51.16;-0.16
+Beirut - Riyadh;BEY;RUH;33.8;35.49;24.94;46.71
+Hanover - Paris;CDG;HAJ;49;2.54;52.46;9.7
+London - San Juan;LHR;SJU;33.4;-110.87;18.44;-66.01
+Abu Dhabi - Cairo;AUH;CAI;24.4;54.64;30.05;31.25
+Belfast-city - East Midlands;BHD;EMA;54.6;-5.87;52.83;-1.33
+Madras - Tokyo;NRT;MAA;1.3;103.98;13.05;80.23
+Frankfurt - Hong Kong;HKG;FRA;22.3;113.94;50.05;8.56
+Denver - San Francisco;DEN;SFO;39.8;-104.86;37.61;-122.39
+Austin - Dallas;AUS;DFW;30.2;-97.67;32.87;-97.04
+Albuquerque - Dallas;DFW;ABQ;32.9;-97.04;35.05;-106.63
+Albuquerque - Denver;ABQ;DEN;35.1;-106.63;39.77;-104.86
+Boston - Washington Dc;BOS;DCA;42.2;-71;38.85;-77.04
+Hanoi - Singapore;SIN;HAN;1.3;103.98;21.23;105.81
+Philadelphia - Tokyo;NRT;PHL;39;-77.45;45.05;-89.01
+Edinburgh - Madrid;EDI;MAD;56;-3.34;40.46;-3.58
+Cedar Rapids/iowa City - Chicago;ORD;CID;41.6;-98.93;35.7;-80.1
+Basel-Mulhouse-Freiburg - London;LCY;BSL;51.5;0.05;47.55;7.59
+Chicago - Santa Ana;SNA;ORD;37.4;-86.16;41.6;-98.93
+Baltimore - Frankfurt;BWI;FRA;43.7;-79.61;50.05;8.56
+Porto - Tokyo;HND;OPO;50.1;8.56;41.24;-8.67
+Frankfurt - Porto;OPO;FRA;41.2;-8.67;50.05;8.56
+Frankfurt - San Francisco;FRA;SFO;50.1;8.56;37.61;-122.39
+Boston - San Diego;BOS;SAN;41.8;-87.74;32.7;-102.18
+London - Malta;MLA;LHR;35.9;14.49;51.47;-0.45
+Bombay - Madrid;MAD;BOM;48.3;11.77;19.09;72.86
+Osaka - Singapore;SIN;KIX;1.3;103.98;34.43;135.24
+Dublin - Frankfurt;DUB;FRA;53.3;-6.25;50.05;8.56
+Chicago - Manchester;MAN;ORD;51.5;-0.45;41.6;-98.93
+Basel-Mulhouse-Freiburg - Frankfurt;BSL;FRA;47.6;7.59;50.05;8.56
+Dubai - Riyadh;RUH;DXB;24.9;46.71;25.25;55.35
+Columbus - London;CMH;LHR;40.7;-74.18;51.47;-0.45
+Delhi - London;LGW;DEL;25.3;55.35;28.66;77.26
+Washington Dc - White Plains;DCA;HPN;38.9;-77.04;41.07;-73.7
+Milan - Paris;ORY;LIN;48.7;2.37;45.47;9.18
+Abu Dhabi - Geneva;GVA;AUH;46.2;6.11;24.42;54.64
+Geneva - Kiev;KBP;GVA;48.3;11.77;46.23;6.11
+Edinburgh - London;LHR;EDI;51.5;-0.45;55.96;-3.34
+West Palm Beach - White Plains;HPN;PBI;41.1;-73.7;26.69;-80.09
+Vancouver - Winnipeg;YWG;YVR;49.9;-97.23;49.19;-123.17
+Johannesburg - Singapore;SIN;JNB;1.3;103.98;-26.13;28.23
+Belfast-city - Isle Of Man;IOM;BHD;54.1;-4.63;54.61;-5.87
+Hong Kong - Washington Dc;HKG;DCA;40.7;-74.18;38.85;-77.04
+Caracas - Miami;MIA;CCS;33.4;-110.87;10.61;-66.99
+Nantucket - New York;ACK;JFK;40.5;-77.06;40.64;-73.79
+Culiacan - Mexico City;MEX;CUL;19.4;-99.16;24.77;-107.47
+Frankfurt - New York;JFK;FRA;40.6;-73.79;50.05;8.56
+Newark - Providence;PVD;EWR;41.7;-71.44;40.69;-74.18
+Ankara-esenboga - Dubai;DXB;ESB;41;28.99;40.11;32.99
+Helsinki - New York;HEL;JFK;60.3;24.97;40.64;-73.79
+Helsinki - San Francisco;SFO;HEL;50.1;8.56;60.31;24.97
+Munich - Stockholm;MUC;ARN;48.3;11.77;60.74;15.85
+Billund - Paris;BLL;CDG;55.8;9.15;49.01;2.54
+Cleveland - Philadelphia;CLE;PHL;45.5;-120.2;45.05;-89.01
+Beijing - Tokyo;PEK;HND;40.1;116.58;35.55;139.75
+Santiago - Sao Paulo;GRU;SCL;-23.4;-46.48;-33.39;-70.79
+Erbil - London;LHR;EBL;48.2;16.37;36.18;44.02
+Boston - Memphis;BOS;MEM;42.2;-71;33.13;-88.31
+Ibiza - Palma ;IBZ;PMI;38.9;1.37;39.54;2.73
+Montevideo - New York;LGA;MVD;33.4;-110.87;-34.83;-56.03
+Mauritius - Paris;MRU;CDG;-20.4;57.68;49.01;2.54
+Chicago - San Diego;ORD;SAN;41.6;-98.93;32.7;-102.18
+Cedar Rapids/iowa City - New York;CID;LGA;41.6;-98.93;40.77;-73.88
+Detroit - Philadelphia;PHL;DTW;45.1;-89.01;37.26;-107.75
+New York - Seoul;ICN;LGA;40.6;-73.79;40.77;-73.88
+New York - Phoenix;PHX;LGA;45.1;-89.01;40.77;-73.88
+Edinburgh - London;LHR;EDI;51.5;-0.45;55.96;-3.34
+Frankfurt - London;LHR;FRA;51.5;-0.45;50.05;8.56
+Las Vegas - Washington Dc;LAS;DCA;32;-87.96;38.85;-77.04
+Austin - Philadelphia;PHL;AUS;35.2;-80.95;30.2;-97.67
+Boise - New York;JFK;BOI;40.8;-111.89;43.57;-116.22
+Minneapolis - Seoul;ICN;MSP;41.6;-98.93;44.88;-93.2
+Amsterdam - Frankfurt;AMS;FRA;52.3;4.75;50.05;8.56
+New York - Sao Paulo;LGA;GRU;33.4;-110.87;-23.42;-46.48
+Bangkok - Beijing;PEK;BKK;40.1;116.58;13.71;100.77
+Atlanta - Seoul;ATL;ICN;42.9;-83.53;37.45;126.66
+Denver - Washington Dc;IAD;DEN;39;-77.45;39.77;-104.86
+Fuzhou - Hong Kong;HKG;FOC;22.3;113.94;26.08;119.28
+Hanover - Tokyo;HAJ;NRT;49;2.54;35.75;140.39
+New York - Warsaw;JFK;WAW;40.6;-73.79;52.17;20.98
+London - Philadelphia;LHR;PHL;51.5;-0.45;45.05;-89.01
+Toronto - Vancouver;YVR;YYZ;49.2;-123.17;43.68;-79.61
+Beijing - Shanghai;PEK;PVG;40.1;116.58;31.12;121.8
+Lisbon - Madrid;MAD;LIS;40.5;-3.58;38.77;-9.13
+Frankfurt - Raleigh/durham;RDU;FRA;39;-77.45;50.05;8.56
+Abuja - Lagos;LOS;ABV;6.6;3.32;9.01;7.27
+New York - Orlando;MCO;LGA;28.4;-81.31;40.77;-73.88
+Miami - Orlando;MIA;MCO;33.4;-110.87;28.44;-81.31
+Chicago - Kansas City;MCI;MDW;39.3;-94.72;41.79;-87.74
+Madrid - Zurich;MAD;ZRH;40.5;-3.58;47.45;8.57
+Amsterdam - London;LCY;AMS;51.5;0.05;52.31;4.75
+Istanbul - London;IST;LGW;41;28.99;51.16;-0.16
+Albuquerque - Dallas;DFW;ABQ;32.9;-97.04;35.05;-106.63
+Dallas - New York;LGA;DFW;40.8;-73.88;32.87;-97.04
+Isle Of Man - London;IOM;LTN;54.1;-4.63;51.88;-0.37
+Brisbane - Melbourne;MEL;BNE;-37.7;144.85;-27.4;153.11
+Philadelphia - Tampa;PHL;TPA;45.1;-89.01;27.97;-82.54
+Beijing - Guangzhou;PEK;CAN;40.1;116.58;23.18;113.26
+New York - Vail/eagle;EGE;JFK;41.3;-85.28;40.64;-73.79
+Beijing - Taipei;PEK;TPE;40.1;116.58;25.08;121.24
+Hong Kong - Shanghai;PVG;HKG;31.1;121.8;22.32;113.94
+Durban - East London;ELS;DUR;-33;27.83;-29.96;30.95
+New York - Toronto;JFK;YYZ;40.6;-73.79;43.68;-79.61
+Amsterdam - Milan;AMS;LIN;52.3;4.75;45.47;9.18
+Belo Horizonte-confins - Sao Paulo;CGH;CNF;-23.6;-46.66;-19.63;-43.96
+Detroit - Seoul;DTW;ICN;37.3;-107.75;37.45;126.66
+Geneva - Larnaca;GVA;LCA;48.2;16.37;34.88;33.63
+Moscow - New York;JFK;DME;51.5;-0.45;55.42;37.9
+Bombay - Delhi;BOM;DEL;19.1;72.86;28.66;77.26
+Bombay - London;BOM;LHR;19.1;72.86;51.47;-0.45
+Seoul - Taipei;TPE;ICN;25.1;121.24;37.45;126.66
+Barcelona - London;LCY;BCN;51.5;0.05;41.3;2.08
+Boston - New York;BOS;LGA;42.2;-71;40.77;-73.88
+Bombay - Calcutta;BOM;CCU;19.1;72.86;22.65;88.44
+Bermuda - London;BDA;LGW;32.4;-64.69;51.16;-0.16
+Delhi - Madras;DEL;MAA;28.7;77.26;13.05;80.23
+Frankfurt - Hamburg;FRA;HAM;50.1;8.56;53.64;10.01
+Brussels - Hamburg;HAM;BRU;53.6;10.01;50.89;4.48
+Nice - Zurich;ZRH;NCE;47.5;8.57;43.67;7.21
+Cuiaba - Sao Paulo;CGH;CGB;-23.6;-46.66;-15.65;-56.12
+Little Rock - Newark;LIT;EWR;33.1;-88.31;40.69;-74.18
+Boston - Paris;CDG;BOS;49;2.54;42.21;-71
+Amsterdam - Zurich;AMS;ZRH;52.3;4.75;47.45;8.57
+Milan - Munich;MUC;MXP;48.3;11.77;45.47;9.18
+Newark - Raleigh/durham;RDU;EWR;35.9;-78.79;40.69;-74.18
+London - Seoul;ICN;LHR;37.5;126.66;51.47;-0.45
+Colombo - Hong Kong;HKG;CMB;22.3;113.94;7.18;79.89
+Birmingham - Newark;EWR;BHM;42.9;-83.53;33.56;-86.75
+Atlanta - Stockholm;ATL;ARN;52.3;4.75;60.74;15.85
+Edinburgh - Johannesburg;EDI;JNB;51.5;-0.45;-26.13;28.23
+Amsterdam - Gothenburg;GOT;AMS;59.6;16.49;52.31;4.75
+Milan - Zurich;ZRH;MXP;47.5;8.57;45.47;9.18
+Frankfurt - Taipei;TPE;FRA;25.1;121.24;50.05;8.56
+Los Angeles - Paris;LAX;CDG;34.1;-118.24;49.01;2.54
+London - New York;JFK;LHR;40.6;-73.79;51.47;-0.45
+Amsterdam - Copenhagen;AMS;CPH;52.3;4.75;55.63;12.64
+Seoul - Tokyo;GMP;HND;37.6;126.79;35.55;139.75
+London - Madrid;STN;MAD;51.9;0.26;40.46;-3.58
+Dallas - Minneapolis;MSP;DFW;44.9;-93.2;32.87;-97.04
+Shenzhen - Taipei;SZX;TPE;22.5;113.97;25.08;121.24
+Abu Dhabi - Kuwait;KWI;AUH;29.3;47.97;24.42;54.64
+Seoul - Taipei;ICN;TPE;37.5;126.66;25.08;121.24
+Honolulu - Oahu - Los Angeles;LAX;HNL;34.1;-118.24;21.34;-157.92
+Chicago - Dallas;ORD;DFW;41.6;-98.93;32.87;-97.04
+Paris - Tokyo;CDG;NRT;49;2.54;35.75;140.39
+Berlin - London;LHR;TXL;51.5;-0.45;52.55;13.29
+Aswan - Cairo;ASW;CAI;24.1;32.9;30.05;31.25
+Bermuda - London;LGW;BDA;51.2;-0.16;32.37;-64.69
+Cape Town - Singapore;CPT;SIN;-34;18.59;1.34;103.98
+Melbourne - Singapore;SIN;MEL;1.3;103.98;-37.67;144.85
+Manchester - Paris;MAN;CDG;53.4;0.1;49.01;2.54
+Shanghai - Taipei;TSA;SHA;25.1;121.55;31.19;121.34
+Osaka - Rome;FCO;KIX;41.9;12.5;34.43;135.24
+Boston - Salt Lake City;BOS;SLC;42.2;-71;40.76;-111.89
+Los Angeles - Sydney;LAX;SYD;34.1;-118.24;-33.92;151.23
+Inverness - London;LGW;INV;51.2;-0.16;57.54;-4.06
+Hong Kong - Osaka;HKG;KIX;22.3;113.94;34.43;135.24
+Bangalore - Madras;BLR;MAA;12.8;77.65;13.05;80.23
+Seoul - Tokyo;GMP;HND;37.6;126.79;35.55;139.75
+Minneapolis - Washington Dc;MSP;DCA;44.9;-93.2;38.85;-77.04
+Paris - Rome;CDG;FCO;49;2.54;41.9;12.5
+Lagos - Manchester;LOS;MAN;51.5;-0.45;53.37;0.1
+New York - Rome;JFK;FCO;40.6;-73.79;41.9;12.5
+Osaka - Seattle;KIX;SEA;34.4;135.24;39.9;-75.59
+Doha - Hong Kong;HKG;DOH;22.3;113.94;25.27;51.56
+Cape Town - Doha;DOH;CPT;25.3;51.56;-33.97;18.59
+Hong Kong - Singapore;HKG;SIN;22.3;113.94;1.34;103.98
+Detroit - London;LHR;DTW;51.5;-0.45;37.26;-107.75
+Chicago - Frankfurt;ORD;FRA;41.6;-98.93;50.05;8.56
+Billund - Copenhagen;BLL;CPH;55.8;9.15;55.63;12.64
+Berne - London;LCY;BRN;51.5;0.05;46.91;7.5
+Hamburg - Manchester;MAN;HAM;53.4;0.1;53.64;10.01
+Boston - London;LHR;BOS;51.5;-0.45;42.21;-71
+Johannesburg - Phalaborwa;JNB;PHW;-26.1;28.23;-23.94;31.15
+Milan - Stuttgart;STR;MXP;54.4;13.52;45.47;9.18
+Los Angeles - Turin;TRN;LAX;49;2.54;34.05;-118.24
+Hamburg - Newark;HAM;EWR;53.6;10.01;40.69;-74.18
+Amsterdam - Frankfurt;AMS;FRA;52.3;4.75;50.05;8.56
+Houston - Seoul;ICN;IAH;35.8;140.39;29.98;-95.34
+Houston - Tokyo;IAH;NRT;30;-95.34;35.75;140.39
+Johannesburg - Nairobi;NBO;JNB;-1.3;36.81;-26.13;28.23
+Kuwait - London;LHR;KWI;51.5;-0.45;29.25;47.97
+Austin - London;LHR;AUS;32.9;-97.04;30.2;-97.67
+Bristol - Leeds/bradford;BRS;LBA;51.4;-2.71;53.87;-1.66
+Sydney - Wellington;SYD;WLG;-33.9;151.23;-41.33;174.81
+Boston - Pittsburgh;PIT;BOS;48.7;-94.74;42.21;-71
+Charlotte - Dallas;CLT;DFW;35.2;-80.95;32.87;-97.04
+London - Vienna;LHR;VIE;51.5;-0.45;48.2;16.37
+Kuala Lumpur - Tokyo;NRT;KUL;35.8;140.39;2.76;101.71
+Bangkok - Tokyo;BKK;HND;13.7;100.77;35.55;139.75
+Frankfurt - Stockholm;FRA;ARN;50.1;8.56;60.74;15.85
+Paris - Rome;CDG;FCO;49;2.54;41.9;12.5
+Dubai - Melbourne;MEL;DXB;-37.7;144.85;25.25;55.35
+Dubai - Sydney;DXB;SYD;25.3;55.35;-33.92;151.23
+Bogota - Buenos Aires;EZE;BOG;-12;-77.11;4.7;-74.14
+Ft. Lauderdale - White Plains;HPN;FLL;41.1;-73.7;26.07;-80.13
+Chicago - Hartford/springfield;ORD;BDL;41.6;-98.93;41.93;-72.68
+Amsterdam - Sao Paulo;GRU;AMS;49;2.54;52.31;4.75
+Los Angeles - New York;JFK;LAX;40.6;-73.79;34.05;-118.24
+Lisbon - London;LIS;LHR;38.8;-9.13;51.47;-0.45
+Kuala Lumpur - Tokyo;KUL;NRT;2.8;101.71;35.75;140.39
+Dubai - Entebbe/kampala;DXB;EBB;25.3;51.56;0.04;32.44
+Dubai - Los Angeles;LAX;DXB;34.1;-118.24;25.25;55.35
+Kuala Lumpur - Seoul;KUL;ICN;1.3;103.98;37.45;126.66
+London - Lugano;LUG;LHR;47.5;8.57;51.47;-0.45
+Entebbe/kampala - Mombasa;EBB;MBA;-1.3;36.81;-4;39.72
+London - Oslo;LHR;OSL;51.5;-0.45;59.91;10.75
+Bombay - Zurich;ZRH;BOM;47.5;8.57;19.09;72.86
+London - Rome;LHR;FCO;51.5;-0.45;41.9;12.5
+Doha - Paris;CDG;DOH;49;2.54;25.27;51.56
+Hong Kong - London;HKG;LHR;22.3;113.94;51.47;-0.45
+Newark - Seattle;SEA;EWR;39.9;-75.59;40.69;-74.18
+Amsterdam - Prague;PRG;AMS;50.1;14.43;52.31;4.75
+Beijing - Hangzhou;PEK;HGH;40.1;116.58;30.33;120.23
+London - New York;JFK;LHR;40.6;-73.79;51.47;-0.45
+Boston - London;LHR;BOS;51.5;-0.45;42.21;-71
+Denver - Seoul;DEN;ICN;34.1;-118.24;37.45;126.66
+Bombay - Tokyo;NRT;BOM;35.8;140.39;19.09;72.86
+Beijing - Shenyang;PEK;SHE;40.1;116.58;41.79;123.53
+Chicago - Seattle;ORD;SEA;41.6;-98.93;39.9;-75.59
+Bangalore - Delhi;BLR;DEL;12.8;77.65;28.66;77.26
+Delhi - Poona;PNQ;DEL;18.6;73.91;28.66;77.26
+Accra - Mauritius;ACC;MRU;25.3;55.35;-20.43;57.68
+Dubai - Mauritius;MRU;DXB;-20.4;57.68;25.25;55.35
+Dallas - Miami;DFW;MIA;32.9;-97.04;33.4;-110.87
+Beijing - Houston;PEK;IAH;37.6;-122.39;29.98;-95.34
+Mahe Island - Nairobi;NBO;SEZ;-1.3;36.81;-4.68;55.52
+London - Verona;VRN;LGW;45.4;10.99;51.16;-0.16
+San Francisco - Vilnius;VNO;SFO;50.1;8.56;37.61;-122.39
+Boston - Las Vegas;LAS;BOS;44.9;-93.2;42.21;-71
+Geneva - Zurich;ZRH;GVA;47.5;8.57;46.23;6.11
+Alma Ata - Tselinograd;ALA;TSE;43.4;77.03;51.03;71.48
+Athens - Rome;FCO;ATH;41.9;12.5;37.89;23.72
+Cairo - Riyadh;RUH;CAI;24.9;46.71;30.05;31.25
+Newark - Tokyo;NRT;EWR;35.8;140.39;40.69;-74.18
+Detroit - Los Angeles;DTW;LAX;37.3;-107.75;34.05;-118.24
+Calcutta - Delhi;CCU;DEL;22.7;88.44;28.66;77.26
+Amsterdam - Edinburgh;EDI;AMS;56;-3.34;52.31;4.75
+Monroe - New York;LGA;MLU;30;-95.34;32.51;-92.04
+Boston - Manchester;MAN;BOS;51.5;-0.45;42.21;-71
+Frankfurt - Salzburg;FRA;SZG;50.1;8.56;47.79;13
+Milan - Rio De Janeiro;LIN;GIG;41.9;12.5;-22.81;-43.24
+Guam - Seattle;SEA;GUM;35.8;140.39;13.48;144.75
+Frankfurt - Zurich;ZRH;FRA;47.5;8.57;50.05;8.56
+Dublin - Frankfurt;DUB;FRA;53.3;-6.25;50.05;8.56
+Dublin - London;LHR;DUB;51.5;-0.45;53.34;-6.25
+Lagos - London;LOS;LHR;6.6;3.32;51.47;-0.45
+Baltimore - San Francisco;BWI;SFO;33.4;-112.03;37.61;-122.39
+Atlanta - Memphis;MEM;ATL;33.1;-88.31;42.94;-83.53
+Copenhagen - Frankfurt;FRA;CPH;50.1;8.56;55.63;12.64
+Boston - Columbus;BOS;CMH;42.2;-71;40;-82.89
+Sydney - Wellington;SYD;WLG;-33.9;151.23;-41.33;174.81
+Baltimore - Chicago;ORD;BWI;41.6;-98.93;39.18;-76.67
+San Francisco - Sydney;SFO;SYD;37.6;-122.39;-33.92;151.23
+Miami - San Francisco;MIA;SFO;30;-95.34;37.61;-122.39
+Shanghai - Washington Dc;DCA;PVG;40.7;-74.18;31.12;121.8
+Athens - Dubai;ATH;DXB;37.9;23.72;25.25;55.35
+Los Angeles - Shanghai;PVG;LAX;31.1;121.8;34.05;-118.24
+Boston - Hong Kong;HKG;BOS;41.6;-98.93;42.21;-71
+Amsterdam - Munich;MUC;AMS;48.3;11.77;52.31;4.75
+Singapore - Sydney;SIN;SYD;1.3;103.98;-33.92;151.23
+Doha - Paris;CDG;DOH;49;2.54;25.27;51.56
+Newark - Vilnius;EWR;VNO;50.1;8.56;54.64;25.28
+Madrid - Newark;EWR;MAD;40.7;-74.18;40.46;-3.58
+Dallas - Denver;DFW;DEN;32.9;-97.04;39.77;-104.86
+Newark - Singapore;EWR;SIN;40.7;-74.18;1.34;103.98
+Cairo - Dar Es Salaam;CAI;DAR;30.1;31.25;-6.88;39.2
+Denpasar Bali - Singapore;SIN;DPS;1.3;103.98;-8.74;115.17
+New York - Oslo;OSL;JFK;51.5;-0.45;40.64;-73.79
+Geneva - Istanbul;IST;GVA;41;28.99;46.23;6.11
+Edinburgh - London;LCY;EDI;51.5;0.05;55.96;-3.34
+Stockholm - Zurich;ARN;ZRH;60.7;15.85;47.45;8.57
+Lisbon - Madrid;MAD;LIS;40.5;-3.58;38.77;-9.13
+New York - Tampa;JFK;TPA;40.6;-73.79;27.97;-82.54
+Prague - Sofia;PRG;SOF;48.2;16.37;42.69;23.4
+Frankfurt - Paris;FRA;CDG;50.1;8.56;49.01;2.54
+Paris - Stockholm;CDG;ARN;49;2.54;60.74;15.85
+Seoul - Stockholm;ARN;ICN;51.5;-0.45;37.45;126.66
+Frankfurt - Seoul;ICN;FRA;37.5;126.66;50.05;8.56
+Moscow - New York;JFK;DME;47.5;8.57;55.42;37.9
+Bombay - Boston;BOM;BOS;51.5;-0.45;42.21;-71
+Dubai - Dublin;DXB;DUB;25.3;55.35;53.34;-6.25
+Boston - Los Angeles;BOS;LAX;42.2;-71;34.05;-118.24
+New York - Roanoke;LGA;ROA;40.8;-73.88;28.55;-81.68
+Bombay - Poona;PNQ;BOM;18.6;73.91;19.09;72.86
+Lagos - Nairobi;NBO;LOS;-1.3;36.81;6.58;3.32
+Chongqing - Shanghai;PVG;CKG;31.1;121.8;29.58;106.5
+Newark - Toronto;EWR;YYZ;40.7;-74.18;43.68;-79.61
+Albuquerque - Kansas City;MCI;ABQ;32.9;-97.04;35.05;-106.63
+Accra - Lusaka;ACC;LUN;-1.3;36.81;-15.33;28.45
+New York - New York;JFK;LGA;33.4;-110.87;40.77;-73.88
+Monte Carlo - Nice;NCE;MCM;43.7;7.21;43.73;7.42
+Paris - Toulouse;TLS;CDG;43.6;1.38;49.01;2.54
+Des Moines - Phoenix;DSM;PHX;41.5;-93.65;33.44;-112.03
+Madrid - Santiago;SCL;MAD;-33.4;-70.79;40.46;-3.58
+Seoul - Zurich;ICN;ZRH;50.1;8.56;47.45;8.57
+Albuquerque - San Francisco;SFO;ABQ;37.6;-122.39;35.05;-106.63
+Amsterdam - Edinburgh;AMS;EDI;52.3;4.75;55.96;-3.34
+New York - Zurich;ZRH;JFK;47.5;8.57;40.64;-73.79
+Takamatsu - Tokyo;HND;TAK;35.6;139.75;34.21;134.02
+Ankara-esenboga - London;ESB;LHR;41;28.99;51.47;-0.45
+Hyderabad - Madras;HYD;MAA;17.5;78.46;13.05;80.23
+Kuala Lumpur - Singapore;KUL;SIN;2.8;101.71;1.34;103.98
+Mexico City - Miami;MIA;MEX;33.4;-110.87;19.43;-99.16
+Bombay - Frankfurt;FRA;BOM;50.1;8.56;19.09;72.86
+Mexico City - Paris;CDG;MEX;51.5;-0.45;19.43;-99.16
+Frankfurt - San Francisco;SFO;FRA;37.6;-122.39;50.05;8.56
+Hilton Head Island - Munich;MUC;HHH;35.2;-80.95;32.23;-80.7
+Jacksonville - Philadelphia;PHL;JAX;45.1;-89.01;33.81;-85.76
+Helsinki - San Francisco;HEL;SFO;51.5;-0.45;37.61;-122.39
+Hong Kong - Melbourne;HKG;MEL;22.3;113.94;-37.67;144.85
+Bombay - Jakarta;CGK;BOM;1.3;103.98;19.09;72.86
+Toronto - Victoria;YYZ;YYJ;43.7;-79.61;48.64;-123.43
+Chicago - West Palm Beach;ORD;PBI;41.6;-98.93;26.69;-80.09
+Toronto - Zurich;ZRH;YYZ;50.1;8.56;43.68;-79.61
+Isle Of Man - London;IOM;LGW;54.1;-4.63;51.16;-0.16
+London - Mauritius;LGW;MRU;51.2;-0.16;-20.43;57.68
+Bozeman - New York;BZN;LGA;44.9;-93.2;40.77;-73.88
+Santiago - Sao Paulo;SCL;GRU;-33.4;-70.79;-23.42;-46.48
+London - Maputo;MPM;LHR;38.8;-9.13;51.47;-0.45
+Charlotte - Montgomery;MGM;CLT;32.3;-86.39;35.22;-80.95
+El Paso - New York;LGA;ELP;32.9;-97.04;43.28;-75.82
+Lebanon - White Plains;LEB;HPN;43.6;-72.31;41.07;-73.7
+San Francisco - Seoul;SFO;ICN;37.6;-122.39;37.45;126.66
+Amsterdam - Stockholm;ARN;AMS;60.7;15.85;52.31;4.75
+Dubai - Istanbul;IST;DXB;41;28.99;25.25;55.35
+London - Vienna;LHR;VIE;51.5;-0.45;48.2;16.37
+Las Vegas - Miami;LAS;MIA;32;-87.96;33.4;-110.87
+Belo Horizonte-confins - New York;JFK;CNF;-23.4;-46.48;-19.63;-43.96
+Bangalore - Newark;EWR;BLR;50.1;8.56;12.8;77.65
+Kuala Lumpur - Taipei;KUL;TPE;2.8;101.71;25.08;121.24
+Johannesburg - London;LHR;JNB;51.5;-0.45;-26.13;28.23
+Istanbul - Singapore;IST;SIN;41;28.99;1.34;103.98
+Maputo - Tete;MPM;TET;-25.9;32.57;-16.14;33.51
+Kuala Lumpur - Singapore;KUL;SIN;2.8;101.71;1.34;103.98
+Gran Canaria - Canary Isl - Tenerife ;TCI;LPA;35.7;-6.92;27.94;-15.39
+Houston - New York;IAH;LGA;30;-95.34;40.77;-73.88
+Los Angeles - Toronto;YYZ;LAX;43.7;-79.61;34.05;-118.24
+Ottawa - Toronto;YOW;YYZ;45.3;-75.67;43.68;-79.61
+London - Naples;NAP;LGW;40.8;14.25;51.16;-0.16
+Durango - Houston;DRO;IAH;39.8;-104.86;29.98;-95.34
+Miami - Panama City;MIA;PTY;33.4;-110.87;9.07;-79.38
+Dubai - Lahore;LHE;DXB;31.5;74.39;25.25;55.35
+Brussels - Frankfurt;BRU;FRA;50.9;4.48;50.05;8.56
+Houston - Tokyo;NRT;IAH;35.8;140.39;29.98;-95.34
+Frankfurt - Sydney;FRA;SYD;1.3;103.98;-33.92;151.23
+Munich - Seoul;ICN;MUC;37.5;126.66;48.34;11.77
+Geneva - Riyadh;GVA;RUH;46.2;6.11;24.94;46.71
+San Francisco - Tokyo;SFO;NRT;37.6;-122.39;35.75;140.39
+Athens - Toronto;YYZ;ATH;50.1;8.56;37.89;23.72
+Barcelona - Geneva;GVA;BCN;46.2;6.11;41.3;2.08
+Gloucester - Isle Of Man;IOM;GLO;54.1;-4.63;60.72;-1.07
+Calgary - Seoul;ICN;YYC;49.2;-123.17;51.13;-114.01
+London - Paris;LHR;CDG;51.5;-0.45;49.01;2.54
+Bombay - Delhi;DEL;BOM;28.7;77.26;19.09;72.86
+Beijing - Chongqing;CKG;PEK;29.6;106.5;40.07;116.58
+Gothenburg - Singapore;SIN;GOT;50.1;8.56;59.56;16.49
+Bombay - Manchester;BOM;MAN;25.3;55.35;53.37;0.1
+Birmingham - Paris;BHX;CDG;52.5;-1.73;49.01;2.54
+Boston - Frankfurt;FRA;BOS;50.1;8.56;42.21;-71
+Hong Kong - Las Vegas;LAS;HKG;34.1;-118.24;22.32;113.94
+Copenhagen - Zurich;CPH;ZRH;55.6;12.64;47.45;8.57
+Frankfurt - Rome;FRA;FCO;50.1;8.56;41.9;12.5
+Bangalore - Bombay;BLR;BOM;12.8;77.65;19.09;72.86
+Milan - Zurich;MXP;ZRH;45.5;9.18;47.45;8.57
+Calgary - Frankfurt;YYC;FRA;51.1;-114.01;50.05;8.56
+New York - Tokyo;HND;JFK;35.6;139.75;40.64;-73.79
+Johannesburg - Prague;PRG;JNB;25.3;55.35;-26.13;28.23
+Bangkok - London;BKK;LHR;13.7;100.77;51.47;-0.45
+Dar Es Salaam - Johannesburg;JNB;DAR;-26.1;28.23;-6.88;39.2
+New York - Vancouver;JFK;YVR;40.6;-73.79;49.19;-123.17
+Madrid - Philadelphia;MAD;PHL;40.5;-3.58;45.05;-89.01
+Boston - Montreal;YUL;BOS;45.5;-73.75;42.21;-71
+Atlanta - Montgomery;ATL;MGM;42.9;-83.53;32.3;-86.39
+London - Paris;ORY;LHR;48.7;2.37;51.47;-0.45
+London - Mahe Island;LGW;SEZ;25.3;55.35;-4.68;55.52
+Newark - Vancouver;EWR;YVR;40.7;-74.18;49.19;-123.17
+Hyderabad - Manchester;MAN;HYD;25.3;55.35;17.45;78.46
+Brasilia - Sao Paulo;CGH;BSB;-23.6;-46.66;-15.86;-47.91
+Mexico City - New York;JFK;MEX;40.6;-73.79;19.43;-99.16
+Beijing - Hong Kong;HKG;PEK;22.3;113.94;40.07;116.58
+Shanghai - Taipei;PVG;TPE;31.1;121.8;25.08;121.24
+Hong Kong - Manila;MNL;HKG;14.5;121.02;22.32;113.94
+Frankfurt - Manila;FRA;MNL;13.7;100.77;14.51;121.02
+Eldoret - Nairobi;EDL;NBO;0.5;35.28;-1.28;36.81
+London - Madrid;LHR;MAD;51.5;-0.45;40.46;-3.58
+Hong Kong - Sydney;SYD;HKG;-33.9;151.23;22.32;113.94
+Bogota - New York;BOG;JFK;4.7;-74.14;40.64;-73.79
+Detroit - Manila;DTW;MNL;35.8;140.39;14.51;121.02
+Boston - Detroit;DTW;BOS;37.3;-107.75;42.21;-71
+Seoul - Toronto;ICN;YYZ;49.2;-123.17;43.68;-79.61
+Rio De Janeiro - Sao Paulo;CGH;SDU;-23.6;-46.66;-22.91;-43.17
+London - Singapore;LHR;SIN;51.5;-0.45;1.34;103.98
+Dallas - New York;DFW;LGA;32.9;-97.04;40.77;-73.88
+Bombay - Newark;BOM;EWR;19.1;72.86;40.69;-74.18
+Los Angeles - Phoenix;PHX;LAX;33.4;-112.03;34.05;-118.24
+Melbourne - Singapore;MEL;SIN;-37.7;144.85;1.34;103.98
+Hong Kong - Houston;IAH;HKG;34.1;-118.24;22.32;113.94
+Houston - Los Angeles;LAX;IAH;34.1;-118.24;29.98;-95.34
+Cincinnati - New York;CVG;JFK;39.1;-84.66;40.64;-73.79
+Frankfurt - Graz;FRA;GRZ;50.1;8.56;47;15.45
+Hong Kong - Nairobi;HKG;NBO;22.3;113.94;-1.28;36.81
+Delhi - Poona;DEL;PNQ;28.7;77.26;18.58;73.91
+Rome - Turin;TRN;FCO;45.1;7.7;41.9;12.5
+Hong Kong - Madras;HKG;MAA;22.3;113.94;13.05;80.23
+Monterrey - Newark;MTY;EWR;30;-95.34;40.69;-74.18
+Charlottesville - Houston;IAH;CHO;35.2;-80.95;37.23;-88.81
+Atlanta - Ft. Lauderdale;ATL;FLL;42.9;-83.53;26.07;-80.13
+Amsterdam - Madrid;MAD;AMS;40.5;-3.58;52.31;4.75
+Oakland - San Diego;OAK;SAN;40.2;-97.9;32.7;-102.18
+Dallas - Phoenix;DFW;PHX;32.9;-97.04;33.44;-112.03
+Denver - Seattle;DEN;SEA;39.8;-104.86;39.9;-75.59
+New York - Port Of Spain;POS;JFK;10.6;-61.34;40.64;-73.79
+Boston - Hong Kong;HKG;BOS;37.6;-122.39;42.21;-71
+Hong Kong - Tokyo;NRT;HKG;35.8;140.39;22.32;113.94
+Doha - Durban;DOH;DUR;-26.1;28.23;-29.96;30.95
+Bangkok - Bombay;BKK;BOM;13.7;100.77;19.09;72.86
+London - Reykjavik;KEF;LHR;64;-22.61;51.47;-0.45
+Cape Town - Johannesburg;JNB;CPT;-26.1;28.23;-33.97;18.59
+Houston - Zurich;IAH;ZRH;40.7;-74.18;47.45;8.57
+Frankfurt - Paris;FRA;CDG;50.1;8.56;49.01;2.54
+Amsterdam - Stockholm;AMS;ARN;52.3;4.75;60.74;15.85
+Calgary - London;LHR;YYC;51.5;-0.45;51.13;-114.01
+Calgary - Vancouver;YYC;YVR;51.1;-114.01;49.19;-123.17
+Seoul - Vancouver;YVR;ICN;49.2;-123.17;37.45;126.66
+Amsterdam - Detroit;DTW;AMS;37.3;-107.75;52.31;4.75
+Dubai - London;DXB;LHR;25.3;55.35;51.47;-0.45
+Houston - New York;LGA;IAH;40.8;-73.88;29.98;-95.34
+Los Angeles - Salt Lake City;LAX;SLC;34.1;-118.24;40.76;-111.89
+Charlotte - Houston;IAH;CLT;30;-95.34;35.22;-80.95
+Dallas - Salt Lake City;SLC;DFW;40.8;-111.89;32.87;-97.04
+Chicago - Tokyo;ORD;HND;34.1;-118.24;35.55;139.75
+Moscow - Nice;SVO;NCE;56;37.42;43.67;7.21
+New York - Newark;LGA;EWR;41.6;-98.93;40.69;-74.18
+Calcutta - Dubai;CCU;DXB;22.7;88.44;25.25;55.35
+Brussels - New York;BRU;JFK;50.9;4.48;40.64;-73.79
+New York - Tokyo;LGA;NRT;43.7;-79.61;35.75;140.39
+Chicago - Quebec;ORD;YQB;41.6;-98.93;46.79;-71.38
+Houston - Quebec;YQB;IAH;41.6;-98.93;29.98;-95.34
+London - Newark;EWR;LHR;40.7;-74.18;51.47;-0.45
+London - Riyadh;LHR;RUH;51.5;-0.45;24.94;46.71
+Gaborone - Johannesburg;GBE;JNB;-24.6;25.93;-26.13;28.23
+Harare - Nairobi;NBO;HRE;-1.3;36.81;-17.92;31.1
+Orlando-intl - Philadelphia;PHL;MCO;45.1;-89.01;28.44;-81.31
+Amsterdam - Boston;BOS;AMS;42.2;-71;52.31;4.75
+Miami - Zurich;ZRH;MIA;47.5;8.57;33.4;-110.87
+London - Milan;LCY;LIN;51.5;0.05;45.47;9.18
+Perth - Sydney;SYD;PER;-33.9;151.23;-31.94;115.97
+Beirut - Doha;DOH;BEY;25.3;51.56;33.82;35.49
+Chicago - New Orleans;ORD;MSY;41.6;-98.93;29.98;-90.26
+Miami - New Orleans;MSY;MIA;30;-90.26;33.4;-110.87
+Bombay - Dubai;BOM;DXB;19.1;72.86;25.25;55.35
+San Francisco - Seoul;ICN;SFO;37.5;126.66;37.61;-122.39
+Charlotte - White Plains;CLT;HPN;35.2;-80.95;41.07;-73.7
+Athens - Larnaca;ATH;LCA;37.9;23.72;34.88;33.63
+Amsterdam - Vienna;VIE;AMS;48.2;16.37;52.31;4.75
+London - New York;JFK;LHR;40.6;-73.79;51.47;-0.45
+Stockholm - Zurich;ZRH;ARN;47.5;8.57;60.74;15.85
+Copenhagen - Frankfurt;CPH;FRA;55.6;12.64;50.05;8.56
+Madrid - Paris;MAD;CDG;40.5;-3.58;49.01;2.54
+London - Lyon;LHR;LYS;51.5;-0.45;43.13;-0.35
+Shenzhen - Tsinan;TNA;SZX;36.7;116.97;22.53;113.97
+Hong Kong - Singapore;HKG;SIN;22.3;113.94;1.34;103.98
+Bogota - Santiago;SCL;BOG;-33.4;-70.79;4.7;-74.14
+Bilbao - Santiago De Compostela;SCQ;BIO;42.9;-8.42;43.31;-2.91
+New York - Saginaw;LGA;MBS;37.3;-107.75;43.53;-84.09
+Gaborone - London;LHR;GBE;-26.1;28.23;-24.56;25.93
+Seoul - Tokyo;HND;GMP;35.6;139.75;37.56;126.79
+Johannesburg - Windhoek;WDH;JNB;-22.5;17.47;-26.13;28.23
+Green Bay - Philadelphia;PHL;GRB;37.3;-107.75;44.49;-88.13
+Madras - Rome;FCO;MAA;25.3;55.35;13.05;80.23
+Brussels - London;LHR;BRU;51.5;-0.45;50.89;4.48
+Geneva - Moscow;GVA;DME;46.2;6.11;55.42;37.9
+Beijing - Shenzhen;PEK;SZX;40.1;116.58;22.53;113.97
+London - Vilnius;LGW;VNO;56.9;23.98;54.64;25.28
+Accra - Gaborone;ACC;GBE;-1.3;36.81;-24.56;25.93
+Dubai - Isle Of Man;IOM;DXB;52.5;-1.73;25.25;55.35
+Jeddah - Riyadh;RUH;JED;24.9;46.71;21.67;39.15
+London - Wellington;LHR;WLG;-37.7;144.85;-41.33;174.81
+Guernsey -channel Isl. - Southampton;SOU;GCI;51;-1.36;49.43;-2.6
+Amsterdam - Zurich;AMS;ZRH;52.3;4.75;47.45;8.57
+Gaborone - Singapore;GBE;SIN;-26.1;28.23;1.34;103.98
+Geneva - Zurich;GVA;ZRH;46.2;6.11;47.45;8.57
+Montreal - Newark;EWR;YUL;40.7;-74.18;45.46;-73.75
+Denver - Oakland;OAK;DEN;40.2;-97.9;39.77;-104.86
+Atlanta - Johannesburg;JNB;ATL;-26.1;28.23;42.94;-83.53
+Atlanta - Las Vegas;ATL;LAS;42.9;-83.53;32.02;-87.96
+Lima - Madrid;MAD;LIM;40.5;-3.58;-12.02;-77.11
+Colombo - Dubai;DXB;CMB;25.3;55.35;7.18;79.89
+Dallas - Raleigh/durham;DFW;RDU;32.9;-97.04;35.87;-78.79
+Copenhagen - Zurich;CPH;ZRH;55.6;12.64;47.45;8.57
+Gothenburg - Stockholm;ARN;GOT;60.7;15.85;59.56;16.49
+Fresno - Hong Kong;HKG;FAT;34.1;-118.24;32.94;-96.38
+Dubai - Jeddah;JED;DXB;21.7;39.15;25.25;55.35
+Lima - Sao Paulo;LIM;GRU;-12;-77.11;-23.42;-46.48
+Dubai - Shanghai;DXB;PVG;25.3;55.35;31.12;121.8
+Cape Town - Dubai;CPT;DXB;-34;18.59;25.25;55.35
+Cape Town - Hong Kong;HKG;CPT;-26.1;28.23;-33.97;18.59
+Seoul - Shanghai;SHA;GMP;31.2;121.34;37.56;126.79
+Frankfurt - Vilnius;VNO;FRA;54.6;25.28;50.05;8.56
+Paris - Riyadh;RUH;CDG;24.9;46.71;49.01;2.54
+Chicago - Newark;ORD;EWR;41.6;-98.93;40.69;-74.18
+London - Rome;FCO;LGW;41.9;12.5;51.16;-0.16
+Johannesburg - Maputo;MPM;JNB;-25.9;32.57;-26.13;28.23
+Dubai - San Francisco;DXB;SFO;25.3;55.35;37.61;-122.39
+Dubai - New York;JFK;DXB;40.6;-73.79;25.25;55.35
+Atlanta - Seoul;ATL;ICN;42.9;-83.53;37.45;126.66
+Lexington - New York;LEX;LGA;37.3;-107.75;40.77;-73.88
+Los Angeles - New York;LAX;JFK;34.1;-118.24;40.64;-73.79
+Johannesburg - Singapore;JNB;SIN;-26.1;28.23;1.34;103.98
+Frankfurt - Oslo;OSL;FRA;59.9;10.75;50.05;8.56
+Oslo - Stockholm;ARN;OSL;55.6;12.64;59.91;10.75
+London - Stockholm;ARN;LHR;60.7;15.85;51.47;-0.45
+Austin - Dallas;DFW;AUS;32.9;-97.04;30.2;-97.67
+New York - Tel Aviv;JFK;TLV;51.5;-0.45;32.01;34.89
+Boston - Toronto;YYZ;BOS;43.7;-79.61;42.21;-71
+New York - Toronto;LGA;YYZ;40.8;-73.88;43.68;-79.61
+Newark - Vail/eagle;EGE;EWR;41.3;-85.28;40.69;-74.18
+Isle Of Man - Southampton;SOU;IOM;51;-1.36;54.09;-4.63
+Ottawa - Toronto;YYZ;YOW;43.7;-79.61;45.32;-75.67
+Frankfurt - Helsinki;HEL;FRA;60.3;24.97;50.05;8.56
